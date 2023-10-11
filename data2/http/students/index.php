@@ -1,0 +1,1 @@
+health and safety protocols get the latest health advisories about covid-19 vaccination requirements, campus population plans, and safety protocols. covid-19 information contact student services get in touch with a student services department via phone, email or livechat. canvas login to the canvas learning environment. one.sjsu login to your one.sjsu account. 

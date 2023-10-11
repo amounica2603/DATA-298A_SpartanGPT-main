@@ -1,0 +1,285 @@
+Question: When was san jose state university's privacy notice last updated?
+Answer: november 30, 2022
+
+Question: What does this notice describe?
+Answer: how this information is collected, processed, maintained, protected, and disclosed
+
+Question: Who is the data controller for all information collected under this notice?
+Answer: california state university
+
+Question: Who does this notice not apply to?
+Answer: current or former employees, contractors, volunteers, and other workers at sjsu
+
+Question: Why do you need to read this notice?
+Answer: to understand our policies and practices regarding your information
+
+Question: What is the term used to describe any information that identifies or describes an individual user of the sites?
+Answer: "personal information"
+
+Question: What is provided enhanced protections under eea laws?
+Answer: "sensitive personal information"
+
+Question: Why do we collect personal information?
+Answer: for purposes relevant to csu operations
+
+Question: What is an example of financial aid information?
+Answer: information needed for student admission
+
+Question: What is the legal basis for processing most of this information?
+Answer: to perform a task in the public interest
+
+Question: What is another legal basis for processing information?
+Answer: legitimate interests
+
+Question: What type of personal information may you provide?
+Answer: contact information
+
+Question: What type of area of interest is it?
+Answer: academic
+
+Question: What is a medical record number?
+Answer: health record information
+
+Question: What type of information do we collect about you?
+Answer: profile information
+
+Question: What act does the university's information management practices conform to?
+Answer: information practices act of 1977
+
+Question: How many g are in g?
+Answer: 1232
+
+Question: What are the other applicable laws pertaining to?
+Answer: information privacy
+
+Question: What laws will control in the event of a conflict between this notice and other laws governing the disclosure of university records?
+Answer: public records act, the information practices act, ferpa, or other law
+
+Question: What does the university not do with electronically collected personal information?
+Answer: the university will not distribute or share electronically collected personal information (as defined in subdivision (d) of california government code section 11015.5) about users
+
+Question: What does the university not sell to any third party?
+Answer: the university will not sell any electronically collected personal information
+
+Question: What act exempts electronically-collected personal information from requests?
+Answer: california public records act
+
+Question: What do we do to monitor the effectiveness of our sites and services?
+Answer: (b) monitor the effectiveness of our sites and services
+
+Question: What do you monitor to see the total number of visitors and traffic?
+Answer: aggregate metrics
+
+Question: What is an example of an isp?
+Answer: ip addresses controlled by a specific web company
+
+Question: Where is your personal information processed?
+Answer: servers within the united states
+
+Question: What will happen to your privacy?
+Answer: all reasonable steps will be taken to protect your privacy in accordance with applicable data protection laws.
+
+Question: What type of content includes comments, photos, videos, etc?
+Answer: user content
+
+Question: What happens if you remove user content?
+Answer: copies may remain viewable in cached and archived pages or if other users have copied or stored your user content.
+
+Question: What do we send to your computer when you visit the sites?
+Answer: one or more cookies a small text file containing a string of alphanumeric characters
+
+Question: What does a cookie not collect about you?
+Answer: personal information
+
+Question: Along with persistent cookies, what type of cookies do we use?
+Answer: session cookies
+
+Question: What type of cookie remains on your hard drive after you close your browser?
+Answer: persistent cookie
+
+Question: What type of cookies may be used by your browser on subsequent visits to sites?
+Answer: persistent cookies
+
+Question: What can be removed by following your browser's directions?
+Answer: persistent cookies
+
+Question: What is a temporary cookie that disappears after you close your browser?
+Answer: session cookie
+
+Question: What else can you do with a cookie?
+Answer: to indicate when a cookie is being sent
+
+Question: Some features of the sites or services may not function properly if the ability to accept what is disabled?
+Answer: cookies
+
+Question: What is the purpose of collecting information about use of the sites?
+Answer: to collect information about use of the sites
+
+Question: What collects information such as how often users visit our sites, what pages are visited, and what other sites were visited prior to coming to our sites?
+Answer: google analytics
+
+Question: What do we use the information we get from google analytics to do?
+Answer: improve
+
+Question: google does not combine the information collected through the use of google analytics with what type of information?
+Answer: personally identifiable
+
+Question: Who plants a permanent cookie on your browser to identify you as a unique user?
+Answer: google analytics
+
+Question: What is the name of the company that collects information about your visits to google's sites?
+Answer: google analytics
+
+Question: What can you prevent from recognizing you on return visits to the sites by disabling cookies on your browser?
+Answer: google analytics
+
+Question: What does our servers automatically record information from when you register with or view our sites?
+Answer: your web browser
+
+Question: What may include information such as your web request, internet protocol addresses or other device identifiers?
+Answer: server logs
+
+Question: What is collected using clear gifs?
+Answer: no personal information
+
+Question: What may we use in html-based emails sent to our users to track which emails are opened by recipients?
+Answer: clear gifs
+
+Question: What does california business & professions code section 22575(b) provide?
+Answer: california residents are entitled to know how a website operator responds to "do not track" (dnt) browser settings
+
+Question: What is the name of the feature offered by some browsers to request that your browsing is not tracked?
+Answer: dnt
+
+Question: Do we collect personally identifiable information when an individual uses our sites?
+Answer: do not engage in the collection of personally identifiable information about users' online activities over time and across third party websites
+
+Question: Who may the university share your personal data with?
+Answer: government and law enforcement agencies or regulators
+
+Question: How many ways can we enforce our terms of use or other policies?
+Answer: (2)
+
+Question: What is the third option to pursue available legal remedies or defend against legal claims?
+Answer: (3)
+
+Question: Who may we share your personal information with?
+Answer: a third party
+
+Question: What section of the penal code do we not violate?
+Answer: section 502 of the penal code
+
+Question: Who may we report any activities that we believe to be unlawful?
+Answer: law enforcement agencies
+
+Question: What shall the release of your personal information for security purposes be based on?
+Answer: a determination made solely by us, as permitted by law
+
+Question: Where is personal information stored by the university?
+Answer: secure locations
+
+Question: Who has access to the university's personal information?
+Answer: members of the university's staff
+
+Question: What is destroyed according to the university's records retention schedule?
+Answer: confidential information
+
+Question: What is the security of your personal information?
+Answer: no method of transmission over the internet or method of electronic storage is 100% secure
+
+Question: What can't we guarantee about the security of any information you transmit to the sites?
+Answer: absolute security
+
+Question: What kind of efforts do we make to ensure the security of our systems?
+Answer: commercially reasonable
+
+Question: What is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards?
+Answer: this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards
+
+Question: Can we guarantee the security of any information you disclose online?
+Answer: we cannot guarantee the security of any information you disclose online.
+
+Question: For additional information on online privacy and security, please see what?
+Answer: the university'spolicies and procedures related to information security
+
+Question: Who can you consult in the event that personal information is compromised as a result of a breach of security?
+Answer: thecalifornia attorney general's privacy enforcement and protection website.
+
+Question: The inclusion of links does not imply endorsement by what organizations?
+Answer: university or csu
+
+Question: When you use a link to go from our sites to another website, what happens?
+Answer: our notice is no longer in effect
+
+Question: What are the rules and policies of other websites?
+Answer: browsing and interaction on any other website, including those that have a link on our sites, is subject to that website's own rules and policies
+
+Question: What should you do before proceeding?
+Answer: read over those rules and policies
+
+Question: We do not ensure the security of your personal information if you visit what?
+Answer: websites not belonging to csu, nor are we the data controller for any information collected on those sites
+
+Question: How long do we retain personal information?
+Answer: only for as long as necessary to fulfill the purpose for which it was collected
+
+Question: To what address can you send a request to have your personal information discarded?
+Answer: postal or email address
+
+Question: How long may it take to respond to your inquiry?
+Answer: a reasonable period of time
+
+Question: What happens if you request a change in information on our system?
+Answer: deactivation or change of information on our system, such information may be retained in our backup systems
+
+Question: How long may some information be retained as required by law?
+Answer: longer periods
+
+Question: mail is used to do what?
+Answer: respond to requests for information
+
+Question: What may we use to send you other messages?
+Answer: email address
+
+Question: How can you choose not to receive emails from us?
+Answer: "unsubscribing"
+
+Question: How long does it take for us to process your request?
+Answer: up to thirty (30) business days
+
+Question: Does this stop us from sending emails about your account?
+Answer: this will not stop us from sending emails about your account or your transactions with us, or any other service-related email
+
+Question: Does opting out affect our communications with you via telephone or mail?
+Answer: opting out does not affect our communications with you via telephone or mail nor does it affect our use of your non-personally identifiable information as described in this notice.
+
+Question: What are some of these rights restricted by law?
+Answer: information that was collected on the basis of explicit consent, or are restricted by other conditions
+
+Question: How long will it take for us to respond to your written request?
+Answer: without unreasonable delay
+
+Question: What will we do unless we notify you at the time of your request?
+Answer: we will not charge you any fee
+
+Question: What can you do if you are not satisfied with our response?
+Answer: to complain to or seek advice from a supervisory authority
+
+Question: How does the university provide notifications?
+Answer: email notice, written or hard copy notice, or through conspicuous posting of such notice on our sites page,
+
+Question: What can you do to prevent us from providing notifications to you?
+Answer: opt out of certain means of notification
+
+Question: Who is responsible for ensuring we have an up-to-date active and deliverable email address for you?
+Answer: you are responsible for ensuring we have an up-to-date active and deliverable email address
+
+Question: What is identified at the top of the page?
+Answer: the date the notice was last revised
+
+Question: Where will we provide notice of changes?
+Answer: on the sites, or at www.sjsu.edu, prior to the effective date of any change
+
+Question: What will constitute your acceptance of any change in this notice?
+Answer: your continued use of the sites after any change in this notice
+

@@ -1,0 +1,54 @@
+Question: What university is committed to providing a safe environment for the campus community?
+Answer: san jose state university
+
+Question: What is alert sjsu?
+Answer: campus emergency notification system
+
+Question: What is the purpose of the university's emergency notification system?
+Answer: to quickly disseminate emergency information to the campus community during critical incidents.
+
+Question: Along with the upd commanders, sergeants, and dispatchers, who is on the main campus of Washington University?
+Answer: public information officer
+
+Question: Who authorizes the use of the alert sjsu system?
+Answer: the chief of the san jose state university police department
+
+Question: Who is responsible for initiating the activation of the system?
+Answer: university police operations bureau commander
+
+Question: What is the name of the system that sends emergency information and instructions?
+Answer: alert sjsu
+
+Question: Where can this information be found?
+Answer: the following
+
+Question: If no information has been entered through the alert sjsu personal contact information page, what will it default to using?
+Answer: only your university email address
+
+Question: How can you opt-out of alerts?
+Answer: the "opt out" button at the bottom of the alert sjsu personal contact information page.
+
+Question: What is the downside of text messaging?
+Answer: message delivery may be delayed.
+
+Question: What systems does sjsu have in place?
+Answer: university website, the university hotline 408-924-sjsu, ksjs 90.5 fm, and the universitys twitter and facebook accounts.
+
+Question: What kind of services does the university police department provide?
+Answer: live scan services
+
+Question: How many live scans do we process annually?
+Answer: over 2000
+
+Question: How early should you arrive for your appointment?
+Answer: a few minutes prior to your appointment time
+
+Question: What is the last appointment of the day?
+Answer: last appointment of the day must arrive 15 minutes prior to scheduled appointment time.
+
+Question: How many officers does the sjsu police department have?
+Answer: 377
+
+Question: What is the number of minute parking available in the garage?
+Answer: 9511220
+

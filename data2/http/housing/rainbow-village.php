@@ -1,0 +1,1 @@
+is a community that provides a friendly atmosphere for students who identify as lgbtqia (lesbian, gay, bisexual, transgender, queer, intersex, ally) to live and interact. mon - fri 8:00am-5:00pm pst 

@@ -1,0 +1,1 @@
+go out and explore the world! inspiring you and your family to venture outdoors in your community.university-personnel@sjsu.eduup north:408-924-2450up south:408-924-2250up webmasterup northadministration building 242up southupd building 3rd floor

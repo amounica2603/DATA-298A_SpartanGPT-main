@@ -1,0 +1,1 @@
+in addition to sjsustudent code of conduct,academic catalog, and all university rules, policies, procedures, guidelines, and requirements, all students enrolled in the graduate program in the department of communicative disorders and sciences are subject to the terms set forth in thegraduate student handbook(http://bit.ly/cdsgradhandbook).

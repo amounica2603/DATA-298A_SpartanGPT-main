@@ -1,0 +1,1 @@
+to apply complete the sjsu scholarships general application found on thefinancial aid and scholarshipoffice's website. thencomplete the supplemental application for the specificscholarship.for more informationvisit thecsu scholarship website.howard christiansen endowed scholarship

@@ -1,0 +1,1 @@
+you will need to run an employee profile to submit for any temporary appointment extensions, personnel transactions, resignations, etcuniversity-personnel@sjsu.eduup north:408-924-2450up south:408-924-2250up webmasterup northadministration building 242up southupd building 3rd floor

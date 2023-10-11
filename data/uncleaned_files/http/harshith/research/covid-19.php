@@ -1,0 +1,1 @@
+researchers should review ourcovid-19 adaptation pagefor information and requirements for conducting in-person research during the current phase of the covid-19 pandemic. during phase 4, submission of a rsca project plan is not required. however, some record-keeping obligations may apply.please make sure to obtain irb approval before initiating any changes to your approved work.

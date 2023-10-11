@@ -1,0 +1,1 @@
+strategic sourcing - payment services makes every effort to ensure timely processing of payment requests:the average processing time for payment requests depends on the transaction type:payments may be delayed if:phone: 408-924-1558 email: financeconnect@sjsu.edu finance and business services san jose state university 60 south market street suite 470 san jose, ca 95113

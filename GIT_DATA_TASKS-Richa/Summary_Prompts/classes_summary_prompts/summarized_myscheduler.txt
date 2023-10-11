@@ -1,0 +1,1 @@
+My scheduler allows you to compare multiple course schedules and create a custom schedule for each term. You can also import your class schedule into your cart and add classes when your enroll appointment begins.My scheduler also has the ability to validate your schedule so that you can make sure that everything is up to date.

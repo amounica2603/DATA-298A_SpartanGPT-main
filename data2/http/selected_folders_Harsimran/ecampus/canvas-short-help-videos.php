@@ -1,0 +1,1 @@
+how to share your eportfolio course conversion tutorial-d2l to canvas canvas groups-creating a new group canvas groups-automatically assign students phone: 408-924-2337 email: ecampus@sjsu.edu location: irc, room 206 ecampus, irc206 instructional resource center san jose state university one washington square san jose, ca 95192-0026 

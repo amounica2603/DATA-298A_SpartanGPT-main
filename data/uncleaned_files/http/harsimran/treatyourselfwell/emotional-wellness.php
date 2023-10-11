@@ -1,0 +1,1 @@
+manage your emotions in a constructive way; understand and respect your own feelings, values and attitudes; appreciate the feelings of others.phone:408-924-6204the student wellness center (swc) at sjsu is located across from the event center.sjsu treat yourself wellstudent wellness centersan jos state universityone washington squaresan jose, ca 95192

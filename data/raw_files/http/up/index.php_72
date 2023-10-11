@@ -1,0 +1,1 @@
+(includes librarians, counselors and some coaches)university-personnel@sjsu.eduup north:408-924-2450up south:408-924-2250up webmasterup northadministration building 242up southupd building 3rd floor

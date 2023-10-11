@@ -1,0 +1,1 @@
+theinternational student and scholar services(isss) department isdesigned to give you essential information to get you ready tobegin your studies at sjsu. this is a great resource with helpful information for you. feel free to take your time to go through the material and visit this site again at any time.

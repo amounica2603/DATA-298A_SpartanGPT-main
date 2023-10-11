@@ -1,0 +1,1 @@
+following the guidelines and process below will allow the fdo moving specialist to efficiently plan and coordinate all non-project related moves using both internal and contracted moving resources, and ensure that all chargeable moves are correctly billed to the requesters. located in: corporation yard office hours: monday - friday, 8 a.m. - 5 p.m. saturday and sunday, closed 

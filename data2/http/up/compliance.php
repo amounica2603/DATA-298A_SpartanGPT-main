@@ -1,0 +1,1 @@
+our team manages the conflict of interest and mpp outside employment programs, as well as compliance with required training courses via csulearn. maggie oversees: university-personnel@sjsu.edu up north: 408-924-2450 up south: 408-924-2250  up webmaster up north administration building 242 up south upd building 3rd floor 

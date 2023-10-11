@@ -1,0 +1,1 @@
+maintain healthy relationships; enjoy being with others; develop strong friendships and intimate relationships; care about others and let others care about you.phone:408-924-6204the student wellness center (swc) at sjsu is located across from the event center.sjsu treat yourself wellstudent wellness centersan jos state universityone washington squaresan jose, ca 95192

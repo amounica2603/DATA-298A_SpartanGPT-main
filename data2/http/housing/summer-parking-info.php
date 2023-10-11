@@ -1,0 +1,1 @@
+campus village parking permit campus village parking permits are valid only in the campus village garage located near all residence halls, underneath campus village b, at 351 south 10th street. campus village permits are not valid in the south, west or north garages at any time. mon - fri 8:00am-5:00pm pst 

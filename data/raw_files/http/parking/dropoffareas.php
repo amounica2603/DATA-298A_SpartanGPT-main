@@ -1,0 +1,1 @@
+if you are being drop-off or dropping someone off, please utilize our new passenger loading zones that are located around the perimeter of the campus on 4th, san fernando, 10th, and san salvador streets.please do not use the red zone areas in front of the south garage or by the srac on 7th street for drop-off or delivery. violators will be cited.sjsu drop-off area map full pdf.

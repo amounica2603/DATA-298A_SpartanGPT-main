@@ -1,0 +1,1 @@
+"the write attitude" is the official blog of the sjsu writing center. our blog entries--all written by writing center faculty and staff--provide tips and information about different genres and different parts of the writing process. "the write attitude" blog.

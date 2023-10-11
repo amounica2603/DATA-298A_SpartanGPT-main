@@ -1,0 +1,1 @@
+this section is for new student employees and contains important information and resources to help you with your new job at sjsu.questions? contact youremployee support services representativeuniversity-personnel@sjsu.eduup north:408-924-2450up south:408-924-2250up webmasterup northadministration building 242up southupd building 3rd floor

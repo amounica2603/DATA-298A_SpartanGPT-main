@@ -1,0 +1,1 @@
+phone: 408-924-3771 email: teacher-education@sjsu.edu social media: @sjsulurie 

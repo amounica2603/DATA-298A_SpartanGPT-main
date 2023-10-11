@@ -1,0 +1,1 @@
+you may also mail the payment to the following address: mon - fri 8:00am-5:00pm pst 

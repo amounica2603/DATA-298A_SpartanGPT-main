@@ -1,0 +1,1 @@
+if you need to charge your electric vehicle on campus, please utilize our electric vehicle charging stations that are located in the north parking garage or lot 4.for guidelines and policies on charging your electric vehicle on campus, please visit our electric vehicle charging web page.electric vehicle charging stations map full pdf.

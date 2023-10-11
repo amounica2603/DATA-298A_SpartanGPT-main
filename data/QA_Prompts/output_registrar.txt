@@ -1,0 +1,2334 @@
+Question: What is posted online at https://www.sjsu.edu/senate/?
+Answer: all policies
+
+Question: What governs the issuance of administrative grades?
+Answer: university policy
+
+Question: What type of grades are i, rp, and rd?
+Answer: administrative grades
+
+Question: What section of the grading page has instructions on how to submit a request for a grade change?
+Answer: change from all other grades
+
+Question: How do you do a grade change?
+Answer: follow the online grade change request
+
+Question: What happens when a request has been processed?
+Answer: once the request has been processed, you will not be able to electronically cancel the request
+
+Question: What do we advise you to do before submitting your request?
+Answer: review and ensure the accuracy of your request
+
+Question: When can requests for grade changes be made?
+Answer: only for classes with posted grades of i, rp, or rd
+
+Question: What are eligible to change online?
+Answer: grades
+
+Question: What cannot you change via the online process?
+Answer: grades
+
+Question: Where can you find more information on grading?
+Answer: the registrar's website on grading
+
+Question: Who processes requests submitted through the faculty self-service process?
+Answer: the office of the registrar
+
+Question: What section of the grading page should you refer to for instructions?
+Answer: change from all other grades
+
+Question: What is the email address for general inquiries?
+Answer: registrar@sjsu.edu
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is an essential part of maintaining your academic record?
+Answer: keeping your personal information current and accurate
+
+Question: What do you need to submit if updating via mysjsu not available?
+Answer: personal information change request
+
+Question: What do you need to submit via online or submit a pdf form?
+Answer: personal information change request
+
+Question: What are you required to submit to validate the change?
+Answer: supporting documents
+
+Question: At what part of the student services center can you drop off the form?
+Answer: window
+
+Question: What is allowed as long as the name is not used to misrepresent or evade legal obligations?
+Answer: preferred names
+
+Question: What happens if a preferred name is being used improperly?
+Answer: the university reserves the right to remove a preferred name
+
+Question: What must students do in their mysjsu by posted deadlines?
+Answer: students must follow the guide to add a diploma name
+
+Question: What name will be used if a student does not follow the guide to add a diploma name by the posted deadlines?
+Answer: the primary (legal) name
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: What is the mailing address of the registrar of san jose state university?
+Answer: one washington square
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: When should you submit the visitor application?
+Answer: at least 30 days before the start of the term
+
+Question: Who must you contact for registration deadlines and procedures?
+Answer: host campus
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: What is the mailing address of the registrar of san jose state university?
+Answer: one washington square
+
+Question: How can students now authorize designees to disclose their records?
+Answer: students can now authorize designee(s) through the mysjsu portal
+
+Question: What is another name for ferpa?
+Answer: buckley
+
+Question: What does fpco stand for?
+Answer: family policy compliance office
+
+Question: What is a federal law that protects the privacy of student records?
+Answer: department of education
+
+Question: What is the only exception to San jose state university releasing information from student records without written consent?
+Answer: student information that the university has deemed as directory information
+
+Question: What is more restricted than what ferpa provides as directory information?
+Answer: sjsu student information disclosure policy
+
+Question: What is the only way to prevent release?
+Answer: directory information
+
+Question: Failure to comply with the amendment may result in the loss of what?
+Answer: federal funding, including various forms of federal student aid
+
+Question: What is the email address for ferpa inquiries?
+Answer: registrar@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the email address for undergraduate or post bacc students?
+Answer: undergraduate-education@sjsu.edu
+
+Question: What is the email address for graduate students required if a financial aid student required $200 $45?
+Answer: graduate-studies@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: Are students allowed to repeat a course if they earned a non-passing grade?
+Answer: students are allowed to repeat a course in which they earned a non-passing grade
+
+Question: Are students allowed to repeat a course in which they already earned a passing grade?
+Answer: students are not allowed to repeat a course in which they already earned a passing grade,
+
+Question: What is the name of the policy that covers undergraduate and graduate specific policies?
+Answer: the repeat policy
+
+Question: When can students register during the advance registration period?
+Answer: anytime
+
+Question: What is grade forgiveness?
+Answer: a new grade replaces the former grade with respect to the grade point average
+
+Question: What remains on the transcript?
+Answer: the original grade
+
+Question: What is the only type of courses at sjsu that will have a student's gpa refreshed?
+Answer: courses taken and repeated
+
+Question: What are the unit limits in the grade forgiveness policy of san jose state university?
+Answer: unit limits.after the pool of grade forgiveness units have been depleted or used to the fullest extent allowable, the repeated grade shall not replace the original grade
+
+Question: How are grade points and units calculated at sjsu?
+Answer: grade points and units from all attempts shall be calculated in the student's sjsu cumulative gpa and overall gpa.
+
+Question: What is the name of the policy that describes the requirements for a student to attend san jose state university?
+Answer: university policy f08-2
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: Who provides verification letters for students?
+Answer: registrars office
+
+Question: How many types of letters are available?
+Answer: four
+
+Question: What is the email address for records-regist at sjsu?
+Answer: records-regist@sjsu.edu
+
+Question: What email address should you use for security reasons?
+Answer: sjsu
+
+Question: Who can you contact for additional information about verification?
+Answer: registrar@sjsu.edu
+
+Question: What is the email address for general inquiries?
+Answer: registrar@sjsu.edu
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What should you do if you don't see the "apply" button?
+Answer: contact your graduation evaluator.
+
+Question: What will you receive if you apply by the dates shown below?
+Answer: priority class registration
+
+Question: How many semesters with priority registration are allowed?
+Answer: two semesters with priority registration
+
+Question: How many values should your graduation status have in mysjsu?
+Answer: four
+
+Question: How many units have you completed to be eligible to apply?
+Answer: at least 85 units
+
+Question: How long will this status remain?
+Answer: until we award your degree.
+
+Question: How do you know if you have earned a degree?
+Answer: you have completed all requirements and we have awarded your degree.
+
+Question: What is the email address for general inquiries?
+Answer: registrar@sjsu.edu docusign forms submission: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What are the three factors that determine residency in california?
+Answer: physical presence, intent to remain in california indefinitely, and a valid immigration status
+
+Question: How long does it take for sjsu to determine your residency?
+Answer: 2 to 4 weeks
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the mission of the office of the registrar?
+Answer: to serve the san jose state university community by maintaining the integrity of student records, upholding and enforcing regulations relating to policies and explaining those policies to students, alumni, faculty, and staff through accurate, efficient services, delivered with respect and care.
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What may a student use on their diploma?
+Answer: a name other than their primary (legal) name
+
+Question: What happens if a student adds a diploma name before the deadlines below?
+Answer: if the student adds a diploma name
+
+Question: How long does it take to receive a diploma from mysjsu?
+Answer: 2-3 weeks
+
+Question: What do we use to ship diplomas?
+Answer: standard usps first class mail
+
+Question: What dates are shown below?
+Answer: typical diploma arrival dates
+
+Question: What must be submitted before the last day of the semester?
+Answer: address changes
+
+Question: How do we send diplomas?
+Answer: usps first class mail, so we will not have any tracking information.we will send diplomas to international addresses
+
+Question: What may vary?
+Answer: the format of these addresses
+
+Question: What would a friend do to get a tracking number?
+Answer: friend would then forward the diploma to the student using fedex/ups
+
+Question: How long does it take for a student to receive their diploma?
+Answer: two months
+
+Question: How long must a student wait to report a missing diploma?
+Answer: 7 months
+
+Question: What will your diploma include if you are a summer graduate?
+Answer: all majors, one minor, plus latin and department honors
+
+Question: What type of student will not receive their diploma if they have a hold on their account?
+Answer: financial holds on their account
+
+Question: What do you check to see if you have any holds?
+Answer: mysjsu
+
+Question: What should you do when you have cleared your holds?
+Answer: inform your graduation evaluator when you have cleared your holds.
+
+Question: How much is the diploma fee?
+Answer: $10
+
+Question: What type of student can submit a paper form and pay by check?
+Answer: bachelor
+
+Question: How long will it take to receive your diploma?
+Answer: 3-4 weeks
+
+Question: What type of holder does the special events team provide?
+Answer: padded
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What state funds institutions of higher education?
+Answer: california
+
+Question: How long must you remain in california to be eligible for resident status?
+Answer: at least one year prior to the residence determination date, maintain physical presence in california
+
+Question: What should include the items listed below?
+Answer: evidence of intent to remain in california indefinitely
+
+Question: What does physical presence in california for the specific intention of academic study not constitute intent to make california your permanent home?
+Answer: physical presence in california for the specific intention of academic study does not constitute intent to make california your permanent home.
+
+Question: What states that the residence of applicants who are under 19 is based on the residence of the parents or guardian?
+Answer: california state university policy
+
+Question: Whose identity and residence should you indicate on the csu admission application and residency questionnaires if you are under 19?
+Answer: your parent or guardian
+
+Question: What impact will there be?
+Answer: there will not be any impact
+
+Question: What is your residency based on if you are under the age of 19?
+Answer: your parents
+
+Question: What determines residency if you are over the age of 19?
+Answer: what steps you take to establish and maintain your residency.no.a non citizen with a visa that prohibits establishing a domicile in california during any portion of the durational period may not be granted resident status
+
+Question: Who determines each students residency status when the completed application for admission is received and processed?
+Answer: the admissions office/graduate admission at sjsu
+
+Question: What is the decision based on?
+Answer: the information contained in the application for admission, transcripts, and other documents
+
+Question: How long does the residency status remain in effect?
+Answer: until the student submits the residence questionnaire
+
+Question: When should you use this form?
+Answer: if it is your first semester
+
+Question: What is required at the time of application for admission?
+Answer: residence questionnaire
+
+Question: How long have you been a matriculated student for at least one semester?
+Answer: if you have paid non-resident fees as a matriculated student for at least one semester.
+
+Question: What else do you need to submit to complete your application?
+Answer: residency related information
+
+Question: Who do you contact if you have further questions regarding your residency?
+Answer: the admissions or graduate admissions office
+
+Question: Do you follow the steps below?
+Answer: follow steps
+
+Question: What should you do before submitting an appeal?
+Answer: read these instructions
+
+Question: In what format are the instructions for submitting an appeal?
+Answer: [pdf]
+
+Question: What is the phone number to submit an appeal?
+Answer: 408-283-7500(select option 3)
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the credit/no credit option?
+Answer: no credit
+
+Question: What options are available on the forms page under grades/ grading?
+Answer: audit/ cr/ nc
+
+Question: What is due by the last day to add?
+Answer: the request form
+
+Question: What will happen if the option form is signed and submitted?
+Answer: no credit back to the normal letter grading option.no grade points will be posted on the student's permanent record.
+
+Question: What is a sjsu policy?
+Answer: auditing a class.only available to upper-division (junior or senior) and post baccalaureate
+
+Question: The course taken for what option must be outside the major, minor and general education(ge) requirements?
+Answer: cr/ nc
+
+Question: What are the sjsu policies?
+Answer: credit/no credit (cr/ nc)
+
+Question: What is the email address for general inquiries?
+Answer: registrar@sjsu.edudocusignforms
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What program is no longer offered by san jose state university?
+Answer: over-sixty
+
+Question: What is the email address for general inquiries?
+Answer: registrar@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: Why is sjsu no longer accepting students?
+Answer: sjsu will no longer acceptany incoming students until further notice.sjsu students now have access to more fully online courses
+
+Question: How many semesters are allowed for this program?
+Answer: two or more consecutive semesters
+
+Question: Who must you contact for registration deadlines and procedures?
+Answer: host campus
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: Is it needed?
+Answer: yes,
+
+Question: pay attention to what on the form?
+Answer: instructions
+
+Question: What do some forms require you to enter?
+Answer: all the class components
+
+Question: Who signs late enrollment petitions?
+Answer: academic approvers
+
+Question: What is the name of the signing order page?
+Answer: docusign
+
+Question: To see who has not signed, refer to which faq?
+Answer: faq #4.see table below on which forms you (student) can resend or edit email address to resend.
+
+Question: What is the name of the company that allows you to sign up for a mailing service?
+Answer: docusign
+
+Question: Where can you find your form?
+Answer: find your form
+
+Question: What will you see if more signatures are needed?
+Answer: waiting for others
+
+Question: Where do you click to resend?
+Answer: action menu
+
+Question: What is sent to all outstanding recipients of the form?
+Answer: email notification for your form
+
+Question: What do you click to edit or correct an email address?
+Answer: drop down arrow
+
+Question: What can be done to the signer(s) as needed?
+Answer: edit/correct
+
+Question: Who do you email if you are unable to resend or edit the form?
+Answer: registrars office at registrar@sjsu.edu
+
+Question: What do you need to specify in the subject of your inquiry?
+Answer: the reason for this inquiry,
+
+Question: What does docusign do to the signer?
+Answer: resend email
+
+Question: What do you need to specify in your inquiry?
+Answer: the form
+
+Question: Along with your name, what id do you need to put on the form?
+Answer: sjsu
+
+Question: What does faq #6 include?
+Answer: the class(es) and instructor name(s) inquiring on.refer to faq #6.
+
+Question: Who would the form need to be corrected to reroute to instead of the instructor?
+Answer: department chair
+
+Question: Where can you find out how to correct and resend the form?
+Answer: faq #6
+
+Question: How do you get the form in the email?
+Answer: open the form via the link
+
+Question: In what color of text will you see if your form was processed or denied?
+Answer: green
+
+Question: What happens if the first form isn't filled out correctly?
+Answer: we will deny the first form and you will have to submit a new form with all classes listed
+
+Question: What do forms from the registrar's office usually have in the subject?
+Answer: students name and the form/petition name
+
+Question: Are the subject and email that it was sent from similar to the one you would receive?
+Answer: the subject and the email that it was sent from are similar to the one you would receive
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: What is the mailing address of the registrar of san jose state university?
+Answer: one washington square
+
+Question: What is the law governing residence for tuition purposes at california state university?
+Answer: california education code sections 68000-68090, 68120-68134, and 89705-89707.5,
+
+Question: Where can you find legal resources for California residents?
+Answer: california state university's website.
+
+Question: Why cannot this student qualify for reclassification from nonresident to resident?
+Answer: this student cannot meet the core requirement of demonstrating financial independence necessary to qualify for reclassification from nonresident to resident.
+
+Question: What section of the california code of regulations governs the discipline of a student if they are classified incorrectly?
+Answer: section 41301 of title 5 of the california code of regulations.
+
+Question: Who do you contact at the university you plan to attend to discuss your particular situation?
+Answer: residency specialist
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What provides an opportunity for currently matriculated csu students to enroll in a fully online course through another csu campus?
+Answer: csu fully online program
+
+Question: How many courses can a student take at a csu campus?
+Answer: students may only enroll in one course at another csu campus during each regular semester
+
+Question: What is included in the students full-time tuition for that semester?
+Answer: the course is included in the students full-time tuition for that semester.
+
+Question: What should you email if you have questions about csu fully online?
+Answer: coursematch@calstate.edu
+
+Question: What is the phone number for coursematch@calstate.edu?
+Answer: 408-283-7500(select option 3)
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What university will no longer accept students due to impaction?
+Answer: sjsu
+
+Question: What is the name of the program that allows sjsu students to take online courses at other csu campuses?
+Answer: csu fully online.see requirements and conditions below if you are eligible to enroll in one undergraduate course per academic term at a participating university of california campus or california community college
+
+Question: What can you find out from the registration calendar?
+Answer: the deadline to add and census date for the semester you are enrolling
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: Who is the person assigned to review your graduation application?
+Answer: your graduation evaluator
+
+Question: What will this person be your contact for?
+Answer: all questions related to the graduation process
+
+Question: What is the email address for general inquiries?
+Answer: registrar@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What information can you find on the summer session site?
+Answer: class schedule, fees, how to register
+
+Question: What is the name of SJSU's college of professional and global education?
+Answer: college of professional and global education
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is a 5 or 6-digit number given to students by the instructor or department that enables the student to enroll in a course?
+Answer: a permission number
+
+Question: Who should you contact if an instructor is not listed for a course?
+Answer: department offering the course.
+
+Question: What can not override these two requirements?
+Answer: permission numbers
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is a process that allows a disqualified student to restore good academic standing?
+Answer: reinstatement
+
+Question: This is the first step towards restoring what status?
+Answer: full matriculation
+
+Question: Where is a student eligible to reapply after achieving good academic standing with a cumulative gpa of 2.0 or higher?
+Answer: cal state apply for readmission to resume status as a fully matriculated student
+
+Question: Is readmission a separate process from reinstatement?
+Answer: readmission is a separate process from reinstatement.
+
+Question: How do students apply to UC Davis?
+Answer: students must reapply using the cal state apply processes
+
+Question: To meet filing deadlines, students may need to start what process before reinstatement?
+Answer: readmission process
+
+Question: What should a student consider doing as part of their application?
+Answer: student should also consider submitting the former student returning (fsr) petition
+
+Question: Who can a student contact for more information?
+Answer: admissions office
+
+Question: What does not guarantee approval of the students request for reinstatement?
+Answer: raising their gpa
+
+Question: Some departments place restrictions on what to their major degree programs?
+Answer: reinstatement
+
+Question: What is the only reason a student will be reinstated in this category?
+Answer: serious and compelling reasons
+
+Question: This category is reserved for grade changes following what?
+Answer: university policy
+
+Question: Who should students consult for details?
+Answer: their advisor(s)
+
+Question: How long have these students spent away from sjsu since their disqualification?
+Answer: substantial time away from sjsu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the policy for instructor drop?
+Answer: sjsu policy for instructor drop
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What can replace an enrolled class with another open or waitlisted class in one action?
+Answer: the swap function
+
+Question: What happens if you are enrolled from the open or waitlisted replacement class?
+Answer: the original class will be dropped automatically.you can find the swap tab within the enroll page in the student center.
+
+Question: What can you do with an enrolled class?
+Answer: set up your enrolled class to be swapped with a waitlisted class
+
+Question: When will the swap class take place?
+Answer: when the class becomes open
+
+Question: What does the class swap look at?
+Answer: class requirements
+
+Question: What are some reasons the system will not perform a class swap?
+Answer: time conflict, not meeting prerequisites or corequisites, or you have taken the class
+
+Question: What happens if you swap a zero unit related class section that is full?
+Answer: dropped from all enrolled sections
+
+Question: What class will be added to the waitlist of all related class sections?
+Answer: biol 21 lecture and lab) and added to the waitlist of all related class sections.if the class is open it will show immediately in your class schedule.
+
+Question: What email address should you check frequently?
+Answer: mysjsu
+
+Question: What is the phone number to contact your advisor?
+Answer: 408-283-7500
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the first step in determining if you have a hold that will prevent registration?
+Answer: to determine if you have a hold
+
+Question: What do you search for on one.sjsu.edu?
+Answer: mysjsu
+
+Question: Where on the student center page should you look for "holds"?
+Answer: top right column
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What has been implemented to grant peoplesoft basic student records access to employees in departments based upon job roles?
+Answer: an automated process has been implemented to grant peoplesoft basic student records access to employees in departments based upon job roles/ responsibilities, excluding student workers
+
+Question: What must employees complete to maintain access?
+Answer: csu learn data security and ferpa training
+
+Question: When will access be removed?
+Answer: if the employee is not compliant with the training requirement
+
+Question: What has been granted to the employee if the employee has peoplesoft basic student records access?
+Answer: sami gateway reports
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: If you have attended a california high school for a minimum of three years, how do you qualify for the nonresident tuition exemption?
+Answer: if you do not meet the residency requirements
+
+Question: What form should you fill out if you do not meet the residency requirements but have attended a california high school for a minimum of three years?
+Answer: fileab 540(csu nonresident tuition exemption)
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: What is the mailing address of the registrar of san jose state university?
+Answer: one washington square
+
+Question: Where can you find the most current news about registrars?
+Answer: registrar updates
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: Are students allowed to repeat a course if they earned a non-passing grade?
+Answer: students are allowed to repeat a course in which they earned a non-passing grade
+
+Question: Are students allowed to repeat a course in which they already earned a passing grade?
+Answer: students are not allowed to repeat a course in which they already earned a passing grade,
+
+Question: What is the name of the policy that covers undergraduate and graduate specific policies?
+Answer: the repeat policy
+
+Question: When can students register during the advance registration period?
+Answer: anytime
+
+Question: What is grade forgiveness?
+Answer: a new grade replaces the former grade with respect to the grade point average
+
+Question: What remains on the transcript?
+Answer: the original grade
+
+Question: What is the only type of courses at sjsu that will have a student's gpa refreshed?
+Answer: courses taken and repeated
+
+Question: What are the unit limits in the grade forgiveness policy of san jose state university?
+Answer: unit limits.after the pool of grade forgiveness units have been depleted or used to the fullest extent allowable, the repeated grade shall not replace the original grade
+
+Question: How are grade points and units calculated at sjsu?
+Answer: grade points and units from all attempts shall be calculated in the student's sjsu cumulative gpa and overall gpa.
+
+Question: What is the name of the policy that describes the requirements for a student to attend san jose state university?
+Answer: university policy f08-2
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What page has this page been moved to?
+Answer: dual enrollment registration page.phone:408-283-7500(select option 3)fax: 408-924-2077
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: How can you stay on-track in the final weeks before graduation?
+Answer: the checklist below to help ensure you stay on-track in the final weeks before graduation
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the email address for general inquiries?
+Answer: registrar@sjsu.edu
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the preferred and secured method?
+Answer: docusign
+
+Question: What do you use to send forms to records-regist@sjsu.edu?
+Answer: sjsu email
+
+Question: What is the usps mail phone number?
+Answer: 408-283-7500(select option 3)
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What type of petition can be submitted at the gape site?
+Answer: change of the graduate program
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: When should students be able to view their grades on mysjsu?
+Answer: two weeks after the last day of instruction of each semester.
+
+Question: What type of transcript can you print from mysjsu?
+Answer: unofficial transcript
+
+Question: How long does it take for a student to see their grades?
+Answer: three weeks
+
+Question: What is required of a student to take a class?
+Answer: enrollment in the class
+
+Question: What form do you need to submit if you believe there has been a grading error?
+Answer: credit/no credit/audit option form
+
+Question: If your degree has been awarded, your academic record is what?
+Answer: sealed
+
+Question: What type of grades does sjsu use?
+Answer: standard letter grades
+
+Question: What does unauthorized withdrawalic mean?
+Answer: incomplete
+
+Question: What will happen to your academic standing even if your gpa has changed?
+Answer: gpa may have changed due to the retroactive course drop or semester withdrawal, your academic standing will remain for that semester.
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is essential to your academic success?
+Answer: staying informed about registration and payment deadlines
+
+Question: What do you need to see on each calendar for the current and future terms?
+Answer: key dates
+
+Question: What link is available on the top of each calendar?
+Answer: payment due date
+
+Question: What is available at the office of the provost's site?
+Answer: academic year calendars
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: What is the mailing address of the registrar of san jose state university?
+Answer: one washington square
+
+Question: If you are what and want to complete your degree, this page will help guide you through the process?
+Answer: if you are a former student who applied for graduation
+
+Question: What should you do with this presentation?
+Answer: browse
+
+Question: What are the resources below for more detail?
+Answer: review resources
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: How many semesters must a student have completed to be eligible for a one semester leave?
+Answer: one semester
+
+Question: How do you enroll in mysjsu after a one semester leave?
+Answer: you will receive a registration appointment in mysjsu for the semester following your one semester leave
+
+Question: How many semesters of leave can a student take?
+Answer: four
+
+Question: What happens to your mysjsu account if you're out for longer than four semesters?
+Answer: you will not have access to your mysjsu after being out for longer than 12 months.
+
+Question: What are you considered if you are enrolled in at least one class per semester?
+Answer: active continuing student
+
+Question: What must a student do if they miss two consecutive semesters?
+Answer: reapply for admission through the cal state apply site
+
+Question: What do you do if you have questions about re-applying?
+Answer: if you have any questions about re-applying, contact the admissions office.
+
+Question: What happens if you do not enroll for two or more consecutive semesters?
+Answer: automatically cancel your student status
+
+Question: Why should you drop all classes by the drop deadline?
+Answer: to avoid academic penalty.
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the quickest way to get a copy?
+Answer: order an electronic(pdf) copy
+
+Question: What is the name of the website where you can find more information about sjsu?
+Answer: transcript portal
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: If you will complete your requirements before or after the term shown in mysjsu, when should you follow the steps below?
+Answer: before or later
+
+Question: Is there a fee to change your graduation date?
+Answer: no longer a fee
+
+Question: What is the fee to change your graduation date?
+Answer: ***
+
+Question: How is enrollment determined?
+Answer: full-time, three-quarter time, half-time, and part-time
+
+Question: What are the weighted units for graduate courses?
+Answer: all graduate courses (200 level) are weighted 1.5 units.12.0 or more units9.0-11.0 units6.0-8.0 units less than 6.0 units
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: If consent is given, will the student be enrolled in the class?
+Answer: if consent is given, the student will be enrolled in the class -- even if it is full.
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the definition of california residency?
+Answer: ** the term "california resident" for tuition purposes may differ from other definitions
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What does the students' page have for further detail?
+Answer: change of major/ minor
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: When is the systemwide meeting at san jose state?
+Answer: may 8
+
+Question: What box should you check if you need a copy of your registration record?
+Answer: "send me a copy of my response"
+
+Question: On what date is the sjsu event in san jose?
+Answer: 28
+
+Question: What is the csu rate for the tbdsjsu?
+Answer: one bed one bath suite28
+
+Question: What is the csu rate at element san jose airport?
+Answer: $269 per night
+
+Question: When is the next meeting of the university of california at san jose?
+Answer: may 8th from 5 - 7pm
+
+Question: What does su stand for?
+Answer: student union
+
+Question: What do you need to see to find su?
+Answer: sjsu campus map
+
+Question: When will breakfast and lunch be served at sjsu?
+Answer: 9:00am-4:30pm
+
+Question: When will breakfast and lunch be served at sjsu?
+Answer: 9:00am-4:30pm
+
+Question: When will everyone be served breakfast?
+Answer: 9:00am-12:00pm
+
+Question: What is the name of the wifi network at sjsu?
+Answer: "sjsu_guest"
+
+Question: Accept the terms and conditions of what?
+Answer: network terms
+
+Question: What city is the heart of silicon valley?
+Answer: san jose
+
+Question: What region of the US is known for it's famed destinations?
+Answer: northern california
+
+Question: What is the closest airport to san jose state university?
+Answer: san jose (sjc) airport
+
+Question: What are some ways to arrange transportation?
+Answer: uber, lyft, or car rental
+
+Question: Where can additional information be found?
+Answer: san jose airport
+
+Question: Who do you contact if you have questions about event accessibility or anticipate needing any type of disability-related accommodation?
+Answer: tbd(email address)
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is based on when you register?
+Answer: payment due date
+
+Question: Where is the class schedule available?
+Answer: mysjsu or sjsu
+
+Question: What is the enrollment unit cap?
+Answer: 17
+
+Question: When does first time repeaters enrollment start on mysjsu mon, aug?
+Answer: 9am
+
+Question: What type of petition is available on forms' page?
+Answer: 1excess units
+
+Question: What happens if a student drops a course more than two times?
+Answer: 100% refund
+
+Question: What was the last day of registration?
+Answer: 17-18registration
+
+Question: Where does late registration for the 19th day of instruction begin?
+Answer: mysjsu
+
+Question: When does the waitlist end?
+Answer: sun, aug
+
+Question: How many enrollment census date (no enrollment allowed)?
+Answer: 16
+
+Question: What type of request is required for the petition to be available on forms page at 9 a.m.?
+Answer: post census
+
+Question: What day of the week does the festival take place?
+Answer: fri, nov
+
+Question: When is the withdrawal deadline for 11semester?
+Answer: 11semester
+
+Question: When is the last day to complete coursework for "incomplete grades"?
+Answer: 6last day of instruction
+
+Question: What opens at 8am thu-dec?
+Answer: 7faculty web access for grade posting
+
+Question: How many -9s are there?
+Answer: 8
+
+Question: What days of the week are they?
+Answer: mon-wed, dec
+
+Question: When are the final exams?
+Answer: 12-14final exams thu-fri, dec., 15-16 commencement
+
+Question: What grade is viewable on mysjsu sun?
+Answer: 20grades
+
+Question: How many days of winter recess are there?
+Answer: 25
+
+Question: What is the deadline for grade submission?
+Answer: 2final deadline for grade submission
+
+Question: What is the last day for instructors to submit incomplete grade changes?
+Answer: 4last day for instructors to submit incomplete grade changes
+
+Question: Where are current semester grades posted?
+Answer: mysjsu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: What is the mailing address of the registrar of san jose state university?
+Answer: one washington square
+
+Question: What is based on when you register?
+Answer: payment due date
+
+Question: Where is the class schedule available?
+Answer: mysjsu or sjsu
+
+Question: What is available on mysjsu for new graduate students?
+Answer: enrollment appointments viewable on mysjsu for new graduate students
+
+Question: When did graduating seniors have to file to have their enrollment cap increased to 19 units?
+Answer: 3/13/23
+
+Question: Where does late registration for the 21st day of instruction begin?
+Answer: mysjsu
+
+Question: When does the 28waitlist end?
+Answer: 28waitlist ends tue, aug 29
+
+Question: What is the date of the 18enrollment census?
+Answer: 18enrollment census date
+
+Question: What type of petition requirement begins mon, november?
+Answer: semester withdrawal
+
+Question: How many semesters are there?
+Answer: 13
+
+Question: When is the last day to complete coursework for "incomplete grades"?
+Answer: 6last day of instruction
+
+Question: When does 7faculty web access for grade posting open?
+Answer: 8 am
+
+Question: What days of the week do you work?
+Answer: mon-thu, dec
+
+Question: How many final exams are there on mon-tue?
+Answer: 11-14final exams
+
+Question: What is the age range for dec?
+Answer: 18-19
+
+Question: How many grades are due from faculty wed?
+Answer: 19grades
+
+Question: What grades are viewable on mysjsu wed, dec?
+Answer: 20grades
+
+Question: What is the name of the recess?
+Answer: 20winter recess
+
+Question: What is the final deadline for?
+Answer: grade submission
+
+Question: What is the last day for instructors to submit incomplete grade changes?
+Answer: 3last day for instructors to submit incomplete grade changes
+
+Question: How many academic standings are posted on mysjsu?
+Answer: 10
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: What is the mailing address of the registrar of san jose state university?
+Answer: one washington square
+
+Question: Who has transfer course agreements with over 130 california public colleges and universities?
+Answer: san jose state university
+
+Question: Do all courses transfer automatically?
+Answer: not all
+
+Question: Where can you find the most current information about transfer credits?
+Answer: the articulation page
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is based on when you register?
+Answer: payment due date
+
+Question: Where are enrollment appointments viewable?
+Answer: mysjsu and sjsu class schedule page
+
+Question: What was the enrollment cap for graduate students?
+Answer: 16
+
+Question: Who was king, jr?
+Answer: martin luther
+
+Question: What is the last day to drop for mon-tue?
+Answer: 100% refund
+
+Question: What is the deadline to apply for priority registration?
+Answer: graduation application deadline to qualify for priority registration, check if you are eligible to apply
+
+Question: What is the name of the day on which sjsu is closed?
+Answer: cesar chavez day
+
+Question: What time is it?
+Answer: 4:00
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: What time is it?
+Answer: 3:00
+
+Question: What does ssc stand for?
+Answer: student services center
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What will this page address?
+Answer: frequently asked questions
+
+Question: Who processes an application for a diploma?
+Answer: the office of the registrar
+
+Question: Who will send you a confirmation email after reviewing your application?
+Answer: evaluator
+
+Question: This email will provide a list of the outstanding requirements based on what report?
+Answer: myprogress
+
+Question: What folders may you need to check to locate the email?
+Answer: your email trash and spam folders
+
+Question: How long will it take for you to receive your email?
+Answer: 2-3 months after you apply for graduation.
+
+Question: What happens if you do not formally drop the minor?
+Answer: if you do not formally drop the minor, you will be held to those requirements
+
+Question: What form do you use if you want to drop a major?
+Answer: drop major
+
+Question: What do you need to submit if you have taken or are currently taking coursework at another institution?
+Answer: official transcripts
+
+Question: What type of transcripts will sjsu accept?
+Answer: official electronic transcripts
+
+Question: Who should you inform after you send your transcripts?
+Answer: evaluator
+
+Question: What is the maximum amount of units you can transfer from community colleges?
+Answer: 70 units
+
+Question: How can a hold letter be provided?
+Answer: they can provide a copy of the hold letter
+
+Question: What else will you need to submit to your evaluator?
+Answer: a graduation date change
+
+Question: What must meet the minimum requirements to qualify for latin honors?
+Answer: your cumulative sjsu gpa and your all college gpa
+
+Question: What may your department have for your major?
+Answer: additional honors
+
+Question: What will we apply to your diploma and transcript if you qualify?
+Answer: the appropriate honor(s)
+
+Question: What do you do if you have questions about medallions?
+Answer: if you have questions about medallions, contact the commencement team.
+
+Question: What does this include?
+Answer: grade changes and updates to your major or minor
+
+Question: What does a student complete in order to graduate?
+Answer: all program requirements and the university awards the degree.commencement
+
+Question: The fall ceremony is for the preceding what?
+Answer: summer
+
+Question: Where can you find an advisor?
+Answer: college success center.
+
+Question: When do we award degrees?
+Answer: after the spring, summer, and fall terms.
+
+Question: What may vary?
+Answer: processing times
+
+Question: What do you do when you confirm that sjsu has received the official transcripts from other schools?
+Answer: inform your graduation evaluator when you confirm that sjsu has received the official transcripts from the other schools.
+
+Question: What do you need to do to make an exception in myprogress?
+Answer: submit the official transcript from the other school
+
+Question: Who can you ask to enter an exception in myprogress?
+Answer: major advisor
+
+Question: Who can you ask to enter an exception in myprogress?
+Answer: major advisor
+
+Question: Who should you contact if you believe you are missing a course substitution?
+Answer: your graduation evaluator
+
+Question: What must you do if you want to take more classes after graduation?
+Answer: apply to a new program
+
+Question: How can you be exempt from the sjsu pe requirements?
+Answer: if you have continuous enrollment in california colleges since 2014, completed pe classes at another college, or have military service
+
+Question: What must you complete at the same time?
+Answer: all degree requirements
+
+Question: When will we award your degree?
+Answer: after you complete the last requirement.
+
+Question: What will it show?
+Answer: degree, major, and conferral date
+
+Question: What is the email address for general inquiries?
+Answer: registrar@sjsu.edu docusign forms submission:records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: When are enrollment appointments posted on mysjsu?
+Answer: enrollment appointments are posted on mysjsu about three months before the start of the semester
+
+Question: For more details, see what?
+Answer: registration calendar
+
+Question: When will new students receive their appointments?
+Answer: their appointments later
+
+Question: On the registration calendar, what are the exact dates?
+Answer: the new admits appointment date
+
+Question: Who must admit you before you can start your first semester at sjsu?
+Answer: the admissions office
+
+Question: Who can you contact for your admission status?
+Answer: admissions office
+
+Question: What date has passed?
+Answer: graduation date
+
+Question: When did you apply to graduate?
+Answer: last semester
+
+Question: How many semesters have you not enrolled for?
+Answer: 2 consecutive semesters(spring & fall).
+
+Question: What is the name of the academic senate policy?
+Answer: f17-4
+
+Question: What are the descriptions of in the f17-4 academic senate policy?
+Answer: priority groups
+
+Question: What groups are students grouped by?
+Answer: class level, then last name
+
+Question: What rotates each semester?
+Answer: order of the last name groups within the same class level
+
+Question: How long before the first day of instruction does advance registration begin?
+Answer: 3-4 months
+
+Question: When does late registration begin?
+Answer: first day of instruction
+
+Question: How can students add or drop courses?
+Answer: mysjsu
+
+Question: What applies after the census date?
+Answer: late fee
+
+Question: Who can you contact for fee related questions?
+Answer: the bursar's office
+
+Question: How can you enroll in a school?
+Answer: tutorial
+
+Question: What does the swap class enrollment function allow you to do?
+Answer: replace an enrolled class with another open or waitlisted class
+
+Question: Where can you learn more about swapping classes?
+Answer: faqs
+
+Question: If you want to enroll in sjsu studies class but have not earned what?
+Answer: 60 units or above (upper division standing).for all other issues, please contact us.if you have attested no a
+
+Question: What will happen to you?
+Answer: denied
+
+Question: You are only allowed to late add what kind of classes?
+Answer: fully online
+
+Question: Where can you find more information about the covid-19 vaccine?
+Answer: covid-19 vaccine requirements page
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What season is on the calendar?
+Answer: winter
+
+Question: Who can you contact for more information?
+Answer: college of professional and global education
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: What is the mailing address of the registrar of san jose state university?
+Answer: one washington square
+
+Question: Where will the petition for the waitlist be available?
+Answer: the registrar's forms page
+
+Question: How often does the waitlist process run?
+Answer: nightly
+
+Question: When will the waitlist be adjusted to give priority to graduating seniors and graduate students?
+Answer: april 25, 2023
+
+Question: When is the first day of the term?
+Answer: 28, 2023
+
+Question: How many units must you enroll in order to move to the top of the waitlist?
+Answer: 12 or more
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: What is the mailing address of the registrar of san jose state university?
+Answer: one washington square
+
+Question: When is sjsu's registration calendar and class schedule available?
+Answer: summer'23
+
+Question: Where are summer'23 enrollment appointments viewable for continuing students?
+Answer: mysjsu
+
+Question: What do you use to stay on top of upcoming deadlines and other important dates?
+Answer: calendar
+
+Question: What do you need to know about registration at sjsu?
+Answer: how registration works at sjsu
+
+Question: What do you do when you need to submit a form or petition?
+Answer: forms find the form or petition you need and how to submit it.contact us
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the student required to submit if an instructor permits a student to take a class on an audit basis?
+Answer: a credit/no credit/audit option form
+
+Question: What is the email address for docusign forms submission?
+Answer: regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What are the three factors that determine residency in california?
+Answer: physical presence, intent to remain in california indefinitely, and a valid immigration status
+
+Question: How long does it take for sjsu to determine your residency?
+Answer: 2 to 4 weeks
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is based on when you register?
+Answer: payment due date
+
+Question: Where are enrollment appointments viewable?
+Answer: mysjsu and sjsu class schedule page
+
+Question: When did mysjsu increase its enrollment cap?
+Answer: jan 10enrollment cap increased to 19 units for continuing undergraduate students in good standing(graduate students' enrollment cap remained at 16)
+
+Question: Who was king, jr?
+Answer: martin luther
+
+Question: What is the last day to drop for?
+Answer: 100% refund
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What is the phone number for the Registrar's office?
+Answer: 408-283-7500
+
+Question: Where can you find transcripts for sjsu?
+Answer: sjsu
+
+Question: What does a student need in order to be considered for a scholarship?
+Answer: verification of enrollment, degree, or gpa
+
+Question: What type of leave of absence?
+Answer: leave of absence
+
+Question: What is an example of a ssn?
+Answer: change of name,
+
+Question: Along with major changes to forms, what else can be changed?
+Answer: requirement term
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: What time is it?
+Answer: 3:00
+
+Question: What does ssc stand for?
+Answer: student services center
+
+Question: What time is it?
+Answer: 8:15
+
+Question: What is the mailing address of the registrar of san jose state university?
+Answer: one washington square
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What website should graduates review to make sure it is accurate?
+Answer: myprogress
+
+Question: Who reviews your academic record to ensure you meet the requirements for your degree?
+Answer: evaluators
+
+Question: Is this process separate from the guidance you receive from your major advisor?
+Answer: this process is separate from the guidance you receive from your major advisor
+
+Question: What is the email address for general inquiries?
+Answer: registrar@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+
+Question: What will this page provide information on?
+Answer: deadline dates, instructions on activation, and paying for the class
+
+Question: Where can you learn more about dual enrollment?
+Answer: visit
+
+Question: What do you need to contact at sjsu.edu?
+Answer: dual enrollment
+
+Question: What is the email address for docusign forms submission?
+Answer: records-regist@sjsu.edu
+
+Question: What time are live chat hours?
+Answer: 4:00 p.m.
+
+Question: What time is it?
+Answer: 11:30 a.m
+
+Question: When is the student services center closed?
+Answer: 3:00 p.m.closed weekends and holidays
+
+Question: What time is it?
+Answer: 8:15
+
+Question: Where is the registrar's office located?
+Answer: one washington square
+

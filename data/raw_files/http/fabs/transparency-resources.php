@@ -1,0 +1,1 @@
+click on the links below for more information about transparency and public records:phone: 408-924-1558email:financeconnect@sjsu.edufinance and business servicessan jos state university60 south market streetsuite 470san jos, ca 95113

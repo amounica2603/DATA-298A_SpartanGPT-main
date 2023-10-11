@@ -1,0 +1,1 @@
+spartan shops is a not-for-profit campus benefit organization that provides support services to the campus community. these services include the bookstore, food service, and off-campus housing for faculty and staff.phone: 408-924-1558 email: financeconnect@sjsu.edu finance and business services san jose state university 60 south market street suite 470 san jose, ca 95113

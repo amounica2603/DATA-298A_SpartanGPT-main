@@ -1,0 +1,1 @@
+we support all employees by providing support and information related to pay, time entry and absence management. we liaise with employee support services and the leaves team to ensure employees are paid on time.university-personnel@sjsu.eduup north:408-924-2450up south:408-924-2250up webmasterup northadministration building 242up southupd building 3rd floor

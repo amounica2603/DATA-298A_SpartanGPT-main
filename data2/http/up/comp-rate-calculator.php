@@ -1,0 +1,1 @@
+this calculator is a tool to help calculate the monthly salary and term salary based on monthly compensation rate with fte or wtu for part-time lecturer appointments. university-personnel@sjsu.edu up north: 408-924-2450 up south: 408-924-2250  up webmaster up north administration building 242 up south upd building 3rd floor 

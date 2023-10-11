@@ -1,0 +1,1 @@
+san jose state department of communicative disorders and sciences performs free hearing screenings in local senior centers and elementary schools. please find a description of our services below. contact kaccd clinic atarmstead-center@sjsu.eduadult hearing screening services [pdf] [pdf]children's hearing screening information [pdf] [pdf]

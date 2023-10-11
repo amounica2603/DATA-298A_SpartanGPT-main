@@ -1,0 +1,1 @@
+the vpri will be available every tuesday from noon to 1 pm to discuss process, policy, and resource questions related to research and innovation at sjsu. we ask that you reserve a 20-minute window during these office hours by emailingminh chau barrwho will schedule the zoom room.

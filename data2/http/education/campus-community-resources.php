@@ -1,0 +1,1 @@
+below is a list of campus and community resources to holistically support sjsu lurie college of education students. if you would like information on additional resources, please contact the student success center . sjsu connie l. lurie college of education sweeney hall 103 one washington square san jose, ca 95192-0071 create opportunities for lurie college students! 

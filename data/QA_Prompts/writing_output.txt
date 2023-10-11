@@ -1,0 +1,399 @@
+Question: What is the email address for the writing center?
+Answer: writingcenter@sjsu.edu
+
+Question: What university do you attend?
+Answer: sjsu
+
+Question: Who is the dr. of the writing center?
+Answer: martin luther king, jr.
+
+Question: What is the email address for the writing center?
+Answer: writingcenter@sjsu.edu
+
+Question: What university do you attend?
+Answer: sjsu
+
+Question: Who is the dr. of the writing center?
+Answer: martin luther king, jr.
+
+Question: How long is the online tutoring appointment?
+Answer: 45-minute
+
+Question: What is the number to call to schedule a tutoring session?
+Answer: (408) 924-2308 or email us at writingcenter@sjsu.edu.
+
+Question: Are you having trouble joining your online tutoring session?
+Answer: having trouble joining your session?
+
+Question: What page can you visit if you have trouble joining a tutoring session?
+Answer: appointment help
+
+Question: What has happened to some users of the online tutoring system?
+Answer: some users have experienced issues
+
+Question: Along with writing center administration, what experience does she have?
+Answer: writing instruction
+
+Question: What degree did she earn from san jose state university?
+Answer: b.a. in english
+
+Question: What did she do as the writing center associate director?
+Answer: developed the web presence of the center
+
+Question: When you make an appointment, do you agree to the following policies?
+Answer: you agree
+
+Question: What do you do if you have questions or concerns about the policies?
+Answer: if you have questions or concerns about any of these policies, please contact us or set up an appointment to speak with our director.
+
+Question: What services must you be prepared for?
+Answer: writing center services.you must be prepared for tutor
+
+Question: What do we run every semester?
+Answer: special events and programs
+
+Question: What is the name of the archive that provides details about programs that we have offered in previous semesters?
+Answer: this archive
+
+Question: What can be long, lonely, and challenging?
+Answer: writing in college
+
+Question: How many student writers can feel burned out?
+Answer: many student writers
+
+Question: What is one of the most effective remedies for writer's burnout?
+Answer: participate in a writing group with other students.a writing group is a supportive community of like-minded writers who form a group to offer mutual suppor
+
+Question: Who do we greatly appreciate the support of in promoting the writing center to their students?
+Answer: professors across campus
+
+Question: What do we request that professors do not do?
+Answer: do not incentivize your students to use our services
+
+Question: What do we request?
+Answer: professors do not require students to use our services, all pro
+
+Question: Who did michelle hager work with on a study about blogging in writing centers?
+Answer: dr. julia bleakney
+
+Question: Where was the work of hager and bleakney published?
+Answer: 25(2)
+
+Question: What is the link to the study?
+Answer: click on the image below
+
+Question: How much are our services for sjsu students?
+Answer: free
+
+Question: What is the mission of the writing center?
+Answer: enhance the writing skills of sjsu students
+
+Question: How do we do this?
+Answer: creating original writing
+
+Question: What are we here to support faculty in the teaching of?
+Answer: writing
+
+Question: What type of services can faculty request from the writing center?
+Answer: in-class services
+
+Question: What does wac stand for?
+Answer: writing across the curriculum
+
+Question: What are created by our writing tutors?
+Answer: video tutorials
+
+Question: What do our video tutorials provide?
+Answer: brief, interactive introductions to various writing topics.
+
+Question: How long are our writing workshops?
+Answer: one-hour
+
+Question: What can you do after registering for a workshop?
+Answer: add the workshop to your calendar from the zoom link.
+
+Question: What can you learn more about by reading these brief topic descriptions?
+Answer: workshop offerings
+
+Question: Where can you find the videos associated with some of our workshops?
+Answer: youtube
+
+Question: What is the goal of any piece of writing?
+Answer: to communicate ones ideas
+
+Question: What increases clarity and readability in any piece of writing?
+Answer: increasing cohesion between sentences and coherence among paragraphs
+
+Question: What increases clarity and readability in any piece of writing?
+Answer: cohesion between sentences and coherence among paragraphs
+
+Question: What do the writer toolboxes below provide immediate online support to?
+Answer: the writer toolboxes below provide immediate online support to.
+
+Question: Who did the sjsu writing center partner with to create writing subject guides?
+Answer: faculty experts from six of the largest graduate programs on campus
+
+Question: Who is invited to submit writing assignments for review by writing center tutors?
+Answer: faculty
+
+Question: What is the confidentiality of the feedback provided by the writing center tutors?
+Answer: all assignments will be kept private and will not be shared with anyone other than the two student tutors
+
+Question: Writing in what setting can be long, lonely, and challenging?
+Answer: college
+
+Question: Who can feel burned out while writing in college?
+Answer: student writers
+
+Question: What is one of the most effective remedies for student writers feeling burned out?
+Answer: participate in a writing group with other students.
+
+Question: What is the benefit of participating in a writing group with other student writers?
+Answer: working with other student writers creates a safe space to ask questions, troubleshoot issues, and discuss any fears.
+
+Question: When was the writing center reporting period?
+Answer: june 1, 2021 to may 31,
+
+Question: What is the email address to request a copy of the writing center's annual report?
+Answer: writingcenter@sjsu.edu.
+
+Question: For more information on joining your session, please follow the steps below.
+Answer: online tutoring
+
+Question: What is the number to call for support during regular business hours?
+Answer: (408) 924-2308
+
+Question: What is the first step in joining an online tutoring session?
+Answer: step 1 at https://sjsu.mywconline.com/. step 2
+
+Question: What color is the appointment box in wconline?
+Answer: yellow
+
+Question: How do you join an online tutoring session?
+Answer: click on the yellow appointment box.
+
+Question: How long does it take to join an online tutoring session?
+Answer: not more than five minutes before the start time.
+
+Question: What is the last step in joining an online tutoring session?
+Answer: wait to be admitted
+
+Question: What is the name of the official blog of the sjsu writing center?
+Answer: "the write attitude"
+
+Question: Who writes the blog entries for sjsu's writing center?
+Answer: writing center faculty and staff--provide tips and information about different genres and different parts of the writing process.
+
+Question: What is the name of the official blog of the sjsu writing center?
+Answer: "the write attitude"
+
+Question: What is the name of the center that offers in-person tutoring, online tutoring, and special programs?
+Answer: writing center
+
+Question: What is the writing center offering?
+Answer: in-person tutoring, online tutoring, in-person drop-ins, online workshops, and special programs.
+
+Question: Where is the writing center located on the sjsu campus?
+Answer: at the front desk on the second floor of the dr. martin luther king, jr. library
+
+Question: Who can apply for a course-embedded writing tutor?
+Answer: faculty member
+
+Question: What is a form of supplemental instruction?
+Answer: course-embedded writing tutors
+
+Question: Are course-embedded writing tutors more skilled and knowledgeable than their peers?
+Answer: they are more skilled and knowledgeable than their peers
+
+Question: Who works out a flexiblity agreement?
+Answer: faculty members and course-embedded writing tutors
+
+Question: What do we strive for to imbue all aspects of our work?
+Answer: dei principles
+
+Question: During what academic year did the writing center establish an anti-racism working group?
+Answer: 2020-2021
+
+Question: What does the anti-racism working group aim to examine?
+Answer: dei work is on-going and requires continuous self-reflection, so moving beyond the working group, we aim to examine
+
+Question: What type of tutors are available to support students for shorter periods of time?
+Answer: writing tutors
+
+Question: What are writing tutors available for?
+Answer: they are available to answer any quick questions
+
+Question: How do writing tutors differ from regular tutors?
+Answer: they will still engage in a dialogue with you--similar to a regular tutoring appointment--but the time is much more limited.
+
+Question: How long does it take to get help from a writing tutor?
+Answer: the scope of your question has to be narrow enough that a tutor can help you with it within the timeframe of about 15-20 minutes.
+
+Question: What will a writing tutor do if you want more extensive help?
+Answer: tutor will direct you to schedule a tutoring appointment.
+
+Question: What do you have to do to schedule a tutoring appointment?
+Answer: for more details,
+
+Question: What is available on the web in addition to the original writing resources that we create at sjsu's writing center?
+Answer: many other excellent resources that are available on the web.
+
+Question: Who offers online resources and tutorials in important topics related to research, plagiarism, and source citations?
+Answer: sjsu library
+
+Question: What uses different formatting styles?
+Answer: different disciplines
+
+Question: What is used in your field of study?
+Answer: citation style guide
+
+Question: What is the name of the career center at sjsu?
+Answer: sjsu career
+
+Question: What are we here to support as an sjsu faculty member?
+Answer: research, scholarship, and creative activity
+
+Question: How many ways can you receive immediate support?
+Answer: one
+
+Question: Who can assist you and respond to your work?
+Answer: student writing experts
+
+Question: How can you find out more about additional offerings?
+Answer: explore the details below
+
+Question: What is the name of the on-demand writing resource?
+Answer: write@sjsu canvas course
+
+Question: What is different from undergraduate writing?
+Answer: graduate writing
+
+Question: Do you know all the parts of a graduate research paper?
+Answer: do you know all the parts of a graduate research paper?
+
+Question: What do you need to know about a literature review?
+Answer: how to write an abstract
+
+Question: What is one thing the writing center can help you with?
+Answer: how to find articles based on your research question?
+
+Question: How do you integrate sources into your writing?
+Answer: seamlessly integrate sources
+
+Question: Who is here to help you?
+Answer: the writing center
+
+Question: Who has the writing center partnered with?
+Answer: college of graduate studies
+
+Question: What is the email address for the writing center?
+Answer: writingcenter@sjsu.edu.
+
+Question: Where are our staff working at any given time?
+Answer: on-site
+
+Question: What do you do if we are unable to answer your call?
+Answer: leave a voice message
+
+Question: What should you include in your email or voice message?
+Answer: include full details about your query, and we will respond as soon as possible within standard weekday business hours.
+
+Question: What kind of staff does the writing center not have working nights or weekends?
+Answer: professional staff
+
+Question: Do we have professional staff working nights or weekends?
+Answer: no,
+
+Question: What address the most common questions tutees ask in the writing center?
+Answer: homegrown handouts
+
+Question: Homegrown handouts address the most common questions tutees ask in what?
+Answer: writing center
+
+Question: What would you like to see addressed in the homegrown handouts?
+Answer: if you have a particular topic
+
+Question: Where can you find additional online writing resources?
+Answer: external resources
+
+Question: Where can you find resources about writing research papers?
+Answer: "research papers"
+
+Question: How are these handouts licensed?
+Answer: creative commons attribution-no
+
+Question: Who can visit your classroom?
+Answer: writing tutors
+
+Question: What would you like to request for multiple classes?
+Answer: workshops or house calls
+
+Question: What do you need to do before requesting our services?
+Answer: review the following reminders
+
+Question: What can we also accommodate if you'd prefer to come to us?
+Answer: in-person tours of the writing center
+
+Question: What do you need to do in order for a writing tutor to visit your classroom?
+Answer: uest a house call or workshop for your class,
+
+Question: What part of sjsu is now open for tutoring sessions?
+Answer: writing center
+
+Question: How long is a tutoring appointment at the writing center?
+Answer: 45-minute
+
+Question: How can you schedule a tutoring session at the writing center?
+Answer: (408) 924-2308 or email us at writingcenter@sjsu.edu. schedule a tutoring session
+
+Question: What is the name of the page that will help you join an in-person tutoring session?
+Answer: appointment help
+
+Question: How can you join a tutoring session?
+Answer: to join your in-person tutoring session, take the following steps.
+
+Question: How can you join an in-person tutoring session?
+Answer: you can also watch our
+
+Question: What center can help you develop your ideas, cite your sources properly, and organize your thoughts and communicate them articulately?
+Answer: writing center
+
+Question: What can the writing center help you do?
+Answer: develop your ideas, cite your sources properly, write clearly on the sentence level, and organize your thoughts
+
+Question: Along with returning students, what type of students do we understand?
+Answer: multilingual learners
+
+Question: How can you find out more about the writing center?
+Answer: click on the links below
+
+Question: Where can you find more information about the writing center?
+Answer: more details can be found
+
+Question: What does isss stand for?
+Answer: international student and scholar services
+
+Question: Who is welcome to join the workshops?
+Answer: other members of the sjsu community
+
+Question: Who is the coordinator of multilingual writing support services?
+Answer: amy
+
+Question: Where has amy russo lived for several years?
+Answer: japan
+
+Question: How do you sign up for the workshops?
+Answer: click on the title
+
+Question: Who is the mosaic cross cultural center in partnership with?
+Answer: sjsus
+
+Question: What is the name of the center that helps students improve their writing and communication skills?
+Answer: writing center
+
+Question: What will we be giving away at the pop-event?
+Answer: free swag
+
+Question: What is the mission of the mosaic cross cultural center?
+Answer: to provide a safe and welcoming envi
+

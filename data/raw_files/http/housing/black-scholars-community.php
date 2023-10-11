@@ -1,0 +1,1 @@
+theis an open community designed to provide leadership, guidance, mentorship, community and a space for those who are a part of or in support of the black community at san jose state university.mon - fri8:00am-5:00pm pst

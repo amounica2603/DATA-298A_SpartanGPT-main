@@ -1,0 +1,1 @@
+note: your first 1-3 checks after enrolling in direct deposit may still be live checks. if the check is green, its a live checkdo not close your old bank account until you are certain the last check has been deposited.university-personnel@sjsu.eduup north:408-924-2450up south:408-924-2250up webmasterup northadministration building 242up southupd building 3rd floor

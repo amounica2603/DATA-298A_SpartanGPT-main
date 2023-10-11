@@ -1,0 +1,1 @@
+during the interview, you are communicating not only the requirements of the position, but also thebenefitsof working at san jos state university:there may be times when more than one level of interview is appropriate:university-personnel@sjsu.eduup north:408-924-2450up south:408-924-2250up webmasterup northadministration building 242up southupd building 3rd floor

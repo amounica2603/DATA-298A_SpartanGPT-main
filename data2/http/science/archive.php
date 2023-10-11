@@ -1,0 +1,1 @@
+every spring semester since 2005, sjsu students who work on original research projects with college of science faculty have presented their results in the cos student research day (srd). below are the programs from all the past student research days: phone: 408-924-4800 email: science-info@sjsu.edu give to the sciences fund 

@@ -1,0 +1,1 @@
+have any questions or concerns not answered here on the website? emailcampusmasterplan@sjsu.edu.located in:corporation yardoffice hours:monday - friday, 8 a.m. - 5 p.m.saturday and sunday, closed

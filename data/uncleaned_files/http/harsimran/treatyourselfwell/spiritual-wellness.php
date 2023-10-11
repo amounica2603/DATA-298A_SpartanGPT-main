@@ -1,0 +1,1 @@
+find purpose, value and meaning in your life with or without organized religion.phone:408-924-6204the student wellness center (swc) at sjsu is located across from the event center.sjsu treat yourself wellstudent wellness centersan jos state universityone washington squaresan jose, ca 95192

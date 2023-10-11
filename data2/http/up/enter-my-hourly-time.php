@@ -1,0 +1,1 @@
+please enter time as you work rather than waiting until the end of the pay period. once the pay period ends, you will not have access to enter hours. university-personnel@sjsu.edu up north: 408-924-2450 up south: 408-924-2250  up webmaster up north administration building 242 up south upd building 3rd floor 

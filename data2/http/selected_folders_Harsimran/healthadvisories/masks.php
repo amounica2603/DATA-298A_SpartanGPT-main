@@ -1,0 +1,1 @@
+our campus mask status can be found at www.sjsu.edu/healthadvisories . email: healthadvisories@sjsu.edu sign up for alert sjsu 

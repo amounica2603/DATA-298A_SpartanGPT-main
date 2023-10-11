@@ -1,0 +1,1 @@
+congratulations to the class of fall 2022! to watch a live recording, please visit the commencement website (link here ). phone: 408-924-4800 email: science-info@sjsu.edu give to the sciences fund 

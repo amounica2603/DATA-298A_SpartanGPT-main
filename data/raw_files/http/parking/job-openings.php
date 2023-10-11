@@ -1,0 +1,1 @@
+we currently have the following open positions:if interested, please complete asjsu student assistant job application [pdf]and email it tongoc.nguyen@sjsu.edu. please submit a resume along with your application to better help us assess your qualifications.applicant requirements:

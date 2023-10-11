@@ -1,0 +1,10 @@
+San jose state has plenty to offer students from all different colleges. check out the schedule of events for all kinds of sports and activities.
+
+
+
+
+Section Scores for events_summary:
+
+ - -1.142
+
+---

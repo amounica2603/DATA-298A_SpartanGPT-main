@@ -1,0 +1,1 @@
+up recruiters are defined as staff in university personnel responsible for faculty or staff recruiting.contactchrs@sjsu.eduto request training for new recruiters as needed.university-personnel@sjsu.eduup north:408-924-2450up south:408-924-2250up webmasterup northadministration building 242up southupd building 3rd floor

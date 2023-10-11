@@ -1,0 +1,1 @@
+the following guidelines are for mpp and c99 classified employees and link to the chancellor's office documents. these links may require you to login with your csu login. university-personnel@sjsu.edu up north: 408-924-2450 up south: 408-924-2250  up webmaster up north administration building 242 up south upd building 3rd floor 

@@ -1,0 +1,1 @@
+if you need to make a delivery or to pick-up heavy items, please utilize our freight loading zones that are located in lot 8 or around the perimeter of the campus on 4th street.please do not use the red zone areas in front of the south garage or by the srac on 7th street for drop-off or delivery. violators will be cited.sjsu freight loading zones map full pdf.

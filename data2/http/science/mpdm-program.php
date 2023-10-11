@@ -1,0 +1,1 @@
+the master of science mpdm degree focuses on preparing students for an advanced career in clinical operations management, clinical trials monitoring, quality, regulatory, and the complex interdisciplinary process of medical product development. visit mpdm website for more information. phone: 408-924-4800 email: science-info@sjsu.edu give to the sciences fund 

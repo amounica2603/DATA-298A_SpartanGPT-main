@@ -1,0 +1,1 @@
+the certificate program aligns with the nationally defined knowledge areas in cyber security and information assurance, and prepares students with well-grounded fundamentals to become a professional in these areas. visit cs website for more information. phone: 408-924-4800 email: science-info@sjsu.edu give to the sciences fund 

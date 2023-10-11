@@ -1,0 +1,1 @@
+please note, for faculty with a break in service of two or more consecutive semesters, they should be hired through chrs recruiting.instructions on how to complete the rehire in chrs recruitinguniversity-personnel@sjsu.eduup north:408-924-2450up south:408-924-2250up webmasterup northadministration building 242up southupd building 3rd floor

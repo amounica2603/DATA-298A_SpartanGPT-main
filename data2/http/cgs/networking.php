@@ -1,0 +1,1 @@
+the college of graduate studies holds several networking events throughout the academic year for students to expand their professional skills and build the relationships that help them develop their careers. visit this page periodically to learn more about upcoming opportunities. 

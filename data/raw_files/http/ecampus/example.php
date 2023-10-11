@@ -1,0 +1,1 @@
+this syllabus from professor denise dawkins in the the valley foundation school of nursing shows how the sjsu accessible syllabus appears when viewing it online.phone:408-924-2337email:ecampus@sjsu.edulocation: irc, room 206ecampus, irc206instructional resource centersan jose state universityone washington squaresan jose, ca 95192-0026

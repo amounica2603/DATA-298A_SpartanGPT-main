@@ -1,0 +1,1 @@
+click here for a comprehensive list of san josé state university policies relating to research, scholarship, and creative activity (rsca). centers and institutes: guidelines replacing executive order 751 [pdf] cash payments to research subjects facilities & administrative cost recovery & distribution 

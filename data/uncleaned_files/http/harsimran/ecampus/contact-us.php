@@ -1,0 +1,1 @@
+you may contact us using any of these options:*please schedule an appointment if you plan to visit us for more than 30 minutes.phone:408-924-2337email:ecampus@sjsu.edulocation: irc, room 206ecampus, irc206instructional resource centersan jose state universityone washington squaresan jose, ca 95192-0026

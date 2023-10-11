@@ -1,0 +1,1 @@
+our team facilitates the university's diversity efforts, investigates and resolves complaints of discrimination, harassment and retaliation provides training and consultation, and ensures adherence to compliance requirements.university-personnel@sjsu.eduup north:408-924-2450up south:408-924-2250up webmasterup northadministration building 242up southupd building 3rd floor

@@ -1,0 +1,1 @@
+the sjsu e-invoice portal is a quick and convenient method to submit purchase order invoices to payment services for payment processing. when you receive a purchase order invoice from a supplier: phone: 408-924-1558 email: financeconnect@sjsu.edu finance and business services san josé state university 60 south market street suite 470 san josé, ca 95113 

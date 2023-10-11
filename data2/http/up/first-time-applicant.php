@@ -1,0 +1,1 @@
+confirm your eligibility then follow the steps below to apply for admission and the fee waiver career development program. for faculty, staff, and management, please submit the employee fee waiver application [docusign]  university-personnel@sjsu.edu up north: 408-924-2450 up south: 408-924-2250  up webmaster up north administration building 242 up south upd building 3rd floor 

@@ -1,0 +1,1 @@
+per university policy s22-1 [pdf] , you must include each of the items listed below in your proposal for it to be considered complete. once complete, you may route your proposal to the associate vice president for research (avpr) at cci@sjsu.edu via the administrative dean for the cci*. please submit inquiries to cci@sjsu.edu . 

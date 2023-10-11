@@ -1,0 +1,1 @@
+The student health center has a vending machine where students can purchase and dispense their test kits. students must follow the instructions on how to connect their test kit with their health record, and they must drop off their samples at the end of the week. If they drop off after that time, they will have to repeat the test.

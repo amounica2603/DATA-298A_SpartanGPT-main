@@ -1,0 +1,1 @@
+absences must be entered and approved by 5pm on the first working day of the following period. you are strongly encouraged to enter your absences as they occur rather than waiting until the end of the pay period. university-personnel@sjsu.edu up north: 408-924-2450 up south: 408-924-2250  up webmaster up north administration building 242 up south upd building 3rd floor 

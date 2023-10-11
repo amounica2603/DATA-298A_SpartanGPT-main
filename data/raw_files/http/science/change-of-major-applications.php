@@ -1,0 +1,1 @@
+college of science request for a change of major applicationif you have questions, please emailscience-academicprograms@sjsu.edu.change of major application deadlines:phone: 408-924-4800email:science-info@sjsu.edugive to the sciences fund

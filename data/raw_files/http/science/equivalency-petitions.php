@@ -1,0 +1,1 @@
+to request an equivalency petition for acourse, please complete aafter you request the equivalency petition, it will be emailed to the sjsu email provided on the request form. students must use sjsu credentials to access the forms.phone: 408-924-4800email:science-info@sjsu.edugive to the sciences fund

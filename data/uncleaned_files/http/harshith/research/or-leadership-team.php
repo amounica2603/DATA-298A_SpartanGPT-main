@@ -1,0 +1,1 @@
+dr. richard mocarskiassociate vice president for researchphone: 408-924-2488email:richard.mocarski@sjsu.eduvacantdirector of research developmentdr. jessica traskdirector of research compliancephone: 408-924-2460email:jessica.trask@sjsu.edudeborah maloneydirector of sponsored programsphone: 408-924-1421email:deborah.maloney@sjsu.edu

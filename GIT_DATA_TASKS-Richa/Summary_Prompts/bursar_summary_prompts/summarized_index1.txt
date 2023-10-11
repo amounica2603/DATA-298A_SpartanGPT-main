@@ -1,0 +1,1 @@
+Mysju is responsible for keeping track of the due dates for students to avoid enrolling late or non-payment.

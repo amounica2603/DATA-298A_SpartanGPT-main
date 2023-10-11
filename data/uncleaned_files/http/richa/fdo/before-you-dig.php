@@ -1,0 +1,1 @@
+sjsu is not a member of underground service alert (usa) so, if you are planning to dig on the sjsu campus, you must contact bothusaand sjsu for underground utility location information.for sjsu, call 408-924-1990 at least 3 working days before you intend to dig.located in:corporation yardoffice hours:monday - friday, 8 a.m. - 5 p.m.saturday and sunday, closed

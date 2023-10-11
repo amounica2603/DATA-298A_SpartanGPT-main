@@ -1,0 +1,1 @@
+to enhance the mission of the college of health and human sciences by promoting a deeper understanding of equity and diversity by recognizing and being responsive to issues on age, class, disability, ethnicity, gender, race, religion, and sexual orientation.dei resources dean's office

@@ -1,0 +1,1 @@
+office hours: mon - th | 8am - 12pm; 1- 5pm; fri(online) | 8am - 12pm; 1- 5pm; phone: 408-924-3700 email: specialed@sjsu.edu social media: @sjsulurie 

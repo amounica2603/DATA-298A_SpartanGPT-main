@@ -1,0 +1,1 @@
+a single static powerpoint slide is permitted (no slide transitions, animations or ‘movement’ of any kind; the slide is to be presented from the beginning of the oration). 

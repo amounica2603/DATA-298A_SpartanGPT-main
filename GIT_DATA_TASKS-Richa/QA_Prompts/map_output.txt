@@ -1,0 +1,66 @@
+Question: After what time are classroom buildings open?
+Answer: 6:15 p.m.
+
+Question: How long does a door remain unlocked after 6:15 p.m. monday - friday?
+Answer: at least one door remains unlocked until 10 p.m.
+
+Question: What must you present to gain access to a locked building after hours?
+Answer: a valid sjsu id and written authorization from faculty or staff or a reservation confirmation to enter the building
+
+Question: What must you present to gain access to a locked building after hours?
+Answer: a valid sjsu id and written authorization from faculty or staff or a reservation confirmation to enter the building
+
+Question: What must you present to gain access to a locked building after hours?
+Answer: a valid sjsu id and written authorization from faculty or staff or a reservation confirmation to enter the building
+
+Question: What are the hours of operation for multi-use buildings?
+Answer: a.m 6 p.m
+
+Question: Where is 101 paseo de san antonio?
+Answer: 101 paseo de san antonio between 2nd and, n 3rd
+
+Question: Where is the hammer theatre located?
+Answer: the heart of downtown san jos, between 2nd and 3rd street,
+
+Question: How far from the main campus is the south campus of sjsu?
+Answer: 8 blocks
+
+Question: How large is the main campus of sjsu?
+Answer: 88 acres
+
+Question: What streets are at the corner of one washington square?
+Answer: s. 7th and e. san salvador streets
+
+Question: What is the number of moss landing rd?
+Answer: 8272
+
+Question: What is headquartered at moss landing, california?
+Answer: sjsus moss landing marine labs
+
+Question: Along with sand dunes and sandy beaches, what type of habitats are located north and south of the moss landing harbor?
+Answer: kelp forest habitats
+
+Question: What type of map can you download?
+Answer: off-campus facilities
+
+Question: What is the name of the airport?
+Answer: swift ave
+
+Question: Where is the classroom building located?
+Answer: 384 south 2nd street
+
+Question: On what street is the classroom building located?
+Answer: south 11th street
+
+Question: What is the number of s 10th st?
+Answer: 1257
+
+Question: What is the zip code for humboldt st #300?
+Answer: 951121312
+
+Question: How large is the south campus of san jose state?
+Answer: 62 acres
+
+Question: How many san jose state students use the south campus?
+Answer: thousands
+

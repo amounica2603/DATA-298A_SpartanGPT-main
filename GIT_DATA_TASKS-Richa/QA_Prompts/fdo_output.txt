@@ -1,0 +1,2694 @@
+Question: What is the support unit for facilities development and operations?
+Answer: facilities administrative services
+
+Question: What are our responsibilities for all facility maintenance, renovation, and new construction?
+Answer: purchasing and processing payments
+
+Question: What is the common goal of the energy department?
+Answer: to provide efficient, accurate, and professional services
+
+Question: What does this person do for fdo service group?
+Answer: processes invoices for construction projects
+
+Question: What does the office of the comptroller do?
+Answer: prepares monthly cash flow reports
+
+Question: What is provided for budget?
+Answer: analysis and projection reports
+
+Question: What is a typical responsibilities of a cashier?
+Answer: disburses and reconciles
+
+Question: What type of payment is prepared for training and memberships?
+Answer: direct payment
+
+Question: What do you assist with for construction projects?
+Answer: job order contracting program
+
+Question: What is the department's equipment inventory?
+Answer: maintains department equipment inventory.
+
+Question: What does the system automate?
+Answer: the system automates the entire maintenance process
+
+Question: What ensures every activity is properly managed throughout the process?
+Answer: an electronic routing feature
+
+Question: What allows you to analyze this process and enables full visibility of your organization?
+Answer: numerous reports and graphs
+
+Question: What feature allows you to track and analyze labor, material and contractor costs?
+Answer: job costing features
+
+Question: What are there for charging your customers?
+Answer: comprehensive billing capabilities
+
+Question: What functions does the system provide?
+Answer: the system provides functions for optimizing inventory levels
+
+Question: What is the process called for items?
+Answer: reserving, locating, issuing, and charging
+
+Question: What do you do?
+Answer: performing physical and cycle inventories
+
+Question: What is an example of inventory management?
+Answer: costing
+
+Question: What else is there to do?
+Answer: much more
+
+Question: What is tightly integrated with famis maintenance management?
+Answer: famis inventory control
+
+Question: What does the program track the issue of to individuals?
+Answer: key copies
+
+Question: What is provided by the administration and finance division?
+Answer: receipts can be tracked as well and a transaction history of all issues and returns can be provided.support is provided by the administration and finance division
+
+Question: What is a department costs?
+Answer: printer and peripherals equipment
+
+Question: What is the preferred e-mail for the campus?
+Answer: lotus notes
+
+Question: The program can initiate project estimates with adjustments and what else?
+Answer: trackable modifications
+
+Question: What is the centralized point of contact for all requests for facility maintenance and fee for service work for sjsu?
+Answer: fdo customer service center
+
+Question: What is the name of the center that provides courteous and knowledgeable customer service between facilities, development, and operations?
+Answer: the fdo customer service center
+
+Question: What does the customer service center coordinate?
+Answer: all routine, non-routine, and emergency maintenance services
+
+Question: Alarms, elevators malfunctioning, flooding, and electrical outages are examples of what?
+Answer: typical emergency calls
+
+Question: Where do we provide systems implementation and administration?
+Answer: facilities development and operation
+
+Question: What does fdo do
+Answer: provide strategic planning, analysis and advice for all computer applications and operating systems utilized by facilities development and operations.
+
+Question: What type of features does the system provide?
+Answer: comprehensive features
+
+Question: What does the system automate?
+Answer: the system automates the entire maintenance process
+
+Question: What ensures every activity is properly managed throughout the process?
+Answer: an electronic routing feature
+
+Question: What does inventory consist of?
+Answer: various electrical, plumbing, hvac, automotive, irrigation and custodial supplies
+
+Question: Who orders specialty items for campus projects?
+Answer: facilities management
+
+Question: What do they stock in case of a power outage?
+Answer: emergency flashlights
+
+Question: What is the warehouse stocked with for use in the event of an emergency?
+Answer: emergency equipment and supplies
+
+Question: What does the company do?
+Answer: purchases supplies/materials/equipment
+
+Question: What does the fdo disburse and reconcile?
+Answer: petty cash
+
+Question: What is the role of the Parts Coordinator?
+Answer: researches parts availability for obsolete equipment
+
+Question: What else does it do?
+Answer: verifies liability insurance, worker compensation, bonds, and determines low bidder
+
+Question: Delivers what to university procurement?
+Answer: complete documentation
+
+Question: What does the planning design and construction site do?
+Answer: issues notice to proceed
+
+Question: Do all projects require a mandatory walk-through by potential bidders?
+Answer: all projects require a mandatory walk-through
+
+Question: What is a typical responsibilities of a cashier?
+Answer: disburses and reconciles
+
+Question: What type of payment is made for training and memberships?
+Answer: direct payment
+
+Question: What do you assist with for construction projects?
+Answer: job order contracting program
+
+Question: Who maintains department equipment inventory?
+Answer: maintains department equipment inventory.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is below about the workforce housing project?
+Answer: answers to important questions
+
+Question: What is the official name of SJSU's workforcehousing?
+Answer: alfred
+
+Question: How large is the alquist building?
+Answer: 134,000 squarefeet
+
+Question: What is the location bounded by?
+Answer: third street to the east, second street to the west, and the san carlos parking garage, owned and operated by the city of san jose,
+
+Question: How far from the main sjsu campus is the site?
+Answer: one block west
+
+Question: What will sjsu do to gather community input for a new, future-forward name for the completed project?
+Answer: sjsu will conduct a renaming process
+
+Question: How many apartment units will be on-site?
+Answer: up to 1,000
+
+Question: What can ensure that sjsu takes responsibility to safeguard the campus community's long-term stability?
+Answer: addressing the imbalance between jobs and housing
+
+Question: What building was donated to sjsu from the state of california?
+Answer: alquist building
+
+Question: What is an untenable direction that the university will not adopt?
+Answer: allowing that site to remain vacant after a formal transfer of the property to sjsu
+
+Question: What allows the university to go into its approach to housing with momentum and expertise to then pursue other projects in the future?
+Answer: pursuing housing at this site, with a comprehensive development plan
+
+Question: What is the range of wage-earners that workforce housing accommodates?
+Answer: 80% to 120%
+
+Question: What percentage of ami is $141,540?
+Answer: 120%
+
+Question: What percentage of ami is $134,800 for households with four persons?
+Answer: 80%
+
+Question: What is designed to accommodate a subset of individuals and household types from the full range of income-earners?
+Answer: workforce housing
+
+Question: What percentage of ami does the alquist redevelopment aim to offer to eligible sjsu-affiliated residents?
+Answer: 100%
+
+Question: How do most sjsu employees qualify for workforce housing?
+Answer: within the defined range of incomes
+
+Question: What is a definitive number of total cost contingent on?
+Answer: the results of the contracting process with selected development partners
+
+Question: What are some of the factors that will continue to evolve in the current landscape?
+Answer: uncertainty around labor, supply chain issues, inflation, and financing challenges, the cost of developing the alquist site
+
+Question: What is sjsu preparing to keep the project within budget?
+Answer: contigency measures
+
+Question: Where will the funding for the project come from?
+Answer: university general fund
+
+Question: How will the entire cost of the project be borne?
+Answer: equity model
+
+Question: The project will not negatively impact what or future housing projects?
+Answer: academic programming
+
+Question: The project does not tap into what?
+Answer: campus reserves
+
+Question: What will such funding be steered toward?
+Answer: facilities that support the core academic mission of sjsu, including but not limited to main campus building construction
+
+Question: What may take upwards of 30 months?
+Answer: construction of the new building(s)
+
+Question: What is the email address for the new facility?
+Answer: workforcehousing@sjsu.edu
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Along with leasing, what are the answers to regarding the eventual apartment complex?
+Answer: building amenities
+
+Question: What is the email address for any questions or concerns not addressed here?
+Answer: workforcehousing@sjsu.edu.
+
+Question: What type of facility is available for pets?
+Answer: dog run
+
+Question: How many commitments have been made at this time?
+Answer: no specific commitments
+
+Question: What type of recommendations does the project planning team welcome?
+Answer: amenity recommendations
+
+Question: What does the university anticipate to handle any and all leasing matters?
+Answer: a separate property management company
+
+Question: How many apartments will the project create?
+Answer: up to 1,000 units
+
+Question: Who will be welcome to share in residency?
+Answer: families and pets
+
+Question: What no longer apply to new development in the city of san jose as of 2022?
+Answer: parking requirements
+
+Question: What is in alignment with sustainable land use?
+Answer: no such parking minimums, such as a set amount of car spaces per unit, would apply to this project.
+
+Question: What did most interested survey respondents indicate they would continue to use?
+Answer: on-campus parking facilities
+
+Question: What does lower demand for parking on-site mean?
+Answer: lower demand for parking on-site reduces the total development cost
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What are below regarding ceqa?
+Answer: answers
+
+Question: What is the email address to email if you have a question that isn't answered here?
+Answer: workforcehousing@sjsu.edu.yes
+
+Question: What is critical to sjsu and essential to university principles of robust community engagement?
+Answer: transparency
+
+Question: What does ceqa stand for?
+Answer: california environmental quality act
+
+Question: What is a cornerstone of sjsus approach to completing this project?
+Answer: community engagement
+
+Question: When did a renewed sense of purpose and clarity about the university's goals for alquist begin?
+Answer: fall 2022
+
+Question: Whose approval could a mitigated negative declaration be subject to?
+Answer: csu board of trustees
+
+Question: What will be required or applicable to this project?
+Answer: no such review or approval
+
+Question: What is the only overriding consideration in the form of building regulations?
+Answer: federal aviation administrations building height limitation
+
+Question: What will apply as the alquist redevelopment will be in the flight path for san jos mineta international airport?
+Answer: height limitations
+
+Question: What is the maximum height that buildings in the immediate vicinity can rise to?
+Answer: 390 feet
+
+Question: How many stories tall are buildings on average?
+Answer: 20
+
+Question: How tall is the alquist redevelopment?
+Answer: 24 stories in height
+
+Question: What is a unique opportunity of this project?
+Answer: to reduce car traffic.any documents or reports produced as part of the ceqa process as well as construction plans will include specific, or required, traffic mitigation measures.
+
+Question: What does alquist benefit from?
+Answer: pre-existing public transit along the western edge of the project site with vtas blue and green light rail lines stopping at the southbound san antonio station
+
+Question: What city has a comprehensive bike network?
+Answer: downtown san joss
+
+Question: What contributes to non-motorized urban mobility?
+Answer: pedestrian access along the paseo as well as well-lit, heavily trafficked pathways to the main campus
+
+Question: Who is open to any and all suggestions for use of the ground floor and communal spaces?
+Answer: the planning team
+
+Question: What is the email address for suggestions?
+Answer: campusmasterplan@sjsu.edu
+
+Question: What is being circulated or planned by the university at this early stage of the project?
+Answer: no formal requests or solicitations
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is the name of the redevelopment?
+Answer: alquist
+
+Question: What is the area median income?
+Answer: middle-point of household salaries across the full range of wages
+
+Question: What is the name of the area where ami is calculated?
+Answer: san jos-santa clara-sunnyvale metropolitan statistical area
+
+Question: What is the ami for a household of four?
+Answer: $168,500
+
+Question: Where can ami varies for household sizes of other amounts be found?
+Answer: california department of housing and community development (hcd) website.
+
+Question: What is the website for the california department of housing and community development?
+Answer: www.hcd.ca.gov.the california department of housing and community development (hcd) sets income limits for various subsidized housing programs based on different levels of ami
+
+Question: What defines a household as low-income?
+Answer: earning under ami
+
+Question: Who can qualify for the most accommodating forms of subsidized housing?
+Answer: those who earn upwards of 120%
+
+Question: What can be taken with several other data points to quantify a growth in wages, economic activity, and wealth inequality?
+Answer: a high and ever-increasing ami
+
+Question: Who builds workforce housing?
+Answer: an employing organization
+
+Question: What is the typical income range for the sjsu workforce housing project?
+Answer: between 80% to 120% of ami.
+
+Question: What will the rents be in some cases for specific units?
+Answer: below
+
+Question: How much money is spent on rent at 80% of a single-individual household ami?
+Answer: $2,358 per month
+
+Question: What is the generally accepted rate at which household expenses, in most cases: rent, should be kept?
+Answer: 30%
+
+Question: What would the rental rate be for a family of four?
+Answer: $4,212.50 per month
+
+Question: What is the rate of home ownership in the san jose area?
+Answer: 49%
+
+Question: What is the median price of a home in san jos?
+Answer: over $1,400,000
+
+Question: What is the average mortgage of a median home in san jose?
+Answer: over $7,700
+
+Question: What city has the most expensive housing market in the nation?
+Answer: san jose
+
+Question: How does workforce housing help sjsu employees and students?
+Answer: market-rate averages for the most-common types of rental units lock out most sjsu employees and students, absent any kind of long-term sustainable subsidy or cost control.
+
+Question: What percentage of ami does a wage earner make in san jos?
+Answer: 80%
+
+Question: How much does a three-bedroom unit rent for in san jos?
+Answer: over $4,300
+
+Question: What is the range of income limits for housing projects in san jos?
+Answer: 30% to 60%
+
+Question: What is the range of incomes that are within ami?
+Answer: 30% to 60%
+
+Question: What is housing of this type meant to be?
+Answer: a deeply affordable housing option to those for whom there is often no other alternative housing.
+
+Question: What is it called when more than one person occupies one room?
+Answer: overcrowding
+
+Question: How many rooms does the typical sjsu-affiliated household occupy?
+Answer: 2.1 rooms
+
+Question: What is the hud rate of severe overcrowding?
+Answer: 1.5 persons per room
+
+Question: What do renters have to do in order to live in shared accommodations?
+Answer: sjsu as a student or work at sjsu as an employee
+
+Question: Does overcrowding become a greater issue the lower the household wage is?
+Answer: overcrowding becomes a greater issue the lower the household wage is, as such for the inverse.
+
+Question: What is density?
+Answer: individuals and families are allowed to occupy their own rooms and separate units of housing without having to share accommodations
+
+Question: What can absorb built up demand for housing not currently met by rates of housing construction?
+Answer: a greater density of units in a given area provides more options at a range of affordability levels
+
+Question: On average, how many units of new housing are added each year in cities similar to san jos?
+Answer: 15,000
+
+Question: What types of housing are available?
+Answer: range of apartments, condominiums, and single-family houses
+
+Question: What are the three major cities of the bay area?
+Answer: san jos, oakland, and san francisco
+
+Question: What is the imbalance of housing to jobs?
+Answer: affordable housing
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is the name of the building being redeveloped?
+Answer: alquist
+
+Question: What is a pro forma?
+Answer: the document outlining the overall finance structure for a construction project, is in development and will be included in the final plan presented to the csu board of trustees in early spring 2023.
+
+Question: In what currency is the estimate for the cost of the project?
+Answer: today's dollars
+
+Question: What type of development will the project be?
+Answer: off balance sheet development
+
+Question: What type of capital will be brought to the project through an equity structure?
+Answer: private capital
+
+Question: What will not be pursued to fund or support this project?
+Answer: no sjsu campus reserves or csu systemwide revenue bonds
+
+Question: The cost of developing what site will continue to evolve and escalate given a range of factors?
+Answer: alquist site
+
+Question: What is the initial estimate of the cost of sjsu?
+Answer: $750,000,000
+
+Question: What is the average cost per unit of housing in the bay area?
+Answer: $850,000
+
+Question: How many units of housing are planned for the alquist redevelopment?
+Answer: 1,000
+
+Question: Why is it costly to build in this market?
+Answer: construction in such an expensive market to build
+
+Question: Who is committed to transparency in the building process?
+Answer: sjsu
+
+Question: What is the source of funding for the project?
+Answer: funding for the project will not come out of the university general fund
+
+Question: What type of development will the project be?
+Answer: off balance sheet
+
+Question: What aims to be a fully self-supporting workforce housing project?
+Answer: alquist redevelopment
+
+Question: What will be pursued to fund this project?
+Answer: no sjsu campus funds or csu system wide revenue bonds
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is the email address to contact the project planning team?
+Answer: workforcehousing@sjsu.edu.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is the name of the redevelopment?
+Answer: alquist
+
+Question: What is the name of the pedestrian walkway that connects san jose state university with plaza de csar chavez?
+Answer: paseo de san antonio
+
+Question: What is the core pedestrian promenade in san jos?
+Answer: the paseo
+
+Question: What will anchor the eastern end of the paseo?
+Answer: the alquist redevelopment
+
+Question: What is the downtown core of san jose used to seeing?
+Answer: downtown core used to seeing low to mid-rise development.
+
+Question: Where do blue and green line trains stop?
+Answer: on the opposite side of third street at san antonio station on the western boundary of the alquist redevelopment site.
+
+Question: What type of rides are offered to north san jos corporate campuses?
+Answer: one-seat, transferless rides
+
+Question: How far east of diridon station is the alquist redevelopment site?
+Answer: one and a half miles
+
+Question: What do the bike lanes allow for?
+Answer: both bicycling and scooter connections to downtown amenities already present for future residents.
+
+Question: What other major companies have headquarters in north san jos?
+Answer: cisco, paypal, and samsung
+
+Question: How many jobs will google's downtown west live-work campus bring in the next decade?
+Answer: 25,000
+
+Question: How are major silicon valley corporations and companies within commute distance?
+Answer: vta light rail service
+
+Question: What is the name of the train service that goes to sunnyvale, mountain view, palo alto, and downtown san francisco?
+Answer: caltrain
+
+Question: How many seats does the bart train have?
+Answer: one-seat
+
+Question: Along with the u.s., what major freeways are nearby?
+Answer: i-280 and i-880
+
+Question: What highways are few and far between?
+Answer: highway 101.surrounding apartment complexes
+
+Question: Why do most buildings in san jose not rise to a height greater than 390 feet?
+Answer: height restrictions set by the federal aviation administration
+
+Question: Why are most apartment complexes in the area well below the maximum building height?
+Answer: high cost of construction
+
+Question: What is the average height of apartments around sjsu?
+Answer: no greater than seven stories.
+
+Question: How many stories is the planned residential tower?
+Answer: 24
+
+Question: What is the minimum requirement for new construction in downtown san jos?
+Answer: at least 800 dwelling units per acre
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Who is in charge of alq_presentation?
+Answer: marcus ismael
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is the name of the building being redeveloped?
+Answer: alquist
+
+Question: What is the email address for any questions or concerns not addressed here?
+Answer: workforcehousing@sjsu.edu.
+
+Question: What did the csu board of trustees do on January 25, 2023)?
+Answer: conceptual approval
+
+Question: What was released by sjsu for open bidding by general contractors and development firms?
+Answer: request for qualifications (rfq) and request for proposals (rfp)
+
+Question: What is the purpose of the rfq and rfp?
+Answer: campus community outreach
+
+Question: What is the demand for surveys?
+Answer: demand
+
+Question: What is the board of trustees of what university?
+Answer: california state university
+
+Question: What is ceqa?
+Answer: beginning of california environmental quality act
+
+Question: What does the csu board of trustees have to do?
+Answer: conceptual approval
+
+Question: What two documents are released for open bidding by general contractors and development firms?
+Answer: request for qualifications (rfq) and request for proposals (rfp)
+
+Question: What happens at the conclusion of the rfp selection process?
+Answer: awarding of contracts at the conclusion of the rfp selection process
+
+Question: What does the csu board of trustees approve?
+Answer: development plan approval
+
+Question: What is under way?
+Answer: design
+
+Question: What is the name of the complete design?
+Answer: ceqa
+
+Question: ceqa complete. what is complete?
+Answer: design
+
+Question: What is under way?
+Answer: construction
+
+Question: What is the status of construction?
+Answer: construction complete
+
+Question: What is under way?
+Answer: construction
+
+Question: What is the email address for the corporation yard office?
+Answer: workforcehousing@sjsu.edu
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is a mineral fiber that occurs naturally in rock and soil?
+Answer: asbestos
+
+Question: What type of fibers are strong and heat resistant?
+Answer: asbestos fibers
+
+Question: Since when has it been in use?
+Answer: 2500
+
+Question: When did the use of asbestos increase?
+Answer: mining and use grew exponentially during the industrial era of the 1800s and continued through world war ii.
+
+Question: What law prohibits the use of asbestos in buildings built prior to 1978?
+Answer: section 25915 of the california health and safety code
+
+Question: What material is potentially hazardous only when it is friable?
+Answer: asbestos
+
+Question: What type of hazard can friable asbestos materials cause?
+Answer: inhalation
+
+Question: What has sjsu developed a comprehensive to do?
+Answer: ensure that any asbestos containing building materials are properly maintained and wont become airborne.
+
+Question: What will ehs do?
+Answer: hazard assessment
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Who is the one point of control for all sjsu state owned or leased vehicles?
+Answer: fmc services
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What do fluorescent lamps and tubes contain that makes them hazardous waste in california?
+Answer: mercury
+
+Question: What type of light bulbs are still used today?
+Answer: old style incandescent light bulbs
+
+Question: What does recycling services only collect?
+Answer: compact fluorescent light bulbs.batteries and cfls are turned over to our campus hazardous materials specialist for recycling.
+
+Question: How many tons of batteries are discarded every year?
+Answer: 125,000
+
+Question: How many times would discarded aa batteries circle the earth?
+Answer: 6
+
+Question: What type of batteries are better than disposable batteries?
+Answer: rechargeable batteries
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is sjsu's phone number?
+Answer: 408-924-1990
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Who endeavors to provide the best service possible to sjsu campus?
+Answer: fdo
+
+Question: How many work requests are there each year?
+Answer: over 17,000
+
+Question: What is an important component to meeting campus needs?
+Answer: effective communication between fdo and its customers
+
+Question: What are brs responsible for?
+Answer: relaying information from fdo to appropriate building occupants
+
+Question: What is an important communication liaison between building occupants and fdo?
+Answer: brs
+
+Question: What may go unreported for extended periods of time because people may assume others have reported it?
+Answer: facility issues
+
+Question: What building on campus has an officially designated br?
+Answer: each building
+
+Question: What is the role of the br?
+Answer: their role as a communication liaison is extremely important.
+
+Question: What must be done for this role to work effectively?
+Answer: following certain protocols
+
+Question: What should the br refrain from being in the prioritization process?
+Answer: departmental lobbyist
+
+Question: What is allowing a squeaky wheel to influence the prioritization process contrary to?
+Answer: campus wide fairness
+
+Question: How many work requests does fdo receive?
+Answer: thousands
+
+Question: What does fcs stand for?
+Answer: fdo customer service
+
+Question: Who should brs be in contact with?
+Answer: fcs
+
+Question: What does fdo operate?
+Answer: a facilities customer service (fcs) department
+
+Question: What type of communication is fcs responsible for?
+Answer: facility related communications
+
+Question: All communications between fdo and brs should be through what?
+Answer: fcs
+
+Question: Who can assist brs and others with training and procedures on how to use the on-line system?
+Answer: fcs
+
+Question: What should be forwarded to fcs?
+Answer: questions regarding the procedures for submitting work requests below
+
+Question: What will fcs send brs communication about?
+Answer: planned or emergency utility shutdowns
+
+Question: Who should the br forward communications to?
+Answer: the appropriate building occupants
+
+Question: Who should raise concerns about the shutdown?
+Answer: occupants
+
+Question: What are concerns defined as?
+Answer: inquiries and/or information
+
+Question: Who can best perform this function by keeping in touch with what is scheduled in the building?
+Answer: br
+
+Question: What is the immediate threat of a fire?
+Answer: immediate threat to life/safety, loss of utilities, building system failure, and immediate threat of property damage
+
+Question: How is the building related to the building?
+Answer: related
+
+Question: Who should report emergencies to fcs by phone?
+Answer: br
+
+Question: How many service requests does fdo complete per year?
+Answer: over 17,000
+
+Question: What are all of which are as appropriate?
+Answer: assessed, prioritized, and scheduled
+
+Question: What is a complex process due to many competing needs and limited resources?
+Answer: the prioritization of work
+
+Question: Why can't most requests be scheduled immediately?
+Answer: sheer volume of work
+
+Question: How long are most mando staff scheduled out?
+Answer: at least 3 months
+
+Question: Are emergencies given top priority?
+Answer: emergencies, as defined above, are always given top priority
+
+Question: What are brs and the campus community encouraged to do in order so that fdo can best meet their needs?
+Answer: do as much advance planning as is possible
+
+Question: When is it assumed that projects can be done during breaks?
+Answer: summer
+
+Question: What is the busiest time for fdo?
+Answer: breaks
+
+Question: What type of work does fdo do?
+Answer: emergencies
+
+Question: What does preventative maintenance cause to the campus?
+Answer: great disruption and cost
+
+Question: What type of maintenance calendar does the fdo follow?
+Answer: 52-week, multi-year
+
+Question: How long in advance are pms often scheduled?
+Answer: years in advance
+
+Question: How long does it take for pm schedules to be distributed to fdo staff?
+Answer: 90 day schedule
+
+Question: Where does much of the maintenance work take place?
+Answer: in basements, utility and mechanical rooms, and on roof tops
+
+Question: What is a major building system overhaul?
+Answer: major building system overhauls and replacements
+
+Question: How much money is needed for dm work at Washington University?
+Answer: $100 million
+
+Question: What does fdo receive funding for
+Answer: fdo receives funding annually to address the most pressing dm needs
+
+Question: What might be something like a remodel to a space, addition of infrastructure to support a change requested by the end user?
+Answer: an nmp
+
+Question: What are items that the requesting department would need to initiate and also would be responsible for paying costs for?
+Answer: nmp
+
+Question: What is one type of project that these projects range from?
+Answer: new buildings
+
+Question: How many nmps is fdo managing?
+Answer: over 100
+
+Question: What has a long queue time due to the sheer volume of requests?
+Answer: nmps
+
+Question: What is crucial for departments to ensure fdo can meet their needs?
+Answer: long range planning
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What type of order is no?
+Answer: perexecutive
+
+Question: What is the name of the policy statement for the california state university?
+Answer: policy statement on energy conservation, sustainable building practices, and physical plant management
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is skarbek's job title?
+Answer: construction safety specialist
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is the name of the company that operates the corporation yard office?
+Answer: abcdefghi
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What serves as the long range planning guide for accommodating the projected enrollment capacity and educational and administrative programs of Washington University?
+Answer: the campus master plan
+
+Question: What must be consistent with the master plan?
+Answer: all physical improvements on the campus must be consistent with and supportive of the master plan.
+
+Question: What was the first step in the process of transformation 2030?
+Answer: creation of an updated strategic plan
+
+Question: When will the campus master plan be published?
+Answer: campus master plan.a draft of the campus master plan will be published for public review and comments beginning in early spring
+
+Question: The master plan will address physical development for the main and south campuses as well as what else?
+Answer: off-campus properties and connections with the city of san jose
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What unique feature of the campus grounds is serviced regularly by the san jose conservation corps?
+Answer: blue recycling bins for can and bottle recycling
+
+Question: What is the phone number to report a full container that needs collection?
+Answer: 408-924-1990.recycling services
+
+Question: Who is the only authorized group to remove cans and bottles from recycling bins?
+Answer: 408-924-1990.the san jose conservation corps
+
+Question: What is the number to report unauthorized persons collecting cans and bottles from recycling bins?
+Answer: 924-2222.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Where should cardboard boxes be left?
+Answer: next to a paper recycling container in your office area, where they will be picked up by the custodians for recycling.
+
+Question: What is the email address to contact recycling services at sjsu?
+Answer: recycle@sjsu.edu
+
+Question: How far is the processing facility from campus?
+Answer: 15 miles
+
+Question: What happens to the cardboard after it is baled?
+Answer: baled and sent to mills in the us, mexico, and china where it is pulped and made into new paper and cardboard
+
+Question: What percentage of cardboard was recovered for recycling in 2007?
+Answer: 78.3%
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is on the south campus?
+Answer: multi-level parking structure and sports field facility
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Who delegates building permit authority to csu campuses?
+Answer: the state of californian
+
+Question: Who does eue support in the interpretation of issues related to mechanical, plumbing, electrical and fire codes?
+Answer: the campus building official who is a staff member of fdo:planning design and construction(pdc).eue supports the building official in the interpretation of issues related to mechanical, plumbing, electrical and fire codes.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Who is on the quarterly safety committee?
+Answer: representatives from each collective bargaining unit on campus
+
+Question: Who is encouraged to attend the meeting?
+Answer: a representative from each of the units listed below
+
+Question: Who can you contact if you would like to add something to the meeting agenda?
+Answer: matt nymeyer
+
+Question: What is matt nymeyer's phone number?
+Answer: 4-1969
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What type of services are provided by all building trades?
+Answer: construction services
+
+Question: Who develops drawings, plans and specifications for minor remodel work?
+Answer: the construction services group
+
+Question: What is the name of the shop that repairs, assembles, and installs department assets?
+Answer: carpenter shop
+
+Question: What are some of the services this shop provides?
+Answer: building, remodeling, maintaining and repairing various types of facilities and structures.
+
+Question: What is the value of minor renovations?
+Answer: less than $400,000.00
+
+Question: What is the value of a minor remodel?
+Answer: more than $400,000.00
+
+Question: What are some of the systems that can be involved in a building project?
+Answer: hvac equipment, electrical components and rough-ins, plumbing fixtures and rough-ins, fire protection
+
+Question: How does one begin the process of a renovation or remodel?
+Answer: entering a service request through the i-service web link.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What takes place on campus year round?
+Answer: building renovations and construction projects
+
+Question: Where do contractors recycle construction and demolition debris as part of their scope of work?
+Answer: san jose state university
+
+Question: What is the typical recovery rate of a cd recovery facility?
+Answer: 80 percent
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What does fdo hire contractors for?
+Answer: work outside the scope of the maintenance team
+
+Question: What type of services do these contractors perform?
+Answer: a variety of services
+
+Question: What includes new construction, alterations, and additions to existing structures and infrastructures?
+Answer: construction projects
+
+Question: How do I submit a request for a project?
+Answer: to submit the proper request form see the followinglist of frequently used documents.to check the status of your project, see our projects page.
+
+Question: What do department owners create needs for?
+Answer: building renovations, classroom alterations, office space improvements, parking structure additions, athletic structural needs, erection of signage and information kiosks
+
+Question: Who submits the work order to the building permit committee?
+Answer: i-servicedesk who will create a work order in tma describing department's need.tma work control coordinator
+
+Question: What happens when a project is classified as a project?
+Answer: the committee assigns a project manager (pm) to coordinate with the department owner (do) on the details of the construction process.
+
+Question: What type of services may the pm employ?
+Answer: outside services
+
+Question: What is all of this geared towards?
+Answer: creation of a precise and detailed scope of work
+
+Question: What does cpdc stand for?
+Answer: csu office of the chancellor
+
+Question: What does code section 14838.7 ask for?
+Answer: two or more sb/dvbe contractors to submit a bid for projects under $250,000.00 or the cost limit reference in public contract code 10105.it is also necessary to place legal ads at local newspaper and trades circulars as well as builder exchanges
+
+Question: The project is discussed in detail followed by what at the site?
+Answer: job walk
+
+Question: All issues for clarifications shall be addressed through what?
+Answer: an addendum
+
+Question: How long after the pre-bid meeting is the pre-bid meeting?
+Answer: 30 days
+
+Question: Along with university guidelines, what guidelines are used to determine a bidder?
+Answer: csu
+
+Question: What is set by the pm after the contract is awarded?
+Answer: pre-construction meeting
+
+Question: What does it stand for?
+Answer: university information technology services
+
+Question: Who is responsible for the planned activities?
+Answer: the inspector
+
+Question: Who is responsible for all construction issues and that the project finishes on time and on budget?
+Answer: the pm
+
+Question: Who does the final inspection consist of?
+Answer: a committee usually composed of the project manager, university inspector, department owner, architect / engineer, consultants, and csu representatives.
+
+Question: What usually follows full occupancy?
+Answer: full occupancy
+
+Question: Who instructs the contract officer to file a notice of completion?
+Answer: the project manager
+
+Question: What does the pm do for updates to the cmms program?
+Answer: pm submits request to fdo space planner
+
+Question: Who submits a project evaluation?
+Answer: project manager
+
+Question: What is necessary for all projects indicated by the building permit process?
+Answer: fire marshal inspections
+
+Question: What will be identified by the pm to coincide with department needs to arrive at the best window of opportunity for construction?
+Answer: timelines will be identified by the pm to coincide with department needs to arrive at the best window of opportunity for construction
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is broken down into (3) shift operations, days, swing, and nights?
+Answer: custodial services
+
+Question: How often are library and main campus locations cleaned?
+Answer: 2 or 3 times weekly, weekly, and monthly
+
+Question: What do some buildings receive during day and swing shifts?
+Answer: refresh services
+
+Question: How often are campus exterior windows cleaned?
+Answer: every (3) years,
+
+Question: What is provided for all other areas weekly and annually?
+Answer: general cleaning standards
+
+Question: How often is general floor care for all surfaces conducted?
+Answer: yearly
+
+Question: What is provided in public areas of buildings to maintain a clean and inviting environment?
+Answer: floor care
+
+Question: What does custodial services provide?
+Answer: bulb changes for all building locations where the ceiling does not exceed (8) feet,
+
+Question: What is removed daily by shift?
+Answer: trash
+
+Question: What is the purpose of recycling services in custodial operations?
+Answer: recycling services in custodial operations are designed to enhance and support general recycling requirements.pest control services
+
+Question: What does this unit oversee?
+Answer: campus recycling procedures.a plan has been developed to comply with all federal, state, and local statutes and regulations
+
+Question: Who has been charged with oversight for compliance with ab75 and sb1016?
+Answer: facilities management
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What percentage of new funding did senate bill 169 reserve?
+Answer: at least 30%
+
+Question: What did sb169 require for universities to receive funding for their new housing projects?
+Answer: deeply-affordable rental rates
+
+Question: What percentage of the area median income are rental rates capped at?
+Answer: 30% of 50%
+
+Question: What is the median income for single wage-earners in santa clara county?
+Answer: $1,323 per month.
+
+Question: What percentage of the state's maximum rental rates are funded through the cv3 effort?
+Answer: 57%
+
+Question: In what year did the state allocate a sizable share of funding to the csu for campus housing projects?
+Answer: 2022
+
+Question: How many deeply-affordable below-market rate student beds will cv3 provide?
+Answer: 535
+
+Question: These beds will be included in what part of sjsus campus housing stock?
+Answer: cv3
+
+Question: What will enable sjsu to deeply discount the cost of rent for student-leased, on-campus dormitory beds?
+Answer: state funding
+
+Question: What do projects in the area that incorporate a mix of incomes in the same property ensure?
+Answer: robust community integration
+
+Question: What are students in the building required to take per semester term?
+Answer: minimum average of 12 degree-applicable units
+
+Question: How long does a student have to live in the facility?
+Answer: renewal of housing in the facility in subsequent years requires the student to demonstrate compliance with unit requirements.
+
+Question: How will the additional spaces on-campus help students?
+Answer: the additional spaces on-campus will allow more students to avoid having to commute long hours
+
+Question: What fosters a stronger support network on campus?
+Answer: creating more student housing
+
+Question: What is the number one risk to a student reaching their educational potential?
+Answer: housing costs
+
+Question: What is one indicator that rent levels have risen 6% per year for the last 10 years?
+Answer: rent levels have risen 6% per year for the last 10 years and this trend does not appear to have a discernible peak anytime in the for
+
+Question: What will enable sjsu to serve this incredibly important mission?
+Answer: having additional affordable housing stock
+
+Question: Who does keeping students on campus help to eviate the pressures on?
+Answer: non-student renters
+
+Question: What is the email address for the campusmasterplan?
+Answer: campusmasterplan@sjsu.edu.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is the newest addition to sjsus campus student housing?
+Answer: campus village 3
+
+Question: How many student beds will the new dormitory building contain?
+Answer: 1,007
+
+Question: What does sjsu cares address with students to address their housing insecurity needs?
+Answer: financial assistance to meet a deposit or rent payment, emergency housing options on and off campus, and other resources.
+
+Question: What percentage of students in 2021 reported experiencing homelessness for at least one day?
+Answer: 11.2%
+
+Question: What is the average time spent experiencing homelessness?
+Answer: 3.4 days
+
+Question: What is a major problem for students from underrepresented backgrounds?
+Answer: lack of availability of housing in the near-campus area and south bay
+
+Question: What new mega projects around campus will consume most, if not all, of the remaining housing options available to students?
+Answer: new mega projects around campus will consume most, if not all, the remaining housing options currently available to students and contribute to even tighter conditions for all residents in search of housing.
+
+Question: When were development cost estimates first developed and vetted?
+Answer: late 2018 early 2019
+
+Question: When will additional validation be undertaken?
+Answer: during the planning phase to ensure the budget estimates remain valid prior to going to bid.
+
+Question: What represents a sizable percentage of the universities self-supporting facility backlog?
+Answer: removal of these two deferred maintenance budget liabilities
+
+Question: What will be the replacement of existing facilities with?
+Answer: cv3-p1
+
+Question: What will also reduce maintenance and operations costs?
+Answer: modern systems and construction
+
+Question: What percentage of new funding did hesh reserve?
+Answer: 30%
+
+Question: How much money was appropriated towards this program in the 2022-2023 california state budget?
+Answer: $2 billion
+
+Question: How much money is the csu slated to receive over the span of three years?
+Answer: $600 million
+
+Question: What will be altered?
+Answer: access to the existing dining commons and the srac
+
+Question: What has taken into account the need for infrastructure to support the development?
+Answer: the campus utility master plan
+
+Question: Along with the housing and dining programs, what other operational costs will be incurred?
+Answer: operation of the facility
+
+Question: What is the expectation of revenues from housing rents and facility lease payments?
+Answer: revenues resulting from housing rents and facility lease payments will cover expenses or be carried by the overall housing and dining programs.
+
+Question: What is the email address for the campusmasterplan?
+Answer: campusmasterplan@sjsu.edu.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is in its initial planning stages seeking funding from the state of california?
+Answer: cv3
+
+Question: When did the project officially begin?
+Answer: november 2022.
+
+Question: How many student beds will be in washburn hall in phase i?
+Answer: 850
+
+Question: How many dormitory units will each floor of the first phase of cv3 contain?
+Answer: 26
+
+Question: What street will the new welcome center front?
+Answer: san salvador
+
+Question: How many student beds will be in phase ii?
+Answer: 558
+
+Question: What floor will contain the rest of the new dining hall footprint?
+Answer: ground floor
+
+Question: What is the email address for the campusmasterplan?
+Answer: campusmasterplan@sjsu.edu.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Are there any questions or concerns that are not answered on the website?
+Answer: questions or concerns
+
+Question: What is the email address for the campusmasterplan?
+Answer: campusmasterplan@sjsu.edu.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What university is dedicated to providing a safe and healthful environment for its faculty, staff, and visitors?
+Answer: san jose state university
+
+Question: What is conducted to ensure compliance with environmental health and safety standards?
+Answer: periodic inspections
+
+Question: Where is san jos state university located?
+Answer: yar
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What does california code of regulations, title 22 prohibit?
+Answer: the landfill disposal of old electronic components such as computer hard drives, monitors, and any equipment that contains mercury, lead, and other potentially dangerous heavy metals
+
+Question: What kind of programs need to be used?
+Answer: special programs that destroy the data
+
+Question: What do you need to do to prepare your computer for recycling?
+Answer: assistance in preparing your computer properly for disposal.
+
+Question: Do you leave property in hallways, stairwells, or outside buildings?
+Answer: do not leave property in hallways, stairwells, or outside of buildings
+
+Question: How much lead does each computer or television display contain?
+Answer: 4 to 8 pounds
+
+Question: What percentage of heavy metals found in landfills come from consumer electronics?
+Answer: 70%
+
+Question: What can hazardous substances contaminate?
+Answer: groundwater
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Who is the environmental health and safety specialist at sjsu?
+Answer: lisa torralba
+
+Question: Fuels, oil and grease, solvents, pesticides, insecticides, fertilizers and detergents are examples of discharges that cause what?
+Answer: storm water pollution
+
+Question: What can transport materials and wastes into the surface water system?
+Answer: rainwater and floods
+
+Question: What does wpcp stand for?
+Answer: each sanitary sewer system user shall provide safeguards from accidental discharge of prohibited materials or other wastes regulated by the local water pollution control plant
+
+Question: How many domestic wells does sjsu's drinking water system draw from?
+Answer: two
+
+Question: How often are wells tested in the city of san jose?
+Answer: two wells are tested annually and distribution lines are tested on a weekly basis to ensure compliance with state and federal drinking water standards.
+
+Question: What is the city of san jose environmental services website about?
+Answer: water pollution prevention, wastewater treatment, and drinking water
+
+Question: What does this site contain?
+Answer: educational downloads, best management practices, and frequently asked questions.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What does the facilities development and operations' energy utilities and engineering unit comply with?
+Answer: exemplary state-wide energy policies,
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Where can service requests be submitted?
+Answer: thei-service desk
+
+Question: What is the number to call for emergency requests?
+Answer: 408-924-1990
+
+Question: What will cause delays?
+Answer: submitting an incomplete or incorrect request
+
+Question: Do all forms require advance notice?
+Answer: all forms require advanced notice.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What do the rewards include?
+Answer: promotional items from the bookstore, breakfast/luncheons and thank you cards.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What university is required to comply with the california state fire code?
+Answer: san jose state university
+
+Question: Who routinely inspects campus buildings to ensure they are in compliance with regulations?
+Answer: fire marshal
+
+Question: Who conducts informal inspections to ensure a safe learning environment?
+Answer: managers, faculty, and/or staff members
+
+Question: Please take note of these items as they may relate to what?
+Answer: work area
+
+Question: How must high-amp drawing appliances be used?
+Answer: plugged directly into a wall receptacle
+
+Question: What must space heaters not be plugged into?
+Answer: they must not be plugged into a power strip, surge protector, or multi-tap adapter.
+
+Question: What must not be plugged into a power strip, surge protector, or multi-tap adapter?
+Answer: space heaters
+
+Question: What must the area around the space heater be free of?
+Answer: combustibles
+
+Question: What type of heaters are not allowed?
+Answer: space heaters
+
+Question: What is a disadvantage of solar panels?
+Answer: they may not be used in lieu of fixed wiring
+
+Question: What appliances must always be plugged directly into a wall socket?
+Answer: appliances (refrigerators, coffee makers, etc.) must always be plugged directly into a wall socket.
+
+Question: Why might a power strip not be plugged into an extension cord or another power strip?
+Answer: they may not be plugged into an extension cord
+
+Question: What is it called when it can create a fire?
+Answer: daisy chain
+
+Question: What does the manufacturer's tag indicate that furniture meets?
+Answer: california bulletin 117.residential floor rugs, non fire-rated window curtains, and fabric-based wall art or decorations
+
+Question: What is the required clearance if the area has fire sprinklers?
+Answer: 24-inch clearance
+
+Question: What must be clear of any movable items?
+Answer: hallways, corridors, and assembly areas near elevators, entrances, and exits, must be clear of any movable items,
+
+Question: Who must approve furniture in corridors?
+Answer: fd&o
+
+Question: What is not permitted?
+Answer: excessive storage of combustibles is not permitted.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What type of packing peanuts are accepted by sjsu's shipping department?
+Answer: clean polystyrene packing peanuts
+
+Question: What can be taken directly to the shipping department or sent through inter-campus mail?
+Answer: packing peanuts
+
+Question: How should peanuts be packed for inter-campus mailing?
+Answer: sealed in a plastic bag or securely taped cardboard box
+
+Question: What is the number to call to request a pickup of the peanuts?
+Answer: 924-1990
+
+Question: What should not be returned to the shipping department?
+Answer: foam packing blocks
+
+Question: What is the name of the organization that can help you find businesses that will accept used peanuts?
+Answer: plastic loose fill council's peanut hotline (800-828-2214)
+
+Question: What are the collection sites?
+Answer: small packaging or gift shops
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: How many acres is san jose state university located on?
+Answer: 154 acres
+
+Question: Much of the acreage is comprised of what?
+Answer: landscaped grounds
+
+Question: What is in place to recover the trimmings generated during maintenance efforts?
+Answer: recycling programs
+
+Question: What is done with the vast majority of turf at san jose state?
+Answer: grass cycled (cuttings are left directly on the lawn to breakdown into the soil), leaving over 500 tons of grass clippings in place annually that do not have to be collected.
+
+Question: What do grass clippings add to the soil?
+Answer: beneficial organic matter
+
+Question: What does grass cycling reduce?
+Answer: mowing time
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: How many acres of landscaped grounds and sports fields does grounds and landscape services maintain?
+Answer: 154
+
+Question: How many species of trees does the landscaping unit maintain?
+Answer: 180
+
+Question: How many acres of landscaped grounds and sports fields does the irrigation system maintain?
+Answer: 154
+
+Question: How many species of trees does the landscaping unit maintain?
+Answer: 180
+
+Question: What allows for efficient use of domestic and reclaimed water?
+Answer: the irrigation system
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Who is the person to contact for information on hazardous waste pick-up and disposal?
+Answer: david griffith
+
+Question: How are hazardous materials managed at Washington University?
+Answer: hazardous materials from the university's operations, including laboratories, must be managed according to the procedures of the hazardous materials management manual.
+
+Question: What must be managed according to the procedures of the hazardous waste management manual?
+Answer: hazardous waste
+
+Question: What must hazardous waste be properly identified with?
+Answer: an sjsu hazardous waste label
+
+Question: What must the label include at a minimum?
+Answer: the words hazardous waste, accumulation start date, sjsu name & address, chemical composition
+
+Question: What do you do on the label once a container is full?
+Answer: write a full date
+
+Question: How long does sjsu have to dispose of its waste?
+Answer: 1 year
+
+Question: What is the university under to minimize the amount of hazardous waste generated by the campus?
+Answer: state and federal regulations
+
+Question: What is found in laboratories?
+Answer: hazardous materials and waste
+
+Question: What will help in complying with these regulations?
+Answer: understanding more about laboratory chemical management for waste reduction
+
+Question: Where is sjsu registered as a medical waste generator?
+Answer: santa clara county
+
+Question: What act did sjsu comply with?
+Answer: medical waste management act
+
+Question: What may include animal carccases, cultures and stocks, human blood, blood products, tissues and bodily fluids?
+Answer: medical waste
+
+Question: What type of containers are used for transport and disposal?
+Answer: sharps containers
+
+Question: What county has a web-site on medical waste?
+Answer: thesanta clara county
+
+Question: What are hazardous waste items?
+Answer: used batteries
+
+Question: Who can you contact for information on disposing universal waste?
+Answer: hazardous materials specialist
+
+Question: What does ghs stand for?
+Answer: globally harmonized system
+
+Question: Along with sdss and msds, what else provides employees with the information they need to work safely?
+Answer: chemical labels
+
+Question: What do these labels indicate?
+Answer: chemical's identity, the manufacturer, chemical hazard information, and human/environmental protective information
+
+Question: What is additional information available about?
+Answer: the various kinds of chemical labels commonly used on the job
+
+Question: What is the goal of sjsu to reduce?
+Answer: volume and toxicity
+
+Question: What must users determine to achieve these goals?
+Answer: if the use of a particular hazardous chemical or product can be avoided
+
+Question: What type of alternative can be used in place of a hazardous substance?
+Answer: less hazardous
+
+Question: What can the process utilizing the chemical or product be altered to reduce?
+Answer: volume and toxicity
+
+Question: What results in reduced disposal costs?
+Answer: reducing volumes and toxicity
+
+Question: When does sjsu aim to reduce disposal quantities through alternative disposal methods?
+Answer: hazardous chemical or products
+
+Question: What is an example of a device that is managed by recycling on campus?
+Answer: mercury devices
+
+Question: What provides a range of information about the hazards and safe use of a specific chemical or mixture of chemicals?
+Answer: the safety data sheet (sds)
+
+Question: What do chemical manufacturers provide at the time of purchase?
+Answer: a copy of the sds for the chemical
+
+Question: Who can provide information on how to read and understand an sds?
+Answer: the safety and risk services unit
+
+Question: How can employees obtain a copy of the sds?
+Answer: a copy of the sds from the manufacturer or retrieve one online atmsd online hq.
+
+Question: What are stored when not in use?
+Answer: cylinders
+
+Question: What do you need to inform us about before purchasing any toxic gas?
+Answer: environmental health & safety
+
+Question: Where is information on exempted quantities and the list of toxic gases available?
+Answer: environmental health and safety or the dtsc poisonous gas list
+
+Question: Who can you check to see if you can use the unwanted materials?
+Answer: sjsu neighbors, department heads, and the sjsu environmental resource center(erc)
+
+Question: Who do you contact if a new home cannot be identified?
+Answer: environmental health and safety
+
+Question: What must faculty, staff, and administrators prepare for the proper management of?
+Answer: hazardous waste
+
+Question: Nearly all uses of hazardous materials generate what?
+Answer: hazardous waste
+
+Question: Even the use of what materials can result in the generation of hazardous waste?
+Answer: non-hazardous
+
+Question: What must be provided to all people creating or managing hazardous waste?
+Answer: proper training
+
+Question: Who can assist with the devlopment of a process-specific plan to ensure compliance with applicable safety and regulatory rules and regulations?
+Answer: department administrators and ehs
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Who is cgowda@sjsu.edu?
+Answer: hazardous materials specialist
+
+Question: What is the number of the corporation yard office?
+Answer: 42152
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: How many key elements are in the injury and illness prevention program?
+Answer: 8
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What do we collaborate with the campus community to provide consultation and training on?
+Answer: occupational health and safety standards and the management of hazardous materials.facilities services, maintenance and operations
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Where is the office located?
+Answer: corporation yard
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What documents call before you digcode review and enforcement commitment to sustainability doing business with planning, design and construction environmental health and safety fee for service program recycling and waste reduction
+Answer: building temperature policy california environmental quality act
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Where is the store located?
+Answer: corporation yard
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What are new buildings designed to at least leed silver standards?
+Answer: leedas
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is a major focus in our energy conservation strategy?
+Answer: lighting accounts for a major portion of the energy used on campus, so it is a major focus in our energy conservation strategy.
+
+Question: How much money did king library save in energy in 2009?
+Answer: over one million dollars per year.in 2009king libraryreceived an upgrade to three major lighting fixture types
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What type of requests can you make?
+Answer: special / outdoor event
+
+Question: Where can you find the forms and information you need to reserve a building or facility for a scheduled event?
+Answer: get the forms and information you need to reserve a building or facility for a scheduled event.
+
+Question: What is an example of a non project move?
+Answer: planning a move at sjsu
+
+Question: What do you need to do to ensure a successful move?
+Answer: learn how to work with the fdo moving specialist
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: How does the electrical shop ensure that the electrical needs of the campus are met?
+Answer: maintaining, modifying and improving the campus electrical and lighting systems
+
+Question: What are some emergencies that the hvac shop responds to?
+Answer: they respond to emergencies such as fire alarms and tripped circuits.
+
+Question: What is the air temperature in the classrooms maintained at?
+Answer: 68 to 78
+
+Question: When is the plumbing shop called on for assistance?
+Answer: when doors do not function properly, this shop is called on for assistance.
+
+Question: What is the role of the crew that assists outside contractors when hook-ups to main water, gas or sewer lines are involved?
+Answer: reviews plans to ensure any underground work does not adversely affect these lines.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: How can service requests be submitted through thei-service desk?
+Answer: submit requests for service
+
+Question: What is the phone number for emergency requests?
+Answer: 408-924-1990
+
+Question: What type of renovations do not require any changes to the building structure?
+Answer: minor renovations
+
+Question: How many acres of landscaped grounds and sports fields does the university maintain?
+Answer: 154 acres
+
+Question: What is the cost of moving services at sjsu?
+Answer: all moving services provided are chargeable to the requesting department or project.
+
+Question: When was the fee for service program effective?
+Answer: january 1, 2012
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is an enormous task for san jose state university?
+Answer: maintaining the infrastructure, buildings, and grounds of the san jose state university
+
+Question: How many work requests do we receive each year?
+Answer: 13,000+ work requests
+
+Question: How many priority levels are assigned to each work order?
+Answer: one of five priority levels
+
+Question: What will be responded to immediately and at a minimum mitigated until a permanent repair is made?
+Answer: emergencies
+
+Question: What are some examples of imminent risk?
+Answer: electrical power failure, an overflowing toilet, elevator systems, chemical odors, flooding and overflows, or broken windows
+
+Question: What requests take precedence over all other requests?
+Answer: these requests take precedence over all other requests.
+
+Question: What type of requests will be responded to as soon as possible?
+Answer: urgent requests
+
+Question: How many hours will it take to address a request if circumstances prevent an immediate response?
+Answer: 48
+
+Question: What is an example of a problem affecting the security of facilities?
+Answer: malfunctioning heating and cooling
+
+Question: What are examples of door hardware?
+Answer: repairing or replacing
+
+Question: Along with repainting, what is another term for what?
+Answer: patching
+
+Question: What are you checking, inspecting, servicing, and adjusting?
+Answer: various system components
+
+Question: Along with pruning, trimming, mowing, and what else is done to grounds areas?
+Answer: fertilizing
+
+Question: How long must normal maintenance or service be scheduled for completion?
+Answer: 90 days
+
+Question: What is an example of a project?
+Answer: improvements or enhancements to existing infrastructure
+
+Question: What is an example of what is required?
+Answer: purchasing of parts
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: How does fd&o support campus programs?
+Answer: blending industry best practices, energy efficiency, and award-winning sustainability policies
+
+Question: What is the number to call for emergency issues?
+Answer: (408) 924-1990
+
+Question: What time is it?
+Answer: 5:00
+
+Question: What are emergency requests?
+Answer: issues that threaten life, property, security or environment
+
+Question: What are fd&o personnel monitoring?
+Answer: weather conditions
+
+Question: What do you call to report storm damage on campus?
+Answer: fd&o emergency line
+
+Question: When is sjsu's emergency phone line open?
+Answer: mondays to fridays
+
+Question: What time is it?
+Answer: 5:00
+
+Question: What are considered emergency requests?
+Answer: issues that threaten life, property, security or environment
+
+Question: How many student beds are planned to be added to campus village 3?
+Answer: over one-thousand
+
+Question: What is a part of this effort?
+Answer: affordable student housing
+
+Question: What is in its earliest planning stages?
+Answer: cv3
+
+Question: What is the measurement in feet?
+Answer: ft
+
+Question: What is the science facility focused on?
+Answer: faculty-led student research
+
+Question: How large is the spartan athletic center?
+Answer: 55,000+ square foot
+
+Question: How many athletic teams will the sac house?
+Answer: sjsus 22
+
+Question: When does the sac open?
+Answer: summer 2023.alquist redevelopment
+
+Question: Who can you contact if you have questions or concerns about the ongoing construction?
+Answer: fd&o
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: The next planned addition to sjsu's campus housing brings more of what to the core of san jose's vibrant urban community?
+Answer: spartans
+
+Question: How many new student beds will replace washburn hall?
+Answer: 1,007
+
+Question: How many affordable student beds are being added to sjsu's housing stock?
+Answer: 517
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What type of building is the isb?
+Answer: state-of-the-art science facility
+
+Question: How large is the new building?
+Answer: 164,000 square foot
+
+Question: Where can you support the isb through naming or giving?
+Answer: the college of science
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is the name of the new facility that will anchor the eastern half of cefcu stadium?
+Answer: spartan athletics center
+
+Question: How many athletic teams will the sac house?
+Answer: sjsus 22
+
+Question: What do the new lounge spaces offer?
+Answer: direct views onto the action
+
+Question: When does the sac open?
+Answer: summer 2023.learn about sac philanthropic opportunities
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is the name of the planned, mixed-income, high-density workforce housing tower?
+Answer: the alquist redevelopment
+
+Question: Where is the initial phase of the project located?
+Answer: downtown san jos
+
+Question: What would the building do in the area?
+Answer: complement existing high-rises
+
+Question: What is the name of the project that includes the rationale and goals of workforce housing at sjsu?
+Answer: alquist redevelopment
+
+Question: Where does the alquist redevelopment fit into the landscape?
+Answer: downtown san jos
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: In what year is campus planning sjsu working to implement its transformation plan?
+Answer: 2030
+
+Question: What is sjsu's newest campus master plan?
+Answer: the latest in over 20 years.alquist
+
+Question: What is a part of the effort to develop throughout campus?
+Answer: affordable housing
+
+Question: What half of cefcu stadium will the spartan athletics center anchor?
+Answer: eastern half
+
+Question: Who will the sac provide state-of-the-art facilities for?
+Answer: all of sjsus 22 athletic teams.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Where is the south campus parking garage located?
+Answer: spartan recreation and aquatic center
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What must follow the campus master plan?
+Answer: all projects approved by fdo
+
+Question: Who approves a project?
+Answer: fdo
+
+Question: The project manager is the liaison between whom and the construction team?
+Answer: department owner
+
+Question: Who issues building permits?
+Answer: a regulatory agency
+
+Question: What are the qualities of ada compliant buildings?
+Answer: seismically sound, ada compliant, well lit, and free of any hazardous materials
+
+Question: How are projects accessed as to whether or not a building permit is required?
+Answer: projects are accessed as to whether or not a building permit is required.
+
+Question: What is defined as the erection, construction, alteration, painting, repair, or improvement of any state structure, building, or road?
+Answer: public works projects
+
+Question: What does the fdo hire contractors for?
+Answer: work outside the scope of the maintenance team
+
+Question: Who are facilities requests assigned to?
+Answer: one of the departments of fdo
+
+Question: These needs may include what?
+Answer: renovation, addition, and building improvements
+
+Question: What type of projects require funding?
+Answer: all new projects submitted
+
+Question: How do you submit a request to the corporation yard office?
+Answer: to submit the proper request form
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What type of materials should not be discarded in campus refuse bins?
+Answer: inert materials
+
+Question: What is the email address for recycling services at sjsu?
+Answer: recycle@sjsu.edu
+
+Question: Why would you not put organic matter or miscellaneous trash in the roll-off?
+Answer: it will contaminate the load and increase the cost of removal.
+
+Question: What does the decomposition of municipal solid waste produce?
+Answer: methane gas
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: When was the king library awarded in the lighting retrofit category?
+Answer: may 3, 2010
+
+Question: Who was king, jr?
+Answer: martin luther
+
+Question: What was the operating rate of sjsu's building in 2006?
+Answer: 24% below title 24
+
+Question: Along with lighting issues, what was one of the findings of the mbcx project?
+Answer: mechanical system issues
+
+Question: What was the result of the incompatibility between bookstack t5ho lamps and instant start ballasts?
+Answer: premature failure of lamps and ballasts driving the cost of lighting maintenance to $5,000 - $7,000 per month.a project to correct the mechanical issues
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is an integral part of a research laboratory's safety control plan?
+Answer: sops
+
+Question: Who has developed a guidance document to help research laboratories identify chemicals in their inventory that require an sop?
+Answer: ehs
+
+Question: What does the asop guidance document help research laboratories identify?
+Answer: chemicals in their inventory that require an sop.
+
+Question: What are the below documents?
+Answer: sop templates for each of the required hazard classes and lists of chemicals in excel
+
+Question: What is also available for use?
+Answer: ablank sop template
+
+Question: What does csb stand for?
+Answer: chemical safety board
+
+Question: Who reviews requests for the use of new chemicals in research?
+Answer: the campus chemical hygiene officer
+
+Question: What form do you need to fill out to request a new research chemical?
+Answer: hazardous materials request form
+
+Question: How many medical centers has the software been used in?
+Answer: five
+
+Question: What has the csu partnered with the uc to do
+Answer: the csu has partnered with the uc to extend this software to all 23 campuses in the csu system.
+
+Question: What is provided below?
+Answer: additional training materials
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What year did the new lab open?
+Answer: 2000.it was selected by the us green building council (usgbc) as one of fifty buildings nationwide
+
+Question: What was assembled and work began?
+Answer: a committee
+
+Question: What is the name of the company that produces leed silver standards?
+Answer: leed credits leed silver standards
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Who maintains and services the campus buildings?
+Answer: facilities maintenance and construction services group
+
+Question: Who works in unison with sjsu's utility trades and planning design and construction to complete projects?
+Answer: fmc services
+
+Question: What is our goal in our delivery of service to the campus community?
+Answer: fast, dependable, and optimistic
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What does fdo provide to campus faculty and general fund staff for the collection of mixed office paper?
+Answer: a cardboard deskside recycling container
+
+Question: What is provided for departmental mail and copy rooms?
+Answer: large paper recycling containers
+
+Question: What do not need to be removed?
+Answer: staples and paper clips
+
+Question: What happens to the paper after it is sorted?
+Answer: baled
+
+Question: How much paper did san jose state recycle in 2008?
+Answer: over 95 tons
+
+Question: How many tons of wood did the recycling of mixed paper save?
+Answer: 190
+
+Question: What percentage of trees are used for paper production?
+Answer: 35%
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Moving services are provided as a service to whom?
+Answer: campus community
+
+Question: Are moving services chargeable to the requesting department?
+Answer: all moving services provided are chargeable to the requesting department
+
+Question: How will you be contacted to schedule a moving day and time?
+Answer: to request service.
+
+Question: Who can you contact if you have questions?
+Answer: service desk
+
+Question: How far in advance do you need to schedule your move date?
+Answer: 2-3 weeks in advance
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is located throughout the university?
+Answer: potentially hazardous chemicals
+
+Question: What can cause injury, illness, or even death?
+Answer: over exposure
+
+Question: All personnel must have access to what about the chemicals they use?
+Answer: manufacturer specific information
+
+Question: Where can you find the sds you need?
+Answer: california state university
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What type of moves will the fdo moving specialist coordinate?
+Answer: non-project related moves
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Many office accidents are caused by what?
+Answer: poor housekeeping practices
+
+Question: What hazards can you eliminate by keeping the office neat and clean?
+Answer: slipping, tripping, and falling hazards.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Who can you contact to request a special event or outdoor event?
+Answer: cynthia soto
+
+Question: What is another name for the business courtyard at sjsu?
+Answer: bell garden
+
+Question: What type of lawn is smith carlos?
+Answer: science lawn
+
+Question: What is the name of the lawn located north and south of sjsu?
+Answer: tower hall lawn
+
+Question: What is the name of the lawn located north and south of sjsu?
+Answer: tower hall lawn
+
+Question: Where is the tower hall lawn located?
+Answer: (north and south)
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What number can you call to request a pickup of shipping pallets?
+Answer: 924-1990
+
+Question: What will be placed in the wood recycling bin?
+Answer: broken pallets
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What department is committed to the creation, development, and preservation of the rich, unique cultural heritage of our campus?
+Answer: the department of planning, design and construction
+
+Question: What does pdc do for the campus community?
+Answer: manage projects to provide stability
+
+Question: What is the name of the organization that manages projects to provide stability for the campus community?
+Answer: pdc
+
+Question: What does the building official function as?
+Answer: the building official assigned to the campus by the csu trustees
+
+Question: What are the larger projects on campus that may include retro fitting, upgrading and new construction?
+Answer: major capital projects
+
+Question: Who does san jose state university submit its capital improvement program to?
+Answer: csu chancellor's office
+
+Question: Who compiles and prioritizes a list of projects from all of the 23 csu campuses statewide and funds them in their prioritized order as funds become available?
+Answer: chancellor
+
+Question: Who compiles a prioritized list annually of recommended projects?
+Answer: the pdc team
+
+Question: Along with administrative heads, who reviews and approves this list?
+Answer: academic deans
+
+Question: What are some of the projects that pdc works on?
+Answer: equipment installation, interior finishes such as paint, carpet and doors, landscaping, irrigation, roofing, and electronic upgrading
+
+Question: Who is responsible for the conception, planning, development, and construction of university facilities?
+Answer: the department is comprised of director, associate director, project managers, space & facilities planner, architect, contracts administrators and drafting technicians.pdc
+
+Question: What is the planning staff the driving force behind?
+Answer: successful completion of several university and auxiliary group construction projects regarded as milestones in the history of the university.
+
+Question: What is the role of the pdc?
+Answer: providing space management and utilization analysis support for the planning efforts of the group
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What section of the state university administrative manual has redefined how the systems approaches construction and code enforcement?
+Answer: 9700
+
+Question: Who is the deputy building official?
+Answer: a campus appointed individual
+
+Question: What is the csu building official responsible for?
+Answer: the overall administration and operational control of the building code.no physical work may be initiated without a permit
+
+Question: What are the requirements for a building permit?
+Answer: seismically sound, ada compliant, well lit, and free of any hazardous materials.
+
+Question: What can be required for any of the following projects?
+Answer: building permits
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is a fdo moving specialist?
+Answer: fdo moving specialist
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Who prepares contracts for all construction projects?
+Answer: initiates and prepares bid packages, advertising, coordinates job walks, bid openings
+
+Question: What else does it do?
+Answer: verifies liability insurance, worker compensation, bonds, and determines low bidder
+
+Question: Delivers what to university procurement?
+Answer: complete documentation
+
+Question: What does the planning design and construction site do?
+Answer: issues notice to proceed
+
+Question: What do all projects require by potential bidders?
+Answer: mandatory walk-through
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What do documents in pdf format require for viewing?
+Answer: free adobe acrobat reader
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What does sac stand for?
+Answer: spartan athletics center
+
+Question: How many athletic teams will the sac house?
+Answer: sjsus 22
+
+Question: What do the new lounge spaces offer?
+Answer: direct views onto the action
+
+Question: What does the sac replace?
+Answer: the eastern side of cefcu stadium on sjsus south campus
+
+Question: What other amenities are included in the new stadium?
+Answer: on-site dining and hospitality facilities.
+
+Question: Where is the football lounge located?
+Answer: the center of the top floor
+
+Question: What was the source of the funding for the sac?
+Answer: a$5 million gift from alumni and philanthropists larry and deirdre solari.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: When is the football season scheduled to begin?
+Answer: fall 2023
+
+Question: How much money did alumni larry and deirdre solar donate?
+Answer: $5 million
+
+Question: What marks the beginning of demolition on the east side of cefcu stadium?
+Answer: ceremonial bench removal
+
+Question: Who partners with webcor and hok to design and build the new spartan athletic center?
+Answer: spartan athletics
+
+Question: What was removed at cefcu stadium?
+Answer: removal of the east side hill
+
+Question: Who votes to approve building plans?
+Answer: csu board of trustees
+
+Question: What begins when?
+Answer: construction
+
+Question: Where is the office located?
+Answer: corporation yard
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is developed to respond to identified hazards in the workplace?
+Answer: occupational health and safety program
+
+Question: What is the goal of the hierarchy of controls?
+Answer: hazards
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What was added to the north end zone of cefcu stadium?
+Answer: video display board / score board
+
+Question: What did scope cover for demolition of upper bleacher seating?
+Answer: salvage and recycling specifications
+
+Question: Through what process was the project delivered?
+Answer: design build process
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is generated throughout campus as part of the on-going operations?
+Answer: scrap metal items
+
+Question: Where is the metal collection bin located?
+Answer: facilities development and operations (fdo) corporate yard
+
+Question: Who should request temporary bins for collection at recycle@sjsu.edu?
+Answer: departments that generate large amounts of metal items
+
+Question: Where is the scrap metal collected?
+Answer: 924-1990.all scrap metal collected in this program is hauled to a local processing facility
+
+Question: What happens to the scrap after it is shipped overseas?
+Answer: the scrap is then shipped overseas where it is melted in large furnaces
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: campus standards ensure that new and renovation construction on campus does what?
+Answer: meets quality requirements and integrates into existing systems.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What does fdo stand for?
+Answer: facilities development and operations
+
+Question: Who provides these services?
+Answer: facilities development and operations
+
+Question: What is the frequency schedule?
+Answer: specific tasks based on a frequency schedule, responding to service requests from campus departments, and through periodic inspection and correction efforts.
+
+Question: What does this work include?
+Answer: maintaining,operating, and repairing
+
+Question: What may necessitate special scheduling of repairs and maintenance projects in buildings constructed before 1990?
+Answer: remediation costs and operational impacts
+
+Question: What type of program would include work requested outside of normal business hours?
+Answer: fee for service
+
+Question: Maintenance requests that are specifically requested outside of normal business hours will be processed as part of what program?
+Answer: fee for service
+
+Question: What does Facilities development and operations operate?
+Answer: a fee for service program
+
+Question: Who is responsible for ensuring allocable costs are recovered from the auxiliary operations?
+Answer: the cfo
+
+Question: What states that allowable direct costs incurred by the csu operating fund shall be allocated and recovered based on actual costs incurred?
+Answer: csu executive order 1000
+
+Question: How often will the rates be published?
+Answer: annually
+
+Question: How are trades labor rates calculated?
+Answer: average monthly salary
+
+Question: What will trades labor rates include?
+Answer: benefit costs
+
+Question: On what basis will trades labor rates be calculated?
+Answer: an "effective" hour's basis
+
+Question: What is less: vacation, average sick time, holidays?
+Answer: total working hours
+
+Question: How many a.m. to 4:30 p.m. are the office hours?
+Answer: 8
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is the number to call for emergency requests?
+Answer: 408-924-1990
+
+Question: What is the name of the key control policy that is in the process of being revised?
+Answer: university key control policy
+
+Question: What is the phone number for the customer service desk?
+Answer: 408-924-1990.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is the name of the project that has been completed?
+Answer: south campus parking garage and sports field facility
+
+Question: What is the corner of 10th st and what other street?
+Answer: east alma ave
+
+Question: What is the parking structure called?
+Answer: four level, reinforced cast-in-place concrete parking structure
+
+Question: Who will the parking structure serve?
+Answer: students and staff
+
+Question: What will accommodate university recreational and intramural events?
+Answer: the cork infilled synthetic turf sports field
+
+Question: What type of field is used for soccer, lacrosse and rugby?
+Answer: the field is striped
+
+Question: Where is the corporation yard located?
+Answer: outside of the field fence there will be a pedestrian concrete path around the perimeter, open for use by both the university and the general public.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: How is the inventory of space on campus organized?
+Answer: room by room
+
+Question: How is the database updated?
+Answer: the database is updated as space on campus is reconfigured and/or reassigned, and reported to the csu system office.
+
+Question: What is the space advisory committee?
+Answer: an administrative committee reporting to the provost.pdc
+
+Question: What is section v of the state university administrative manual?
+Answer: measurement devices for physical planning
+
+Question: What does the university use for allocation and utilization?
+Answer: locally developed guidelines
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What does the facility include?
+Answer: multiple gymnasiums, weight and fitness centers,exercise rooms, rock climbing wall, sports club organizations, and competition and recreation pools
+
+Question: Where is the project site located?
+Answer: south east corner of 7th street and san carlos
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What university hosts hundreds of large and small events throughout the year?
+Answer: san jose state university
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: When is stormwater runoff generated?
+Answer: when precipitation from rain events flows over land or impervious surfaces
+
+Question: What accumulates debris, chemicals, sediment or other pollutants that could adversely affect water quality?
+Answer: runoff flows over the land or impervious surfaces
+
+Question: What type of water does not go to a water treatment facility?
+Answer: storm water
+
+Question: What gets deposited to the nearest waterway?
+Answer: whatever pollutants it picks up during drainage
+
+Question: What can kill fish and other wildlife?
+Answer: polluted stormwater
+
+Question: What bmps does sjsu employ to improve stormwater quality?
+Answer: street sweeping, storm drain cleaning, zero waste campaigns and recycling programs.
+
+Question: What does the landscaping staff inspect and troubleshoot on an almost daily basis?
+Answer: landscape irrigation system
+
+Question: Who does sjsu employ to apply fertilizers, herbicides, and pesticides?
+Answer: licensed operators
+
+Question: What has the plan helped the university do?
+Answer: decrease fertilizer use and ensures that herbicides are used modestly
+
+Question: What is matt nymeyer's email address?
+Answer: matt.nymeyer@sjsu.edu
+
+Question: What will be removed, cleaned or otherwise abated?
+Answer: any source of pollutants
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is the term for university-owned items that are no longer needed by a department?
+Answer: surplus property
+
+Question: Who is responsible for submitting the service request to facilities for recycling or disposal?
+Answer: the property office
+
+Question: Who will notify the furniture and equipment reuse program coordinator if the item can be reused?
+Answer: the property office
+
+Question: Who is responsible for submitting a service request to have an item moved to a sale location?
+Answer: reuse program coordinator
+
+Question: Where can additional information regarding property disposition at sjsu be found?
+Answer: thesjsu asset services web page.do not leave property in hallways, stairwells, or outside of buildings
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is generated from sjsu's auto shop?
+Answer: used automotive tires
+
+Question: What are some environmental hazards that tires and motor oil must be properly handled to avoid?
+Answer: large scale fires and contamination of water sources.
+
+Question: What happens to most tires that are not suitable for reuse?
+Answer: most tires are not suitable for reuse and are shredded into crumb rubber for use in a variety of manufacturing applications.
+
+Question: What was the number of tires recycled in california from 1990 to 1999?
+Answer: 9.2 million
+
+Question: What percentage of oil is re-used in the United States today?
+Answer: 74-percent
+
+Question: What is it used for?
+Answer: burning in turbines, incinerators, power plants, cement kilns
+
+Question: How many gallons of used motor oil can generate enough electricity to power the average home for one day?
+Answer: two gallons
+
+Question: What percentage of used motor oil is burned in industrial space heaters?
+Answer: 11-percent
+
+Question: How much oil do space heaters use each year?
+Answer: 113 million gallons
+
+Question: Who is responsible for reprocessing motor oil into bunker fuel?
+Answer: william
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What do you do to the environment?
+Answer: help
+
+Question: Do not dump empty toner cartridges in the garbage?
+Answer: do not dump empty toner cartridges in the garbage.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is the name of the program that allows campus employees to access safety training programs from their computers at work?
+Answer: sumtotal
+
+Question: What is the benefit of the training being self-paced?
+Answer: the freedom to complete it on a flexible schedule
+
+Question: What type of training will this method provide an acceptable method of accomplishing?
+Answer: environmental health and safety
+
+Question: Who maintains sjsuone accounts?
+Answer: university computing & telecommunications
+
+Question: How long does it take for passwords to expire?
+Answer: 180 days
+
+Question: Where can you go for assistance if your password has expired or if you forget it?
+Answer: sjsu
+
+Question: What is the e-mail address to contact information support services for help activating your sjsu one account?
+Answer: ithelpdesk@sjsu.edu.use this link
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Does sjsu own and operate its own utility systems?
+Answer: sjsu owns and operates its own utility systems.
+
+Question: What rates remain unchanged?
+Answer: steam and chilled water
+
+Question: What is a result of increases from the city of san jos?
+Answer: water and sewer rate increases
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What percentage of its waste does state law require san jose state university to divert from landfills?
+Answer: at least 50%
+
+Question: When did green waste recovery inc. begin service to sjsu?
+Answer: may 1
+
+Question: What does mrf stand for?
+Answer: material recovery facility,
+
+Question: What type of waste has both a clean sort line and a dirty sort line?
+Answer: green waste
+
+Question: How much waste is sent to landfill at the mrf?
+Answer: very little
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is waste prevention?
+Answer: minimizing or reducing waste
+
+Question: How much trash does the average american produce each year?
+Answer: nearly 1,600 pounds
+
+Question: Is there a more effective way to recycle?
+Answer: more effective way to cut down on excess waste
+
+Question: What is the key to any successful waste reduction practice?
+Answer: thinking ahead and determining the necessity of what you are generating
+
+Question: What percentage of the waste stream are nondurable goods?
+Answer: 27 percent
+
+Question: What constitutes a significant portion of these goods?
+Answer: disposables
+
+Question: What can offices use instead of throwing it away?
+Answer: items that can be refilled or reused
+
+Question: Along with product durability and repairability, what other factors must be taken into account when making purchasing decisions?
+Answer: length of warranty and service contracts
+
+Question: How long does a product last instead of 10?
+Answer: 20 years
+
+Question: What do we avoid by not using energy, consuming natural resources, and creating what?
+Answer: pollution
+
+Question: What is the estimated amount of waste generated by united states residents by 2010?
+Answer: 280 million tons
+
+Question: What percentage of our waste is generated by businesses?
+Answer: one-third
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What is sjsu's water consumption by 2018?
+Answer: 303 acre-feet
+
+Question: How many gallons of water is in an acre-foot?
+Answer: 325,850
+
+Question: How is san jose state's well water treated?
+Answer: well water is treated to the highest municipal water standards and is tested weekly to ensure compliance.
+
+Question: Why does sjsu supply recycled water to new dual plumbed buildings?
+Answer: to supply recycled water to new dual plumbed buildings.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: Where is the office located?
+Answer: corporation yard
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What law required san jose state university to reduce the amount of trash discarded by the end of 2004?
+Answer: assembly bill (ab) 75
+
+Question: What is the email address for sjsu's recycling office?
+Answer: recycle@sjsu.edu.
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+
+Question: What do several departments generate during normal operational activities?
+Answer: wood scrap
+
+Question: Where is the wood collection bin located?
+Answer: facilities development and operations (fdo) corporate yard
+
+Question: Who should request temporary bins for collection?
+Answer: departments that generate large amounts of wood items
+
+Question: What is the name of the facility where scrap wood from san jose state university is shredded?
+Answer: 924-1990.scrap wood from san jose state university is taken to a local facility where it is shredded in a tub grinder
+
+Question: What time does the museum close on saturday?
+Answer: 5 p.m.saturday
+

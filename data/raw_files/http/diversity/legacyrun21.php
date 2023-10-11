@@ -1,0 +1,1 @@
+close out sjsu's legacy month by walking, running, rolling the perimeter fo the university and get a commemorative bib and sticker!check out the csar e. chvez community action center publication on the sjsu legacy project here.course mapoffice of diversity, equity, and inclusionoffice of the presidentadministration buildingroom 104one washington squaresan jos, ca 95192-0007

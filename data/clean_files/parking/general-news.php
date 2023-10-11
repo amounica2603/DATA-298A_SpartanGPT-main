@@ -1,0 +1,1 @@
+new south campus parking garage at s. 10th street and alma street is open for public use. there are 2 entrances; one on s. 10th street and another on alma street. the garage is open from 7:00 a.m. to 10:00 p.m. everyday. a valid sjsu parking permit is required at all times. pay via parkmobile app (zone 9033) or permit pay-stations available on 1st floor by elevators.

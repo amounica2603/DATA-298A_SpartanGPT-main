@@ -1,0 +1,1 @@
+phone: 408-924-2564phone: 408-924-2786:outreach@sjsu.edu@futurespartans@sjsu_sespstudent services center (ssc)student outreach and recruitmentsan jos state universityone washington squaresan jose, ca 95192-0014

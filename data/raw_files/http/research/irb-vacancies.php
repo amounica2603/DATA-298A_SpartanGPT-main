@@ -1,0 +1,1 @@
+the following positions are currently open on the irb roster for sjsu affiliates:to join under one of these openings, please contact thecommittee on committees chair for the academic senate. once you have been added to the committee roster, please review the information on theirb member training page.

@@ -1,0 +1,1 @@
+care for your body in order to stay healthy now and in the future; eat well and be active.phone:408-924-6204the student wellness center (swc) at sjsu is located across from the event center.sjsu treat yourself wellstudent wellness centersan jos state universityone washington squaresan jose, ca 95192

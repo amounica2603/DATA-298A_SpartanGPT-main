@@ -1,0 +1,1 @@
+use our graduate admissions and program evaluations page for helpful information about steps you can take to complete your master's degree. forms available on the gape forms website include make your way around the campus to get acclimated to the campus culture and to find and utilize the resources available to you as a student. 

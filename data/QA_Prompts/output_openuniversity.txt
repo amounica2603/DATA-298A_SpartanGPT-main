@@ -1,0 +1,105 @@
+Question: What is the name of the html PUBLIC?
+Answer: DOCTYPE
+
+Question: What does!DOCTYPE html PUBLIC mean?
+Answer: "-//W3C//DTD HTML 4.01//EN"
+
+Question: What is the margin of the p.p1?
+Answer: 0.0px
+
+Question: What is the margin of the p.p1?
+Answer: 0.0px
+
+Question: What is the font size of Times?
+Answer: 12.0px
+
+Question: What color is 000?
+Answer: #000
+
+Question: What is the span.s1 font-kerning?
+Answer: none
+
+Question: Where can you find the latest vaccination and mask information?
+Answer: health advisories website
+
+Question: What is the last day to add classes via mysjsu?
+Answer: no permission number required for most classes.last day to add via mysjsu (undergrad/postbac) without late fee
+
+Question: What does the associate dean have to submit on the last day of the semester?
+Answer: signatures
+
+Question: What does cpge stand for?
+Answer: college of professional and global education
+
+Question: What is the name of the x.html index.htmlIlocblobA?
+Answer: Bud1
+
+Question: What is index.html_2Ilocblob.index.html_2.sb-1714f825-0lLKUsIlocblob?
+Answer: index.html_2Ilocblob.index.html_2.sb-1714f825-0lLKUsIlocblob
+
+Question: What is the name of the index.html_4Ilocblob?
+Answer: index.html_4Ilocblob
+
+Question: What is the name of san jose state university?
+Answer: san jose state university
+
+Question: What is the name of the html PUBLIC?
+Answer: DOCTYPE
+
+Question: What does!DOCTYPE html PUBLIC mean?
+Answer: "-//W3C//DTD HTML 4.01//EN"
+
+Question: What is the margin of the p.p1?
+Answer: 0.0px
+
+Question: What is the margin of the p.p1?
+Answer: 0.0px
+
+Question: What is the font size of Times?
+Answer: 12.0px
+
+Question: What color is 000?
+Answer: #000
+
+Question: What is the span.s1 font-kerning?
+Answer: none
+
+Question: Where can you find the latest vaccination and mask information?
+Answer: health advisories website
+
+Question: Where can you find the latest vaccination and mask information?
+Answer: the health advisories website
+
+Question: What does this agreement provide online students with?
+Answer: consumer protection
+
+Question: Where can a complete list of participating states be found?
+Answer: sjsu.edu/extend/state-auth/.san jose state university
+
+Question: Where can you find the latest vaccination and mask information?
+Answer: the health advisories website
+
+Question: Where can you find the latest vaccination and mask information?
+Answer: the health advisories website
+
+Question: What is the phone number for sjsu?
+Answer: 408.924.2670
+
+Question: What can you do to enhance your career growth?
+Answer: master a new skill
+
+Question: How many courses are available at san jose state university?
+Answer: the opportunities are only limited by your imagination.san jose state universitys open university (ou) program allows students from outside the university to enroll in university courses on a space-available basis
+
+Question: Who may take courses at sjsu?
+Answer: former san jose state university students, sjsu alumni, members of the general community, and disqualified students from sjsu or elsewhere
+
+Question: How many units of credit can an open university student apply for?
+Answer: 24 units to an undergraduate degree or 9 units to a graduate degree
+
+Question: Who is not eligible to enroll through open university?
+Answer: currently-enrolled (admitted) sjsu students or those who have been admitted for the current term
+
+Question: What is the health advisories website for the latest vaccination and mask information?
+Answer: visit the health advisories website for the latest vaccination and mask information and to report a case.
+

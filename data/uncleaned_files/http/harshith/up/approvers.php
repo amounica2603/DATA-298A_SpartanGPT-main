@@ -1,0 +1,1 @@
+approvers are defined as anyone identified in an approval process for the job card. typically this will be work leads, department chairs, managers at varying levels, and so on.university-personnel@sjsu.eduup north:408-924-2450up south:408-924-2250up webmasterup northadministration building 242up southupd building 3rd floor

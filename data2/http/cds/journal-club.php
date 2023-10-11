@@ -1,0 +1,1 @@
+the communicative disorders and sciences journal club supports undergraduate and graduate students' efforts to learn about contemporary research in speech-language pathology or related fields. learn more by watching this video featuring a discussion about journal club from the fall 2020 lurie college of education learning showcase. 

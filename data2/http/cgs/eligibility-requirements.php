@@ -1,0 +1,1 @@
+in order to be eligible to apply to the california pre-doctoral scholarship, applicants must: please note, daca students are also eligible for this scholarship. 

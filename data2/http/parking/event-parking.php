@@ -1,0 +1,1 @@
+visitor/guest virtual parking permit is valid in any general parking space not designated for any other use (such as employee parking). paystations accept visa/mastercard and coins, $1, $5 bills ( ). see parking maps . *** external event attendees must pay event parking rate. 

@@ -1,0 +1,1 @@
+after-hours support is provided monday through friday from 5:00 p.m. to 8:00 a.m. and all weekend.phone: (877) 445-0904chat:link to chatphone:408-924-2337email:ecampus@sjsu.edulocation: irc, room 206ecampus, irc206instructional resource centersan jose state universityone washington squaresan jose, ca 95192-0026

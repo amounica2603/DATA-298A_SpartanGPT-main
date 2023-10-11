@@ -1,0 +1,1 @@
+we feature graduate students, faculty, and alumni in "spotlight" articles and posts on our website, blog, and social media. spotlights are organized by audience. explore them below!view alumni and student spotlightsview faculty spotlightsview research spotlights

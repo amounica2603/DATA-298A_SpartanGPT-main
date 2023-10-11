@@ -1,0 +1,1 @@
+documents in pdf format require the free adobe acrobat reader for viewing located in: corporation yard office hours: monday - friday, 8 a.m. - 5 p.m. saturday and sunday, closed 

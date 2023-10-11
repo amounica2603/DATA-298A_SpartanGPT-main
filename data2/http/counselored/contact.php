@@ -1,0 +1,1 @@
+sjsu department of counselor education sweeney hall 404 one washington square san jose, ca 95192-0073 mondays: 8am-12pm, 1-5pm tuesdays: 8am-12pm, 1-5pm wednesdays: 8am-12pm, 1-5pm thursdays: 8am-12pm, 1-5pm fridays: available by phone or email 

@@ -1,0 +1,1 @@
+sjsu faculty may access these sample proposals with individual access requests. the office of research (or) will endeavor to approve access, monday-friday, within 24-hour business hours. access to these proposals is for viewing purposes only. proposals must not be downloaded, plagiarized, distributed, or publicized in any way.nsfnih

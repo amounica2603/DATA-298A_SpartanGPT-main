@@ -1,0 +1,1 @@
+coordinator and evaluatorsas a graduate program coordinator, you will work directly with graduate students to facilitate their academic progress. you should note that the office of graduate admissions and program evaluations (gape) has assigned a coordinator to each graduate program. this person will work with your students on advancement to candidacy and graduation.

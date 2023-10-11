@@ -1,0 +1,1 @@
+be aware of how your behavior impacts the earth, as well as how the physical world impacts you; demonstrate a commitment to a healthy planet.phone:408-924-6204the student wellness center (swc) at sjsu is located across from the event center.sjsu treat yourself wellstudent wellness centersan jos state universityone washington squaresan jose, ca 95192

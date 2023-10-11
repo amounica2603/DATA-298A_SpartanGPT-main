@@ -1,0 +1,1 @@
+the mbt graduate program integrates advanced, hands-on training in laboratory-based biotechnology with mba-level business courses from the college of business to train students for careers in biotechnology. visit the website for more information phone: 408-924-4800 email: science-info@sjsu.edu give to the sciences fund 

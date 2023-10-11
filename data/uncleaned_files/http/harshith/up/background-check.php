@@ -1,0 +1,1 @@
+volunteers may be required to undergo a background check per csu policy. faculty services or university personnel will make the determination based on length of appointment and type of work.university-personnel@sjsu.eduup north:408-924-2450up south:408-924-2250up webmasterup northadministration building 242up southupd building 3rd floor

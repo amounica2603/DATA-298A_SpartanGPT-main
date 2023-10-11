@@ -1,0 +1,1 @@
+when parking is full at south campus garage or the south campus garage is closed for event, drivers will be directed to go to the park and ride lot.  park and ride lot is located on s. 7th street (between humboldt and alma streets), 8 blocks south of the main campus, across from cefcu stadium. entrance is on s. 7th street. 

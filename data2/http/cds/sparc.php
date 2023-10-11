@@ -1,0 +1,1 @@
+our sjsu spartan aphasia research clinic (sparc) provides individual and group therapy for aphasia, an acquired language disorder. 

@@ -1,0 +1,1 @@
+the student financial services team maintains student accounts receivable. our responsibilities include: phone: 408-924-1558 email: financeconnect@sjsu.edu finance and business services san josé state university 60 south market street suite 470 san josé, ca 95113 

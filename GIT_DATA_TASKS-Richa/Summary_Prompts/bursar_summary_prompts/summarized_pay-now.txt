@@ -1,0 +1,1 @@
+Students can make an immediate payment by logging in to their student account and making a payment.teachers can also use the Transact Payments parent portal to manage their student accounts.authorized payers may only log in through the student account.unauthorized students will not be able to do so because of the different log-in rules.

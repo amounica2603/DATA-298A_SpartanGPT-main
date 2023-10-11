@@ -1,0 +1,10 @@
+The student chapter of the American College Alumni Association is dedicated to preparing students for their future. Our mission is to connect students with over 275,000 college and graduate student members from all over the world who have made significant contributions to their respective fields.
+
+
+
+
+Section Scores for sac_summary:
+
+ - -1.2778
+
+---

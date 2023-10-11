@@ -1,0 +1,10 @@
+San jose state is a safe place for students to live and work. The university police department is on call 24 seven to help with any kind of emergency. student conduct code violations can be reported by anyone at the university.psyche and psychological services are available to all students, including those who are experiencing a crisis.accessibility reporting is committed to ensuring that everyone is able to do whatever they want without compromising safety, health, and personal well being.staff and administration are there to help students find their way around campus during the first week of the semester. homecoming is an important part of the university's tradition.legacy months are also celebrations of social justice.student health services are here to help you.accessible education centers provide accommodations and assistance for students with physical and mental challenges.jailmer theatre is one of the most popular events in the region.sports are also very popular.
+
+
+
+
+Section Scores for total_summary:
+
+ - -2.7793
+
+---

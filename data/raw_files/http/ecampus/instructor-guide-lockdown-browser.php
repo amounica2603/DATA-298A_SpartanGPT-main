@@ -1,0 +1,1 @@
+follow these steps to copy a canvas course and continue using respondus lockdown browser.phone:408-924-2337email:ecampus@sjsu.edulocation: irc, room 206ecampus, irc206instructional resource centersan jose state universityone washington squaresan jose, ca 95192-0026

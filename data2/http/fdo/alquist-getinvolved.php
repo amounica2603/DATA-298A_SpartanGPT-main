@@ -1,0 +1,1 @@
+to contact the project planning team directly, email workforcehousing@sjsu.edu . located in: corporation yard office hours: monday - friday, 8 a.m. - 5 p.m. saturday and sunday, closed 

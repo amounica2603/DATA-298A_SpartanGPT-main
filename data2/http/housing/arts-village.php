@@ -1,0 +1,1 @@
+is a community that fosters creativity and imagination consisting of students who major in visual or performing arts or students who have a strong interest and commitment to the arts.  mon - fri 8:00am-5:00pm pst 

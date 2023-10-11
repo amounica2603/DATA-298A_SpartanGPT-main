@@ -1,0 +1,1 @@
+the ibc currently meets on the 1st friday of the month. if you are interested in attending an ibc meeting, please emailbiosafety@sjsu.eduto inquire. buas can be submitted at any time tobiosafety@sjsu.edu.the ibc welcomes the early submittal of buas for review and approval.

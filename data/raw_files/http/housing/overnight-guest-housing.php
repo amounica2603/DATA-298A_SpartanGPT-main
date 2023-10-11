@@ -1,0 +1,1 @@
+overnight guest housing is for non-students who are visiting sjsu for a program, class or event and need temporary housing. overnight guest housing stays can range from 1 night up to 1-month max. unfortunately we will not have any overnight guest housing available during thespring 2023 semester (from january 1, 2023- may 31, 2023).mon - fri8:00am-5:00pm pst

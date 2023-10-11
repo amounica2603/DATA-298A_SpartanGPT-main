@@ -1,0 +1,1 @@
+basic utilities (gas/electricity, water & garbage), wi fi internet access, roku tv.all payments are due the first of the month, or if the first is a weekend or holiday, on the following business day.mon - fri8:00am-5:00pm pst

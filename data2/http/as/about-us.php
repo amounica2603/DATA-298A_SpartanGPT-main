@@ -1,0 +1,1 @@
+associated students (a.s.) is a 501(c)3 non-profit auxiliary organization at san josé state university. with a usd $9m budget, a.s. advocates and maintains the student voice through the a.s. board of directors and operates nine departments that provide essential and distinct services to our campus community.  phone: 408-924-6242 fax: 408-924-6224  

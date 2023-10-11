@@ -1,0 +1,1 @@
+a student staff member is on duty each day to assist with emergencies or concerns.  uhs front desk : 408-795-5600 student health center : 408-924-6122 after hours advice nurse: 866-935-6347 counseling : 408-924-5910 (after hours - push 4 for assistance) it help desk : 408-924-1530 mon - fri 8:00am-5:00pm pst 

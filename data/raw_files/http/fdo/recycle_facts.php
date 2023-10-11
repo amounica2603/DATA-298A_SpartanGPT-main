@@ -1,0 +1,1 @@
+these recycling facts have been compiled from various sources including the national recycling coalition, the environmental protection agency, and earth911.org.source:recycling revolution websitelocated in:corporation yardoffice hours:monday - friday, 8 a.m. - 5 p.m.saturday and sunday, closed
