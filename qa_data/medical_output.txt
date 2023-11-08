@@ -1,0 +1,928 @@
+Question: Where can you learn more about local air quality and wild fire smoke?
+Answer: air now index.
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What do you dial in a medical emergency?
+Answer: 911
+
+Question: What does hipaa stand for?
+Answer: health insurance portability and accountability act
+
+Question: What will be charged a missed appointment fee?
+Answer: appointments cancelled and/or rescheduled on the same day
+
+Question: What building is located across from the event center?
+Answer: student wellness center building
+
+Question: Where is the parking garage located?
+Answer: seventh street
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What is the name of the staff that includes registered nurses, licensed vocational nurses, medical assistants, and board certified doctors?
+Answer: clinical staff at the sjsu student wellness center
+
+Question: Where is patient billing located?
+Answer: student wellness center building (swc)
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What does the cdc recommend?
+Answer: universities do not require a doctors note
+
+Question: What does the sjsu student health center not do?
+Answer: not issue doctors notes, sick notes or excuses for influenza like illnesses (ili).
+
+Question: What is the context for determining whether course requirements are being met?
+Answer: student/professor communication
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What is the phone number for the student health center at san jose state university?
+Answer: 95192-0037
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What is a close contact?
+Answer: 15 minutes or more within a 24-hour period
+
+Question: Who provides the home quarantine and isolation guidelines?
+Answer: santa clara county public health
+
+Question: Whose safety measures will sjsu continue to adhere to?
+Answer: california department of public health and the santa clara county public health department.
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What must you have to access the test kit from the vending machine?
+Answer: a smartphone
+
+Question: What kind of instructions are provided in this guide?
+Answer: step-by-step
+
+Question: What are the step-by-step instructions on?
+Answer: how to dispense and activate your test kit
+
+Question: How often are test kits available for pickup at sjsu?
+Answer: once a week
+
+Question: How do you access the student wellness center patient portal?
+Answer: scan the login qr code on the vending machine
+
+Question: What do you do with the qr code on the vending machine screen?
+Answer: scan the qr code on the vending machine screen
+
+Question: What do you need to do before dispensed test?
+Answer: check the machine for your dispensed test.
+
+Question: What tab must you click to provide a sample?
+Answer: covid test self collect
+
+Question: What do you do on the patient portal?
+Answer: connect your test kit with your health record
+
+Question: What should you not do within 60 minutes of taking the test?
+Answer: collect your test sample.do not eat, drink, chew gum, use mouthwash, or smoke
+
+Question: What will you have to do if your sample is rejected?
+Answer: retake
+
+Question: Where can you drop off your completed test kit?
+Answer: student wellness center
+
+Question: On what day will test kits from the drop boxes be collected?
+Answer: monday
+
+Question: On what website must you submit a caseform?
+Answer: health advisories
+
+Question: Who will reach out to you with further steps if needed?
+Answer: student wellness center case management team
+
+Question: Individuals with what exemptions must participate in covid-19 testing?
+Answer: religious and medical exemptions
+
+Question: What will you be asked to do?
+Answer: certify your current vaccination status
+
+Question: Who can upload their supporting documentation as an attachment on the covid-19 vaccine self-certification form?
+Answer: students requesting a religious exemption
+
+Question: What should you do before submitting a religious exemption form?
+Answer: convert the pdf into a.bmp,.jpg,.jpeg,.gif, and.png, type attachment
+
+Question: What will you need to submit?
+Answer: proof of your covid-19 vaccination record
+
+Question: What type of proof can be used?
+Answer: scanned/photo copy of your vaccine card
+
+Question: Where is swc located?
+Answer: student wellness center building
+
+Question: Where is the parking garage located?
+Answer: seventh street
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: When was the last time students had to complete the process to be compliant?
+Answer: february 24, 2023
+
+Question: You can indicate if you will not be accessing what during the semester?
+Answer: campus facilities
+
+Question: Who can upload their supporting documentation as an attachment on the covid-19 vaccine self-certification form?
+Answer: students requesting a religious exemption
+
+Question: What can you do to request a medical exemption?
+Answer: upload documentation
+
+Question: What type of proof can be used?
+Answer: scanned/photocopy of your vaccine card
+
+Question: What do you need to ensure to prevent delays in verification?
+Answer: all information is visible and legible in english
+
+Question: Who will be subject to disciplinary action under the student code of conduct?
+Answer: students who are not in compliance
+
+Question: What exemptions will apply to the booster?
+Answer: exemptions that are not time-limited
+
+Question: What do you need to submit to book an appointment for a booster shot at scc free vax.org?
+Answer: proof of your covid-19 vaccination record, which must includeto date.if you have changes to your vaccination status or plan to be on campus for classes or extracurricular activities this semester,.proof can include a scanned/photocopy of your vaccine card
+
+Question: What do you need to ensure in english to prevent delays in verification?
+Answer: all information is visible and legible
+
+Question: What must you include in your documentation?
+Answer: all vaccine doses
+
+Question: How will you be notified if your covid-19 vaccination record does not meet verification guidelines?
+Answer: secure messages in your student wellness center patient portal
+
+Question: What must be submitted on the form?
+Answer: this form
+
+Question: What is the name of the facility that does not accept religious exemptions?
+Answer: student health center
+
+Question: How long does it take for a record to be processed and verified?
+Answer: 2-10 business days
+
+Question: What will students be notified about if their religious exemption is approved?
+Answer: students will also be notified about participating in required covid-19 safety measures.
+
+Question: What type of exemption can you apply for?
+Answer: religious exemption
+
+Question: What patient portal does not accept religious exemptions?
+Answer: student health center
+
+Question: Why may verification be delayed?
+Answer: increased volume
+
+Question: What happens if the covid-19 vaccine is approved?
+Answer: students will also be notified about participating in required covid-19 safety measures
+
+Question: What does fda stand for?
+Answer: food & drug administration
+
+Question: Who has determined that the vaccine has "met the necessary criteria for safety and efficacy?"
+Answer: world health organization
+
+Question: What is the name of the local health care provider?
+Answer: santa clara county public health my turn.ca.govvaccinate ca california dept of public health
+
+Question: What may be restricted until proof is also submitted?
+Answer: access to campus facilities and opportunities to participate in on-campus programs
+
+Question: What happens to students who do not submit the two-step vaccine verification process?
+Answer: students who do not submit the two-step vaccine verification process will have a registration hold placed on their account, be dropped from in-person classes, and will lose access to campus facilities
+
+Question: What is one reason a student may have received a registration hold at sjsu?
+Answer: you have not completed the self-certification form
+
+Question: What is inconsistent with instructional modality if you did not complete the self-certification form in mysjsu?
+Answer: your attestation
+
+Question: Please update your attestation to match what?
+Answer: instruction modes-your attestation is inconsistent with supporting documentation
+
+Question: Who can you contact to update your attestation status?
+Answer: studenthealthcenter@sjsu.edu
+
+Question: What is defined as the enrollment census date through the last day of instruction of the current semester?
+Answer: the attestation lock period
+
+Question: Where do you go to if you are completing the covid-19 self-certification for the first time?
+Answer: covid-19 self-certification form in your mysjsu account
+
+Question: What should incoming students who are at higher risk for tb infection undergo?
+Answer: either skin or blood testing for tb infection within one year of csu entry.
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: When was the covid-19 vaccine last updated?
+Answer: january 17, 2023
+
+Question: What should you do if you have received a classroom exposure notification from sjsu?
+Answer: if you have tested positive for covid-19 and isolation guidelines
+
+Question: What do students need to request if needed?
+Answer: covid-19 safety supplies
+
+Question: What websites can you visit for local options?
+Answer: ccfreevax.or gor myturn.ca.gov
+
+Question: What is the name of the virus that causes covid-19 disease?
+Answer: sars-cov-2
+
+Question: Cough, shortness of breath, and fever are symptoms of what type of infection?
+Answer: respiratory
+
+Question: How long can it take for symptoms to appear after exposure?
+Answer: 2 days
+
+Question: What virus can lead to serious acute respiratory and system illness?
+Answer: sars-cov-2
+
+Question: What can be used to wash hands if soap and water are not available?
+Answer: alcohol-based rub
+
+Question: What should you avoid doing with unwashed hands?
+Answer: touching your eyes, nose, and mouth with unwashed hands
+
+Question: Avoid close contact with what kind of people?
+Answer: sick
+
+Question: How much social distancing should be maintained between persons?
+Answer: 6 feet
+
+Question: What should you wear when out in public?
+Answer: a face covering when out in public spaces.
+
+Question: What acts does sjsu comply with?
+Answer: health insurance portability and accountability act (hipaa) and the family educational rights and privacy act (ferpa).
+
+Question: Where is the student wellness center located?
+Answer: student health center
+
+Question: Where is the student health center located?
+Answer: student wellness center building (swc)
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: When will the student wellness center open?
+Answer: february 1, 2021
+
+Question: Where did i work while i was a part-time lecturer at sjsu?
+Answer: santa clara county
+
+Question: How long did i serve as vice president of health career connection?
+Answer: many years
+
+Question: What position did i hold at stanford university before coming to sjsu?
+Answer: director of pre-collegiate programs
+
+Question: What did they teach me?
+Answer: sacrifice, perseverance, and generosity
+
+Question: What was the name of the program in which I was a cohort?
+Answer: master in public health
+
+Question: What did i also learn about?
+Answer: work-life integration
+
+Question: What did dr. dr. say to him?
+Answer: thank you
+
+Question: Along with dr. dr., who is a notable dr.?
+Answer: kathleen roe
+
+Question: Who is kathleen roe?
+Answer: dr
+
+Question: Along with internships, what does dan perales start with?
+Answer: volunteer opportunities
+
+Question: Who can you learn from during these experiences?
+Answer: people who are passionate about their work
+
+Question: What can someone else do to help you ask questions about yourself?
+Answer: ask questions about their trajectory
+
+Question: What will help you determine if this is what you want to do?
+Answer: the answers
+
+Question: Where is swc located?
+Answer: student wellness center building
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What do you need to bring with you to the student health center online payments?
+Answer: picture
+
+Question: How much does a dermatology visit cost per visit?
+Answer: $7
+
+Question: How much does a student have to pay to use the student health center?
+Answer: $25/visit
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What are instructions specifying what actions should be taken for your health care in the event you are no longer able to make decisions?
+Answer: health care directives
+
+Question: What building is located across from the event center?
+Answer: student wellness center building
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What is not required for a visit to the student health center?
+Answer: health insurance
+
+Question: What may be needed since there is no overnight, weekend, or long-term medical care provided by the student health center?
+Answer: health insurance may be needed to reimburse a portion of the costs for outside hospitalization, special tests, and specialty care
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What is the phone number for the immunization clinic?
+Answer: 408-924-6122.make sure to get a flu shot
+
+Question: Who is offering flu shots now?
+Answer: health care clinics, local pharmacies and the county public health department
+
+Question: What kind of information can be found at scc flu shots?
+Answer: free flu shots
+
+Question: What are new students required to do to avoid a registration hold?
+Answer: proof of immunization prior to the first day of classes
+
+Question: Where will students be able to upload their proof of immunization?
+Answer: student healthcenter online/patient portal
+
+Question: Who can you contact for further questions regarding required immunizations?
+Answer: immunization@sjsu.edu.your existing healthcare provider your local county health department some local pharmacies
+
+Question: If you dont have those records, what will you need to do?
+Answer: get vaccinated
+
+Question: What can you get if you are positive you were vaccinated or that you had the disease?
+Answer: a laboratory blood test
+
+Question: What is the csu guidelines for required immunizations?
+Answer: international student must also attach an english translation signed by a licensed health provider.eo 803 (csu executive order 803)
+
+Question: What is the csu considering requiring for all new students?
+Answer: immunizations
+
+Question: What can students request for medical exemptions based on a medical condition that is a contraindication to vaccination?
+Answer: immunization requirements.
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What does swc stand for?
+Answer: student wellness center
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: Where can you find information on covid-19 vaccine and booster requirements?
+Answer: california state university
+
+Question: What can you learn on the faqs page?
+Answer: how to upload your proof of vaccination
+
+Question: What do students need to request if needed?
+Answer: covid-19 safety supplies
+
+Question: What is the website for the state of California?
+Answer: myturn.ca.gov
+
+Question: What virus causes covid-19 disease?
+Answer: sars-cov-2
+
+Question: Cough, shortness of breath, and fever are symptoms of what type of infection?
+Answer: respiratory
+
+Question: How long can it take for symptoms to appear after exposure?
+Answer: 2 days
+
+Question: What virus can lead to serious acute respiratory and system illness?
+Answer: sars-cov-2
+
+Question: What can be used to wash hands if soap and water are not available?
+Answer: alcohol-based rub
+
+Question: What should you avoid doing with unwashed hands?
+Answer: touching your eyes, nose, and mouth with unwashed hands
+
+Question: Avoid close contact with what kind of people?
+Answer: sick
+
+Question: How much social distancing should be maintained between persons?
+Answer: 6 feet
+
+Question: What should you wear when out in public?
+Answer: a face covering when out in public spaces.
+
+Question: What acts does sjsu comply with?
+Answer: health insurance portability and accountability act (hipaa) and the family educational rights and privacy act (ferpa).
+
+Question: Where is the student wellness center located?
+Answer: student health center
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What building is located across from the event center?
+Answer: student wellness center
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What are students expected to provide?
+Answer: proof of covid-19 vaccine status
+
+Question: What number do you need to call to make an appointment?
+Answer: 408-924-6122
+
+Question: What uses a secure and confidential online system?
+Answer: student health center
+
+Question: What kind of shots are available?
+Answer: flu shots
+
+Question: What does the mandatory health fee include?
+Answer: unlimited primary care visits
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What is the name of the health care center at san jose state university?
+Answer: student health center
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: Where is sjsu's medical facility located?
+Answer: student wellness center.
+
+Question: What is the name of the center that provides support services such as a laboratory, pharmacy, physical therapy, radiology, and sports medicine?
+Answer: student health center
+
+Question: What building is located across from the event center?
+Answer: student wellness center building (swc)
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: How many primary care visits does the health fee allow?
+Answer: sjsu students unlimited primary care visits at no additional cost.
+
+Question: What is available at a reduced cost?
+Answer: immunizations
+
+Question: Is there a fee for outside lab work?
+Answer: a nominal fee
+
+Question: What is $12?
+Answer: confidential hiv testing
+
+Question: What does family pact provide?
+Answer: comprehensive family planning services
+
+Question: What is the phone number for the gender care clinic?
+Answer: 777
+
+Question: What is the name of the st?
+Answer: santa clara
+
+Question: Who does the student health center offer hormonal treatment for?
+Answer: transgender and non-binary
+
+Question: What guidelines do students need to follow to provide a letter of support for starting gender-affirming therapy?
+Answer: wpath guidelines
+
+Question: What will not be booked until the patient has obtained a support letter from a mental health professional?
+Answer: medical appointments for gender affirming care
+
+Question: What services are offered at sjsu?
+Answer: foot and podiatry
+
+Question: What is not required?
+Answer: referral by a health center clinician
+
+Question: Does the student health center provide services for new add/adhd evaluations or testing?
+Answer: does not provide services for new add/adhd evaluation
+
+Question: For local testing resources, where can you go?
+Answer: visitbay area assessment services
+
+Question: What is another name for local testing resources?
+Answer: wright institute assessment service
+
+Question: What is required?
+Answer: a referral from a health center clinician
+
+Question: What type of rental is free?
+Answer: crutch/cane
+
+Question: What type of care is provided?
+Answer: sports-related and orthopedic concerns
+
+Question: What is not required?
+Answer: referral by a health center clinician
+
+Question: What Adobe reader is needed to download this form?
+Answer: acrobat
+
+Question: What is the fee for a comprehensive travel consultation?
+Answer: the fee for a comprehensive travel consultation
+
+Question: What is the name of the pharmacy that fills prescriptions?
+Answer: student health center pharmacy
+
+Question: What other types of products are available?
+Answer: over-the-counter products
+
+Question: Does the student health center provide allergy testing or allergy shot administration for students on an andosage regimen?
+Answer: student health center does not provide allergy testing or allergy shot administration for students on andosage regimen.
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time is the clinic open on friday (march 31)?
+Answer: 4:30 p.m.
+
+Question: What type of services are available to all sjsu students?
+Answer: gynecological services
+
+Question: What type of care are our physicians and nurse practitioners trained in?
+Answer: gynecological care
+
+Question: What may be applicable?
+Answer: fees
+
+Question: What do you need to bring with you to your appointment?
+Answer: picture
+
+Question: What does senate bill 24 require?
+Answer: all csu campuses to offer medication abortion
+
+Question: What can you request if you have a positive pregnancy test at sjsu's student wellness center?
+Answer: medication abortion
+
+Question: What is the cost of the pregnancy examination for students in the student wellness center?
+Answer: free
+
+Question: Who pays for the cost of prescriptions?
+Answer: students
+
+Question: Where can medication abortion prescriptions be filled?
+Answer: student wellness center
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time is friday?
+Answer: 8:30am
+
+Question: What is a very contagious virus that can be spread by person-to-person contact?
+Answer: measles
+
+Question: What can increase the risk of measles being spread more easily?
+Answer: larger number of unvaccinated students and staff in colleges
+
+Question: What does mmr stand for?
+Answer: measles-mumps-rubella
+
+Question: How many doses of the mmr vaccine should all students have?
+Answer: two doses
+
+Question: Who is immune to measles?
+Answer: persons born before 1957 are considered immune.persons who were vaccinated between 1963 and 1968 may have received the killed mmr vaccine
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What is confidential by law?
+Answer: medical records
+
+Question: Are your medical records associated with your academic record?
+Answer: your medical records are not associated with your academic record.
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What is a rare form of bacterial meningitis?
+Answer: meningococcal meningitis
+
+Question: How many different serogroups of n are there?
+Answer: 8
+
+Question: What is another name for what is a form of meningitidis?
+Answer: meningitidis
+
+Question: How many people carry the bacteria in the back of their nose and throat?
+Answer: one in 10
+
+Question: What type of meningitis is caused by bacteria attacking the body?
+Answer: meningococcal
+
+Question: Is meningococcal meningitis easily transmissible?
+Answer: not easily transmitted
+
+Question: What is not recommended for persons who do not have symptoms?
+Answer: testing for meningococcus in carriers
+
+Question: How can people spread the bacteria?
+Answer: respiratory droplets
+
+Question: What does it take to spread the bacteria?
+Answer: being close to someone for a lengthy time
+
+Question: What are persons at higher risk treated with after exposure?
+Answer: antibiotics
+
+Question: How many cases of meningococcal disease were reported in the US in 2019?
+Answer: about 375
+
+Question: How many cases of meningococcal serogroup b are reported each year?
+Answer: 34
+
+Question: In what percentage of meningococcal cases is there only one individual involved?
+Answer: 95%
+
+Question: What percentage of those who become ill recover with treatment?
+Answer: 85%-90%
+
+Question: What is a bloodstream infection called?
+Answer: septicemia
+
+Question: What should you do if you develop any of these symptoms?
+Answer: seek immediate medical attention
+
+Question: What can decrease the risk of infection?
+Answer: vaccination against meningococcus
+
+Question: How many types of meningococcus vaccines are there?
+Answer: two
+
+Question: Where can students find more information about the meningococcal vaccine?
+Answer: centers of disease control meningococcal vaccination webpage
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What is monkeypox also known as?
+Answer: mpx
+
+Question: Is mpx more or less severe than smallpox?
+Answer: less severe
+
+Question: How does the mpx virus spread?
+Answer: skin-to-skin contact
+
+Question: Are people with mpx generally contagious or contagious when they have a rash or other symptoms?
+Answer: contagious
+
+Question: How does covid-19 spread?
+Answer: easily through the air.
+
+Question: What is the current risk to the public?
+Answer: low.it spreads primarily through direct contact with infectious sores, scabs, or body fluids, including during sex,
+
+Question: What can it spread by?
+Answer: respiratory secretions
+
+Question: What are some of the symptoms of low energy?
+Answer: swollen lymph nodes, and general body aches
+
+Question: How long does it take for a person to develop a rash or sores?
+Answer: 1 to 3 days
+
+Question: How many stages will the sores go through before healing?
+Answer: several
+
+Question: How many of these symptoms can people with mpx experience?
+Answer: all or only a few
+
+Question: Along with sores, what do most people with mpx get?
+Answer: rash
+
+Question: Why are sores difficult to see?
+Answer: sometimes the sores can be located in places that are difficult for someone to see
+
+Question: What type of infections will resolve without any treatment?
+Answer: mild
+
+Question: There are currently how many treatments specifically for mpx?
+Answer: no
+
+Question: What is the name of the antiviral drug used to protect against smallpox?
+Answer: tecovirimat
+
+Question: What is recommended for people who have been exposed to the disease to prevent them from developing the disease?
+Answer: vaccines
+
+Question: Where can you find more information on vaccine eligibility?
+Answer: santa clara county public health department mpx website
+
+Question: What building is located across from the event center?
+Answer: student wellness center building
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: How long are nutrition consultations?
+Answer: 60-minute
+
+Question: What is the phone number to make an appointment?
+Answer: 408-924-6122
+
+Question: What is the goal of chew classes?
+Answer: to teach students how to prepare quick and easy meals using seasonal, low-cost ingredients.
+
+Question: What are the classes woven with?
+Answer: nutrition education
+
+Question: Where can questions be directed to?
+Answer: sjsudemolab@gmail.com
+
+Question: Where is patient billing located?
+Answer: student wellness center building
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What is the name of the online service that allows students to login?
+Answer: student health center
+
+Question: What type of center does a student visit?
+Answer: student health center
+
+Question: What should not be used for emergencies or urgent questions?
+Answer: the online services/patient portal
+
+Question: What is important to note that messages sent through the portal will become part of your medical record?
+Answer: messages sent throught the portal will become part of your medical record.
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: Where is the student health center located?
+Answer: student wellness center building (swc)
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What do you need to do to show your i.d.?
+Answer: bring a picture
+
+Question: What type of center does a student visit?
+Answer: student health center
+
+Question: Who licenses the student wellness center pharmacy?
+Answer: state of california
+
+Question: What is a process by which professional care is given to restore health and function?
+Answer: physical therapy
+
+Question: Where is physical therapy available at sjsu?
+Answer: student health center
+
+Question: What is required?
+Answer: a referral from a health center clinician
+
+Question: What is the fee for each visit to the student wellness center?
+Answer: $7.00
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What time does the clinic open on fridays?
+Answer: 8:30am
+
+Question: What does the abbreviation shc stand for?
+Answer: student health center
+
+Question: What does california and federal laws and regulations require the shc to do?
+Answer: safeguard the privacy of your protected health information
+
+Question: What is any information in the medical record that can be used to identify an individual?
+Answer: phi
+
+Question: What does the notice of privacy practices and open payments database describe?
+Answer: how medical information about you may be used and disclosed
+
+Question: What does cms stand for?
+Answer: federal centers for medicaid services
+
+Question: The federal physician payments sunshine act requires that detailed information about payment and other payments of value worth what be made available to the public?
+Answer: over ten dollars ($10) from manufacturers of drugs, medical devices and biologics to physicians and teaching hospitals
+
+Question: Who may be contacted for support, resources, and more information?
+Answer: the case management team from the sjsu student wellness center
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+Question: What is the role of the sjsu student wellness center?
+Answer: to support the university by providing medical services to all registered students.we work together to enhance individual and community well-being in support of student learning.
+
+Question: Where is the student wellness center located?
+Answer: one washington square
+
+

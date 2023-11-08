@@ -1,0 +1,549 @@
+Question: What is sjsu an abbreviation for?
+Answer: san jose state university
+
+Question: Our proposed changes do not apply to any other approved policies that are in place for all other undergraduate programs?
+Answer: impaction policies
+
+Question: Who does this change not affect?
+Answer: students who have already applied or are applying for admission
+
+Question: For current impaction criteria visit what site?
+Answer: undergraduate admissions impaction
+
+Question: What are the changes proposed for impaction focused on?
+Answer: increasing student success outcomes for transfer students
+
+Question: What are the changes proposed for impaction focused on?
+Answer: broadening access to the animation and illustration program for freshmen and transfer students
+
+Question: What is the aim of the proposed changes?
+Answer: to better enable students to complete their undergraduate degrees
+
+Question: What would a talent-based assessment allow students to earn an additional gpa bump based on?
+Answer: faculty review of a set of drawing assignments representing an individual’s aptitude for success
+
+Question: What could mitigate the unintended consequences of our current impaction processes?
+Answer: gpa bump
+
+Question: What is the process for first-time freshmen applicants to the bfa animation & illustration?
+Answer: impaction for first-time freshmen applicants to the bfa animation & illustration follows the same process as for all other impacted majors
+
+Question: What are applicants assigned if they are local, veterans, or first-generation?
+Answer: gpa bumps
+
+Question: How are students admitted to the program?
+Answer: ranked by gpa
+
+Question: Why are gpa thresholds very high?
+Answer: demand for this major is far greater than the enrollment capacity,
+
+Question: What did we add to the approved impaction plan for the bfa animation & illustration for fall 2020?
+Answer: two supplemental course requirements
+
+Question: In what year did some transfer students have a greater advantage than others?
+Answer: fall 2020
+
+Question: What do we propose replacing with a gpa bump awarded during faculty review of the drawing assignments?
+Answer: gpa bump awarded for the completion of major-specific supplemental coursework
+
+Question: What is the address of san jose state university?
+Answer: san jose state university, one washington square, san jose, ca 95192-0020
+
+Question: What can be submitted to the impaction@sjsu.edu email?
+Answer: comments submitted to impaction@sjsu.edu email
+
+Question: On what date did the college success collaborative meet?
+Answer: march 7, 2022
+
+Question: On what date was the hearing held?
+Answer: march 15
+
+Question: On what date was the hearing held?
+Answer: march 14
+
+Question: When was the recording of the hearing presentation for public hearing?
+Answer: march 17
+
+Question: Who will we submit a final proposal for 2023-2024 impaction changes to?
+Answer: california state university chancellor’s office
+
+Question: What will we implement if approved by the chancellor's office?
+Answer: impaction planning criteria
+
+Question: What is coleetta mcelroy's title?
+Answer: associate vice president for enrollment management
+
+Question: This section may be updated as what comes in during the public hearing process?
+Answer: additional questions or comments
+
+Question: What will happen if our proposed changes to our impaction plan are approved?
+Answer: supplemental coursework preference given to transfer applicants to animation & illustration who had completed supplemental coursework, will be replaced with preference given based on completion and evaluation of talent-based exercises
+
+Question: How many tasks will students be assigned?
+Answer: three
+
+Question: Along with a face, what is an example of a familiar object?
+Answer: the space they are sitting in
+
+Question: Along with talent, what criteria will be used to score drawings?
+Answer: observational skills
+
+Question: What will students be asked to do for the third task?
+Answer: creatively express whatever best captures their artistic passion
+
+Question: This will also be scored by what?
+Answer: rubric
+
+Question: What is the only program that will be affected?
+Answer: animation
+
+Question: What is the only program that will be affected?
+Answer: charles
+
+Question: What is the process for admission to all other undergraduate programs?
+Answer: impaction review
+
+Question: What county is sjsu in for freshmen?
+Answer: santa clara county
+
+Question: How much of a gpa bump do students in the local admission area receive?
+Answer: 0.25
+
+Question: The proposed changes to admissions policies affect what type of admissions?
+Answer: undergraduate admissions
+
+Question: What is the name of sjsu's data and technology platform?
+Answer: spartan connect
+
+Question: What did eab rename it to when they bought it?
+Answer: ssc
+
+Question: What was the original name of navigate?
+Answer: eab
+
+Question: What does ssms stand for?
+Answer: student success management system
+
+Question: What is the name of the company that owns and operates the navigate platform?
+Answer: eab
+
+Question: What company has a branch for educational resource development?
+Answer: eab
+
+Question: What company is spartan connect a part of?
+Answer: eab’s
+
+Question: What are we talking about when we refer to eab?
+Answer: the company as a whole
+
+Question: What single sign-on system does spartan connect use?
+Answer: one.sjsu
+
+Question: What can campus users search for once they have signed into one.sjsu.edu?
+Answer: spartan connect
+
+Question: What will you be prompted to do?
+Answer: if you’re not already signed in
+
+Question: Who can you reach out to if you receive an error message when attempting to sign in?
+Answer: spartanconnect@sjsu.edu
+
+Question: Who has access to spartan connect?
+Answer: all active students and faculty
+
+Question: How often does the system refresh the data?
+Answer: nightly
+
+Question: How is access granted for other staff?
+Answer: cms security request
+
+Question: What can you request in our detailed guide?
+Answer: specific spartan connect roles
+
+Question: Who can you reach out to if you have questions about the process?
+Answer: spartanconnect@sjsu.edu
+
+Question: What is the name of the company that provides educational research and resources geared towards student success?
+Answer: eab
+
+Question: Who has free access to eab.com?
+Answer: all sjsu faculty and staff
+
+Question: What email address will you need to use to create an account?
+Answer: sjsu
+
+Question: What has san jose state established to contribute to the greater success of the csu graduation initiative 2025?
+Answer: campus-specific goals
+
+Question: Why was the admission to graduation project formed?
+Answer: to identify and implement enhancements to technical and business processes
+
+Question: Who leads the partnership between administration & finance, information technology, academic affairs and student affairs?
+Answer: enrollment services
+
+Question: What year are the sjsu graduation initiative goals for?
+Answer: 2025
+
+Question: What does sjsu stand for?
+Answer: san jose state university
+
+Question: Where is the college of engineering located?
+Answer: davidson
+
+Question: These changes would not affect what type of applicants?
+Answer: freshmen
+
+Question: What are we proposing changes to to give preference to applicants in the admission consideration process?
+Answer: supplemental coursework
+
+Question: What can be found on our impaction page?
+Answer: current supplemental coursework for majors in the college of engineering
+
+Question: What are we proposing to require to be completed before transfer?
+Answer: certain courses
+
+Question: How are applicants considered for admission?
+Answer: applicants will only be considered for admission if the equivalent required coursework is complete
+
+Question: What identifies the required coursework by major?
+Answer: the table below
+
+Question: Who will receive preference in accordance with our current impaction process?
+Answer: students who have completed equivalent coursework to the courses listed in the supplemental coursework column
+
+Question: What type of course is strongly recommended to satisfy this requirement?
+Answer: c/c++ programming
+
+Question: In what discipline will an as-t satisfy all required and supplemental courses?
+Answer: computer science
+
+Question: Comments submitted to what email will be posted here at the conclusion of the public comment period?
+Answer: impaction@sjsu.edu
+
+Question: What will we be holding in march?
+Answer: a stakeholders meeting along with three public hearings
+
+Question: In what year did college success collaborative meet?
+Answer: 2023
+
+Question: When is the march 21 hearing?
+Answer: 3:30 to 4:30
+
+Question: When is the march 22 hearing?
+Answer: 5:30 to 6:30
+
+Question: What is the recording of the march 23 hearing?
+Answer: zoom link recording of march 23 hearing presentation for public hearing
+
+Question: Who will we submit a final proposal for 2024-2025 impaction changes to?
+Answer: california state university chancellor’s office
+
+Question: What is coleetta mcelroy's position?
+Answer: interim
+
+Question: What is the title of the person who can be reached at 408-924-6086?
+Answer: associate vice president for enrollment management
+
+Question: What is the name of the college?
+Answer: davidson college of engineering
+
+Question: The proposed changes to admissions policies affect what only?
+Answer: transfer undergraduate admission
+
+Question: What does emtic stand for?
+Answer: enrollment management technical implementation & communication
+
+Question: What does emtic work with constituents to identify and implement?
+Answer: technical tools
+
+Question: What is the role of the technical implementation team?
+Answer: technical implementation team works with sjsu staff and students across campus to identify and implement technology to improve admission, enrollment, and graduation processes
+
+Question: What does the team partner with units within the student affairs division and external divisions on campus to identify and implement?
+Answer: technical enhancements
+
+Question: Who are subject matter experts in the systems used by areas within enrollment management?
+Answer: business analysts
+
+Question: What are some examples of spartan connect?
+Answer: mysjsu, onbase, spartan connect, myscheduler, cal state apply, qless, comm100)
+
+Question: Who is responsible for responding to all phone and email inquiries for graduate and undergraduate admissions?
+Answer: the communications team
+
+Question: What is the goal of the communication plans we manage?
+Answer: students receive the information that is needed in a timely, clear, and consistent manner
+
+Question: Why is it important to not submit items more than once?
+Answer: it will cause delays
+
+Question: What will be updated once your documents have been uploaded into our system?
+Answer: "to do list"
+
+Question: What happens if additional documentation is required?
+Answer: we will notify you and revise your “to do list”
+
+Question: What do you need to activate to access your mysju account?
+Answer: sjsuone account
+
+Question: What page can you visit to learn what to do next?
+Answer: ‘have applied’ page
+
+Question: What is required for a degree?
+Answer: depth of knowledge
+
+Question: What do you need in each step of an investigative, creative or practical project?
+Answer: mastery
+
+Question: What is another term for complex questions?
+Answer: hypotheses
+
+Question: What is a societal context?
+Answer: understanding of the implications of results or findings from a particular work in a societal context
+
+Question: What are the implications of a scientific finding?
+Answer: social or economic
+
+Question: What type of degree does a student receive at Washington University in St. Louis?
+Answer: baccalaureate
+
+Question: What is the use of specific theories, tools, and technology called?
+Answer: fluency
+
+Question: What skills are necessary for life-long learning?
+Answer: quantitative methodologies, and the ability to engage effectively in collaborative activities
+
+Question: What is the ability to address practical issues?
+Answer: the ability to integrate theory, practice, and problem-solving
+
+Question: What is an example of a person's ability to apply their knowledge and skills to new settings?
+Answer: ability to apply their knowledge and skills to new settings
+
+Question: What is the ability to work as individuals and in groups?
+Answer: ability to work productively
+
+Question: What is the ability to act intentionally and ethically to address a global or local problem?
+Answer: ability to act intentionally and ethically to address a global or local problem
+
+Question: What kind of community does sjsu have?
+Answer: multidimensional
+
+Question: What is the ability to evaluate from multiple perspectives?
+Answer: ability to independently and accurately evaluate information, data and ideas
+
+Question: What are two ways that a communicator can convey messages?
+Answer: effective and appropriate
+
+Question: What is one way to positively contribute to the community?
+Answer: understanding and appreciating human differences
+
+Question: What is the ability to manage one's affairs inside and outside of the university?
+Answer: capacity to manage one's affairs
+
+Question: What is the ability to mobilize groups around shared interests?
+Answer: ability to mobilize groups around shared interests
+
+Question: Making informed decisions and acting on those decisions to enhance what health?
+Answer: personal and community
+
+Question: Where can you find the full text of the division learning goals?
+Answer: division of student affairs
+
+Question: Why have the departments within enrollment management engaged in assessment?
+Answer: to measure the effectiveness of our programs
+
+Question: What office is responsible for program evaluation assessment reports?
+Answer: office of the registrar
+
+Question: What are the names of the departments that the avp's office of enrollment management recognizes each month?
+Answer: financial aid & scholarships office office of the registrar technical implementation & communication testing office
+
+Question: Along with thank you cards and promotional items, what kind of rewards are available from a bookstore?
+Answer: certificates of excellence
+
+Question: What does not interfere with daily processes?
+Answer: the enrollment services department recognition program
+
+Question: What does ssc stand for?
+Answer: student services center
+
+Question: What is the information below?
+Answer: how to contact each department in the ssc
+
+Question: To do what for any type of services, please use qless?
+Answer: join the queue
+
+Question: Schedules vary by what?
+Answer: subject/service
+
+Question: What times are available?
+Answer: some night and weekend times
+
+Question: Where can you learn about making an appointment?
+Answer: sjsu.edu/peerconnections/about/appointment.php
+
+Question: Who will communicate supplemental instruction sessions with students?
+Answer: si leaders
+
+Question: In what space is study hall space available?
+Answer: peer connections
+
+Question: How do you enter?
+Answer: through the side door on san fernando street
+
+Question: What is the sjsu.edu/soar email?
+Answer: outreach@sjsu.edu
+
+Question: What kind of start do you want to get off to?
+Answer: great
+
+Question: What department provides resources to help you enroll at sjsu?
+Answer: enrollment management
+
+Question: Who provides services and resources to help you through the process of getting admitted, enrolling in classes, and graduating from san jose state university?
+Answer: enrollment management
+
+Question: Where are our services offered?
+Answer: student services center
+
+Question: What type of service delivery options do we offer?
+Answer: hybrid service delivery
+
+Question: What does sjsu offer prospective undergraduate students?
+Answer: student outreach and recruitment
+
+Question: What is the first step in the admissions process at Washington University?
+Answer: undergraduate admissions
+
+Question: Along with grants, loans, work study, and scholarships, what can we help you and your family get the money you need?
+Answer: financial aid
+
+Question: What is the name of the person who processes, maintains, and protects all of your official student records at sjsu?
+Answer: registrar
+
+Question: What is the name of the office that provides testing and proctoring services?
+Answer: testing office
+
+Question: What is one of the ways we support student success from application through graduation?
+Answer: enrollment management
+
+Question: When is sjsu proposing a modification to its impaction plan for admission consideration at the transfer level for select programs?
+Answer: fall 2024
+
+Question: What is the name of the service that provides resources to help you enroll at san jose state university and reach your academic goals?
+Answer: enrollment management
+
+Question: Who does the student services center help?
+Answer: current and incoming students
+
+Question: What is the name of sjsu's student affairs division?
+Answer: enrollment services
+
+Question: What is the name of the nondiscrimination notice at sjsu.edu?
+Answer: nondiscrimination-notice
+
+Question: Who produces a series of publications to guide students through the admission, enrollment, and graduation processes?
+Answer: the communications team in enrollment management
+
+Question: Along with the admissions and enrollment processes, what other process does the communications team guide students through?
+Answer: graduation
+
+Question: Where is a listing of those publications?
+Answer: below
+
+Question: Where are the departments that make up the enrollment management unit located?
+Answer: student services center
+
+Question: On what streets is the ssc located?
+Answer: 9th and san fernando
+
+Question: Where is the parking garage located?
+Answer: 10th street
+
+Question: How long is the free parking?
+Answer: 30-minute
+
+Question: Where can one purchase parking permits?
+Answer: yellow permit ticket machines
+
+Question: What is the term for waiting to speak with a staff member from the undergraduate admissions, student outreach and recruitment, and financial aid and scholarship offices?
+Answer: “joining the queue”
+
+Question: How can you be notified when your turn approaches?
+Answer: notified by text
+
+Question: What are the two options most offices offer?
+Answer: in-person (meet in the student services center) and a virtual (meet via zoom)
+
+Question: When will you see the available options?
+Answer: join the queue
+
+Question: How can you join a queue to receive services at Washington University?
+Answer: a queue to receive services during available hours from a department in the student services center
+
+Question: What will place you in line for the service you select?
+Answer: joining the queue
+
+Question: What number will you need if you're a student?
+Answer: id
+
+Question: What options are available if you'd rather have them?
+Answer: both chat and phone lines
+
+Question: How many options do you have to join the queue?
+Answer: two
+
+Question: What button do you click to join a queue?
+Answer: “join the queue”
+
+Question: What app is available for android and ios?
+Answer: qless
+
+Question: What should you look for in the app to follow the prompts?
+Answer: sjsu
+
+Question: What do you text when you need to exit the line?
+Answer: "l"
+
+Question: What do you type when you want an update on your wait time or place in line?
+Answer: s text "s"
+
+Question: What do you use to request more time?
+Answer: "m"
+
+Question: What do you text for help to get additional assistance?
+Answer: "h"
+
+Question: How do you switch from text to voice call updates?
+Answer: text "w"
+
+Question: How long before it's your turn does n# text "n#" to notify you?
+Answer: xx minutes
+
+Question: What do you do in the queue?
+Answer: join
+
+Question: What is the name of the service that san jose state university provides to students to help them through the process of getting admitted, enrolling in classes, and graduating?
+Answer: enrollment management
+
+Question: Where is the university unit housed?
+Answer: student services center
+
+Question: What is the name of the department that provides services to current and incoming students?
+Answer: enrollment management
+
+Question: Where can you find more information on our modified service delivery options?
+Answer: department webpage
+
+Question: What types of aid does the financial aid office help students receive?
+Answer: federal, state, and university aid
+
+Question: Who is responsible for registration, grades, verification of enrollment and degree, official transcripts, reinstatement, and ferpa compliance?
+Answer: the office of the registrar
+
+Question: What does the testing office provide?
+Answer: testing-related services
+
+Question: What office assists students through the application and admission processes?
+Answer: office of admissions and outreach
+

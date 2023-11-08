@@ -1,0 +1,9 @@
+Question: What is this information intended to provide campus with?
+Answer: specific weather event updates
+
+Question: How will sjsu communicate changes to its weather guidelines?
+Answer: by email and this webpage.you may also view national weather service's detailed forecast for the area surrounding sjsu campus.
+
+Question: Where is sjsu's campus located?
+Answer: highway 17, south of scotts valley,
+

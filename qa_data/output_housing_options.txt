@@ -1,0 +1,24 @@
+Question: What has a big impact on your educational experience?
+Answer: sjsu home
+
+Question: What type of housing options does sjsu offer?
+Answer: greek houses
+
+Question: Where can you find a list of on-campus buildings?
+Answer: on-campus buildings
+
+Question: What is the cost of on-campus housing at sjsu?
+Answer: $7,379
+
+Question: What is the name of the international house at sjsu?
+Answer: 70
+
+Question: What is the name of the i-house?
+Answer: i-house
+
+Question: What is sjsu cares?
+Answer: sjsu cares
+
+Question: What is the name of the community of spartans ready to offer assistance?
+Answer: spartans
+

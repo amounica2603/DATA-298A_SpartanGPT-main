@@ -1,0 +1,12 @@
+Question: Where do you live as a student at sjsu?
+Answer: sjsu home
+
+Question: Along with traditional residence halls and downtown city apartments, what type of housing is available at sjsu?
+Answer: greek houses
+
+Question: What is the name of sjsu's housing website?
+Answer: university housing services
+
+Question: Where is sjsu's housing located?
+Answer: on-campus
+

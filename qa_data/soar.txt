@@ -1,0 +1,879 @@
+Question: What time does the virtual front desk open on mondays?
+Answer: 1:00 pm
+
+Question: What is the tuesday, wednesday, and thursday hours?
+Answer: 9:00 am
+
+Question: What is the name of our student ambassador lead podcast?
+Answer: spartans
+
+Question: How can you visit campus?
+Answer: virtually
+
+Question: What do you need to do to register for a live virtual tour?
+Answer: create a spartan vip account
+
+Question: What is the phone number to register for a tour of san jose state university?
+Answer: 408-924-2786
+
+Question: What is the email address for the student services center?
+Answer: outreach@sjsu.edu @futurespartans @sjsu_sesp
+
+Question: What is the phone number for the student services center?
+Answer: 408-924-2786
+
+Question: What do you do to prepare for the application?
+Answer: prepare for the application
+
+Question: What do you need to do to apply for sjsu in fall 2023?
+Answer: fill out the application for sjsu
+
+Question: What is the name of the website that provides a thorough overview of the minimum admission requirements?
+Answer: international transfer admissions
+
+Question: Where can you register for sjsu's upcoming recorded workshops for fall 2023?
+Answer: cal state apply workshops
+
+Question: What do you need to watch to learn how to apply for sjsu?
+Answer: pre-recorded cal state apply workshop
+
+Question: Who assists prospective students and their families with the admission processing requirements and subsequent steps for admission to san jose state university?
+Answer: the office of undergraduate admissions and outreach
+
+Question: What do learning outcomes view to see how we worked towards our goals?
+Answer: assessments of previous years
+
+Question: Who regularly visits high schools and community colleges in the local area?
+Answer: counselors/recruiters
+
+Question: In what state do we attend college fairs?
+Answer: california
+
+Question: Where is san jose state university located?
+Answer: one washington square
+
+Question: What type of person is drew agbay?
+Answer: spartan
+
+Question: What did he earn his master's degree in at sjsu?
+Answer: counselor education
+
+Question: What state has drew called his home for over 20 years?
+Answer: san jose state
+
+Question: What is his favorite part of his job?
+Answer: traveling and interacting with different people from all walks of life
+
+Question: What is amanda aldama fernandes the lead of?
+Answer: spartan east side promise program
+
+Question: What high school district did she attend?
+Answer: east side union
+
+Question: In what field of study did she receive her bachelor's degree from sjsu?
+Answer: sociology
+
+Question: What are some of my favorite things?
+Answer: marvel/the mcu, and a frequent user of bitmojis
+
+Question: What university do you attend?
+Answer: sjsu
+
+Question: What did nicole get her ba in at sjsu?
+Answer: global studies
+
+Question: What does she have experience with?
+Answer: all things campus tours
+
+Question: Where is nicole originally from?
+Answer: santa paula, ca
+
+Question: What is Olivia's favorite pastime?
+Answer: swimming
+
+Question: What can you do on our beautiful campus?
+Answer: take a tour
+
+Question: What is nicole axel garcia's job title?
+Answer: admissions counselor/recruiter
+
+Question: In what field did he earn his bachelor's degree from saint mary's college of california?
+Answer: hispanic linguistic studies
+
+Question: What soccer team is he a jersey collector for?
+Answer: guatemalan national soccer
+
+Question: What year does the oldest jersey in his collection date to?
+Answer: 1967
+
+Question: What does he have a passion for?
+Answer: giving back to the community
+
+Question: Where is axel yichen shao from?
+Answer: bay area
+
+Question: Where did she earn her graduate certification in college admission and career counseling?
+Answer: uc
+
+Question: At what public school was she a high school teacher before becoming a counselor?
+Answer: chicago public schools
+
+Question: What type of school did yichen attend when she first came to the US?
+Answer: boarding school
+
+Question: Why does she want to help more students from all backgrounds achieve their fullest potential?
+Answer: she understands the challenges that international students face when applying to colleges
+
+Question: What does she enjoy doing?
+Answer: traveling to different places, learning new languages and culture
+
+Question: What does she look forward to doing?
+Answer: serving more future spartans
+
+Question: What is marlene perez's job title?
+Answer: admissions counselor/recruiter
+
+Question: In what field did she receive her bachelor's degree from university of california, los angeles?
+Answer: sociology
+
+Question: What type of mentor is she?
+Answer: puente
+
+Question: Along with hiking and traveling, what is one of Elizabeth's favorite pastimes?
+Answer: tending to her plants
+
+Question: Who is eager to assist prospective students with their admissions journey to sjsu?
+Answer: marlene
+
+Question: What is the phone number of the student ambassadors at san jose state university?
+Answer: 408-924-2786
+
+Question: What is required for a degree?
+Answer: depth of knowledge
+
+Question: What do you need in each step of an investigative, creative or practical project?
+Answer: mastery
+
+Question: What is another term for complex questions?
+Answer: hypotheses
+
+Question: What is a societal context?
+Answer: understanding of the implications of results or findings from a particular work in a societal context
+
+Question: What are the implications of a scientific finding?
+Answer: social or economic
+
+Question: What type of degree does a student receive at Washington University in St. Louis?
+Answer: baccalaureate
+
+Question: What is the use of specific theories, tools, and technology called?
+Answer: fluency
+
+Question: What skills are necessary for life-long learning?
+Answer: quantitative methodologies, and the ability to engage effectively in collaborative activities
+
+Question: What is the ability to address practical issues?
+Answer: the ability to integrate theory, practice, and problem-solving
+
+Question: What is an example of a person's ability to apply their knowledge and skills to new settings?
+Answer: ability to apply their knowledge and skills to new settings
+
+Question: What is the ability to work as individuals and in groups?
+Answer: ability to work productively
+
+Question: What is the ability to act intentionally and ethically to address a global or local problem?
+Answer: ability to act intentionally and ethically to address a global or local problem
+
+Question: What kind of community does sjsu have?
+Answer: multidimensional
+
+Question: What kind of workshops are offered?
+Answer: virtual next steps workshops
+
+Question: Learn how to complete the process of what?
+Answer: intent to enroll
+
+Question: What type of receptions do we have?
+Answer: spartan
+
+Question: What are newly admitted spartans invited to attend?
+Answer: spartan receptions
+
+Question: Invitations are emailed directly to students who are what?
+Answer: provisionally admitted
+
+Question: What workshops are ready to be a spartan?
+Answer: register cal state apply workshops ready to be a spartan
+
+Question: What year are you interested in applying for?
+Answer: fall 2023
+
+Question: Where can you learn more about our admission requirements and application process?
+Answer: one of our cal state apply workshops
+
+Question: How do you apply for sjsu?
+Answer: fill out the application
+
+Question: What is the name of the csu college night college fair?
+Answer: csu college night college fair
+
+Question: What are the gpa, course requirements, and impaction results for freshmen and transfer students?
+Answer: admission requirements
+
+Question: What university are you considering to further your education?
+Answer: san jose state university
+
+Question: What is a freshman applicant?
+Answer: student who has graduated from (or is still in) high school and who has not enrolled in a regular (non-summer) session course
+
+Question: What must freshman applicants first meet for admission to a university?
+Answer: csu eligibility requirements
+
+Question: What are applicants reviewed for through sjsu's admission selection process?
+Answer: provisional admission
+
+Question: What do you need to study in the U.S. as an international freshman?
+Answer: an f-1 visa or j-1 visa
+
+Question: An upper division transfer applicant must have completed at least how many quarter units?
+Answer: 90 quarter units
+
+Question: What do you need to study in the United States as an international transfer applicant?
+Answer: an f-1 visa or j-1 visa
+
+Question: What must international transfers provide when applying as a lower division transfer?
+Answer: international transfers applying as a lower division transfer must provide their high school transcripts
+
+Question: Why is san jose state competitive in all majors?
+Answer: sjsu continues to have more qualified applicants than available new student spaces
+
+Question: What does impaction mean?
+Answer: meeting the minimum california state university (csu) requirements
+
+Question: We will no longer have the enrollment capacity to accept all eligible applicants, including some from local high schools and community colleges.
+Answer: csu
+
+Question: What is different about each major at sjsu?
+Answer: every major at sjsu requires a different eligibility index score, and students must meet the minimum score for the major they applied to in order to receive provisional admission
+
+Question: Does every major at sjsu require a different minimum gpa?
+Answer: some majors providing preference for supplemental coursework completed
+
+Question: Who must complete a follow-up supplemental application?
+Answer: transfer students
+
+Question: What do you become when you become a spartan?
+Answer: spartan
+
+Question: What does SOAR stand for?
+Answer: student outreach and recruitment
+
+Question: What is the name of the pre-admissions counseling available via zoom join the waiting room?
+Answer: virtual front desk
+
+Question: Who can you meet to discuss sjsu admissions requirements?
+Answer: pre-admissions counselors
+
+Question: What type of tours are looking for opportunities to visit the sjsu campus?
+Answer: campus tours
+
+Question: What can you register for at Washington University?
+Answer: in-person campus tours
+
+Question: What other tour options are available on our website?
+Answer: youvisit virtual tour, self-guided tours, and much more
+
+Question: What are we excited to do with you?
+Answer: answer live questions
+
+Question: What do attendees of our events want to do?
+Answer: engage in our sjsu outreach events
+
+Question: What can you attend throughout the academic year?
+Answer: various large-scale outreach and recruitment events
+
+Question: Along with families, who can attend the events?
+Answer: students
+
+Question: What is the best way to find out about upcoming events?
+Answer: check out our schedule and locations
+
+Question: What is the name of the east side union high school district in san jose?
+Answer: spartan east side promise program
+
+Question: This program supports students and their families in their transition from high school to college.
+Answer: esuhsd
+
+Question: What is one resource that can be used to learn about spartan support, admissions, spartan support, and more?
+Answer: campus facilities
+
+Question: How can you learn more about sjsu?
+Answer: digital brochures and videos
+
+Question: What is the name of the library that features departments and resources such as financial aid, career center, and housing?
+Answer: video library
+
+Question: Do you want to hear from our students directly or indirectly?
+Answer: directly
+
+Question: What is the name of the podcast that discusses the spartan lifestyle?
+Answer: spartan scoop
+
+Question: What can you do to stay connected with soar admissions counselors and student ambassadors?
+Answer: connect with us
+
+Question: What kind of tour can you take?
+Answer: campus tour
+
+Question: What type of spartan are we here to help you become?
+Answer: sjsu
+
+Question: What document states that california state university does not discriminate on the basis of gender?
+Answer: title ix notice of nondiscrimination
+
+Question: Who is the domestic steps to admission brochure designed for?
+Answer: prospective freshmen and transfer students who are california residents
+
+Question: What brochure is designed for prospective freshmen and transfer students who are not california residents?
+Answer: non-ca resident steps to admission brochure
+
+Question: What is designed for prospective international freshmen and transfer applicants applying for fall with an f-1 or j-1 visa?
+Answer: international steps to admission brochure
+
+Question: What are the steps to admissions publications called?
+Answer: steps to enrollment
+
+Question: Who are the steps to enrollment publications designed for?
+Answer: prospective students offered provisional admission
+
+Question: What is the spartan east side promise brochure for east side union high school district students eligible for the spartan east side promise program?
+Answer: spartan east side promise brochure for east side union high school district students eligible for the spartan east side promise program financial aid and scholarships
+
+Question: What are the steps on how to become a spartan?
+Answer: admissions and outreach publications
+
+Question: What is the first step to becoming a spartan?
+Answer: video library
+
+Question: What is the spartan scoop?
+Answer: an sjsu podcast
+
+Question: What is the name of the sjsu new black spartan reception?
+Answer: bridging the bay
+
+Question: What is bridging the bay?
+Answer: sjsu new black spartan reception la to the bay
+
+Question: What is the name of the sjsu new black spartan reception la to the bay?
+Answer: sjsu new latinx/chicanx spartan reception transfer takeover
+
+Question: When is the sjsu new black spartan reception in downtown oakland?
+Answer: saturday march 11, 2023
+
+Question: Who will the newly admitted students meet at the event?
+Answer: spartans from the bay area/northern california
+
+Question: What is the name of the group of people that attend sjsu?
+Answer: spartans
+
+Question: Along with southern california, from what area will you be able to meet other newly admitted spartans?
+Answer: greater los angeles area
+
+Question: Who will be present to welcome you?
+Answer: a special team of sjsu professionals and current spartan students
+
+Question: Who is the event coordinator?
+Answer: drew agbay
+
+Question: Who will you meet at the event?
+Answer: spartans from hawaii
+
+Question: What is the cost of the event?
+Answer: free
+
+Question: What is the cost of the event?
+Answer: this is a free event for you and your family/guests (2 guest maximum)
+
+Question: Along with sjsu info packets, what else will be provided?
+Answer: spartan swag
+
+Question: Who does sjsu's student outreach and recruitment office work with?
+Answer: drew agbay
+
+Question: Who is invited to learn about campus resources with the resource fair?
+Answer: newly admitted transfer students
+
+Question: What will be provided?
+Answer: lunch
+
+Question: What type of students are invited to learn about campus resources and the intent to enroll process?
+Answer: newly admitted
+
+Question: Where will you meet other newly admitted spartans from?
+Answer: east side union high school district
+
+Question: Who will be present to welcome you to sjsu?
+Answer: a special team of sjsu professionals and current spartan students
+
+Question: What type of swag will be provided?
+Answer: spartan
+
+Question: Who is the spartan east side promise program lead?
+Answer: amanda aldama fernandes
+
+Question: Where can you find more information about the admittedspartanday program?
+Answer: www.sjsu.edu/admittedspartanday
+
+Question: What does the sjsu podcast bring you?
+Answer: real experiences from our spartans from 2020 - 2021
+
+Question: What does our series on college students from sjsu dive into?
+Answer: fears, expectations, and realities
+
+Question: When is this presentation open?
+Answer: fall 2023
+
+Question: These sessions are to help you do what?
+Answer: finish the sjsu next steps intent to enroll
+
+Question: When is the last day to register for sjsu?
+Answer: tuesday march 7, 2023
+
+Question: When is the last day to register for sjsu?
+Answer: friday april 7, 2023
+
+Question: When is the last day to register for sjsu?
+Answer: thursday march 30, 2023
+
+Question: When is the last day to register for sjsu?
+Answer: friday march 3, 2023
+
+Question: When is the last day to register for sjsu?
+Answer: wednesday february 22, 2023
+
+Question: What time will the presentation take place on february 22, 2023?
+Answer: 5:30 pm - 6:30 pm
+
+Question: When is the presentation on april 7, 2023?
+Answer: 2:00 pm - 3:00 pm
+
+Question: When is the recording time for friday march 3, 2023?
+Answer: 2:00 pm - 3:00 pm
+
+Question: At what time will the friday march 10, 2023 session take place?
+Answer: 11:00 am - 12:00 pm
+
+Question: What time did wednesday march 15, 2023 take place?
+Answer: 5:30 pm - 6:30 pm
+
+Question: What is a great way to learn about sjsu?
+Answer: live q&a
+
+Question: What time is the recording?
+Answer: 5:30 p.m
+
+Question: When does the recording begin?
+Answer: 11:00 a.m
+
+Question: What is happening on friday, october 14, 2022?
+Answer: recording
+
+Question: What time is it?
+Answer: 12:00
+
+Question: What time is it?
+Answer: 6:30
+
+Question: What is happening on wednesday, october 19, 2022, 5:30 p.m.?
+Answer: recording
+
+Question: What is happening on friday, october 28, 2022?
+Answer: recording
+
+Question: What is happening on thursday, november 3, 2022, 5:30 p.m.?
+Answer: recording
+
+Question: What is happening on november 8, 2022?
+Answer: recording
+
+Question: What is happening on wednesday, november 16, 2022?
+Answer: recording
+
+Question: What is happening friday, november 18, 2022, 11:00 a.m.?
+Answer: recording
+
+Question: What is happening on tuesday, november 22, 2022?
+Answer: recording
+
+Question: What is happening monday, november 28, 2022, 5:30 p.m.?
+Answer: recording
+
+Question: What do you do with the recordings of our presentations?
+Answer: recordings
+
+Question: Are you ready to become what?
+Answer: spartan
+
+Question: What is the name of the person you would meet with at a college?
+Answer: pre-admissions counselor
+
+Question: Have questions about applying to sjsu?
+Answer: questions
+
+Question: What can you do at the virtual front desk or in-person at the student services center?
+Answer: meet with one of our team members
+
+Question: What are some of the presentations that soar provides?
+Answer: soar provides presentations on sjsu and csu admission requirements, the cal state apply application, and the next steps intent to enroll
+
+Question: What is the name of the organization that offers in-person and virtual events for prospective students and families?
+Answer: soar
+
+Question: What require pre-registration?
+Answer: all events
+
+Question: What is the phone number to register at san jose state university?
+Answer: 408-924-2786
+
+Question: What time is the virtual front desk open on mondays?
+Answer: 1:00 pm
+
+Question: What is offered in-person at the student outreach and recruitment department?
+Answer: pre-admissions in-person counseling
+
+Question: Are you a high school or college counselor looking for a sjsu representative?
+Answer: high school or college counselors
+
+Question: You can now do what to us and we will get back to you on potential visits?
+Answer: email
+
+Question: Who are you here for?
+Answer: we are here for you
+
+Question: What is san jose state university's phone number for student outreach?
+Answer: 408-924-2786
+
+Question: What type of tours are we now offering for prospective students?
+Answer: in-person campus tours
+
+Question: What other tour options do we offer?
+Answer: youvisit virtual tour, self-guided tours, and much more
+
+Question: What type of tours are offered on saturdays?
+Answer: individual and family campus tours
+
+Question: What will begin on time?
+Answer: our tour
+
+Question: What may vary depending on questions asked before, during, or after the tour?
+Answer: tour end-times
+
+Question: What is the maximum capacity of this tour?
+Answer: 50
+
+Question: What type of tours are not available due to high demand and limited resources?
+Answer: school/group tours
+
+Question: What do we encourage you to check this website for?
+Answer: updates/openings
+
+Question: Where can you find more information about housing tours?
+Answer: housing website
+
+Question: What is the sjsu live virtual tour called?
+Answer: live virtual tour
+
+Question: How long is the zoom presentation-style tour?
+Answer: 45-minute
+
+Question: How do you sign up for a tour?
+Answer: sign up online
+
+Question: What will you select that best fits your schedule?
+Answer: tour time
+
+Question: Are we excited to meet you?
+Answer: we are excited to meet you
+
+Question: What can you do at your own pace?
+Answer: take an interactive campus tour
+
+Question: Along with vibrant images, what does this option allow you to experience the University of Notre Dame?
+Answer: pre-recorded narration
+
+Question: This experience is available for both mobile devices and what other device?
+Answer: desktop
+
+Question: What university is lola a student of?
+Answer: sjsu
+
+Question: What will sanreet show you in the video?
+Answer: the services, study spots and favorite places
+
+Question: What type of dr?
+Answer: the
+
+Question: Who was king, jr?
+Answer: martin luther
+
+Question: What type of facility offers study spaces, research support, and student computing services?
+Answer: library
+
+Question: What can you do to learn about even more resources offered?
+Answer: take a video tour
+
+Question: Along with national and international artists, who performs at the hammer theatre?
+Answer: sjsu
+
+Question: What does srac stand for?
+Answer: the spartan recreation and aquatic center
+
+Question: How many sq ft?
+Answer: 20,000
+
+Question: What type of equipment does the resort have?
+Answer: cardio/strength equipment, three full-court gyms,1/8-mile indoor track, climbing wall, 50-meter lap pool
+
+Question: What university is san jose state?
+Answer: san josÃ© state
+
+Question: What will introduce you to some of our favorite campus locations?
+Answer: self-guided walking tour
+
+Question: What is the name of san jose state university's dedicated support service for east side union high school district students?
+Answer: spartan east side promise program
+
+Question: Who is the spartan east side promise program designed to support?
+Answer: east side union high school district students
+
+Question: Who created the spartan east side promise?
+Answer: san josÃ© state university and east side union high school district
+
+Question: How does the sesp provide a pathway to admission at sjsu?
+Answer: clearly specifying the admission requirements
+
+Question: What type of students did the promise help transition to sjsu?
+Answer: esuhsd
+
+Question: What type of students do we want to foster a college going mindset in?
+Answer: esuhsd
+
+Question: What is the email address of the sesp program lead?
+Answer: eastsidepromise@sjsu.edu
+
+Question: Who is the author of the p?
+Answer: andrew
+
+Question: What is the name of the high school in w.c?
+Answer: hill high school
+
+Question: What is another name for overfelt high school?
+Answer: evergreen valley high school
+
+Question: What is another name for pegasus high school?
+Answer: santa teresa high school
+
+Question: Why would you email eastsidepromise@sjsu.edu?
+Answer: to schedule an admissions/spartan east side promise presentation
+
+Question: What type of life can students experience on sjsu preview day?
+Answer: spartan
+
+Question: What do you need to connect with in order to learn more about the University of Notre Dame?
+Answer: multiple campus resources
+
+Question: Who can attend the workshop?
+Answer: 12th grade csu eligible students
+
+Question: What is a step-by-step overview of the college application process?
+Answer: cal state apply csu
+
+Question: Who gets to know sjsu?
+Answer: parents/guardians
+
+Question: What is the east side of the campus like?
+Answer: spartan
+
+Question: Who is this workshop for?
+Answer: 10th and 11th grade students
+
+Question: What do you need to email to schedule an admissions/spartan east side promise presentation for your class or organization?
+Answer: eastsidepromise
+
+Question: In what grades can you find information on how to prepare for college on the csu's website?
+Answer: 6-11th
+
+Question: When are you preparing to apply to sjsu?
+Answer: fall 2023
+
+Question: What are you about to review?
+Answer: process
+
+Question: What are you applying for in fall 2023?
+Answer: cal state apply
+
+Question: What season is 2023?
+Answer: fall
+
+Question: What phone number can you call to chat with our team?
+Answer: (561) 285-3659
+
+Question: What continues to grow?
+Answer: community of support for esuhsd students
+
+Question: What are the partnerships in the community dedicated to doing?
+Answer: breaking down barriers
+
+Question: How can you see some of our campus partners?
+Answer: view some of our campus partners
+
+Question: What was created to support the east side community?
+Answer: east side education foundation
+
+Question: Along with the silicon valley education foundation, with whom does esef collaborate?
+Answer: san josÃ© state
+
+Question: What is managed by a 100% volunteer board of directors?
+Answer: esef
+
+Question: What does this mean?
+Answer: nearly all the funds raised by the foundation go directly to support east side students, teachers, and community
+
+Question: What is the name of our summer program?
+Answer: esuhsd spartan
+
+Question: Who has partnered with excite credit union on a special offer for east side families?
+Answer: east side education foundation
+
+Question: Along with a social security number, what must a child have in order for the account to be created?
+Answer: tax id
+
+Question: Who is required to co-sign the account?
+Answer: an adult
+
+Question: What do you select during the application process?
+Answer: â€œstep up savingsâ€
+
+Question: What is the email address for questions and assistance?
+Answer: dcastro@excitecu.org
+
+Question: What is the name of the scholarship that provides students with funding for their first year of tuition and on-campus housing?
+Answer: san jose earthquakes spartan east side promise scholarship
+
+Question: What is the promise of the spartan east side?
+Answer: spartan east side
+
+Question: Who do we support in their transition from high school to college?
+Answer: esuhsd students and their families
+
+Question: What kind of support services are available for incoming sjsu students?
+Answer: various support services are available for new sjsu students
+
+Question: What is the name of the summer program for families with questions?
+Answer: esuhsd spartan
+
+Question: What is the email address for the eastsidepromise@sjsu.edu?
+Answer: eastsidepromise@sjsu.edu
+
+Question: What are newly admitted esuhsd students and their families invited to learn about campus resources and the intent to enroll process?
+Answer: pre-admissions appointment becoming a spartan reception
+
+Question: What will be provided at 5:30pm?
+Answer: dinner and a resource fair
+
+Question: What kind of resources do we have?
+Answer: community resources
+
+Question: What can you do about our program and services?
+Answer: learn more
+
+Question: What is san jose state university's phone number?
+Answer: 408-924-2786
+
+Question: What is the name of the program that focuses on helping incoming students transition to san jose state university?
+Answer: spartan east side promise
+
+Question: What is the third objective of the peer mentor program?
+Answer: decrease % of academic probation and disqualification in cohort
+
+Question: What does the hybrid summer program provide incoming esuhsd freshmen?
+Answer: academic guidance, connections to campus resources, and an opportunity to build their peer support network
+
+Question: What will students learn how to use at sjsu?
+Answer: academic advising tools, connect with multiple departments, and build their peer support network
+
+Question: Participants will be eligible to apply for what scholarship?
+Answer: sesp
+
+Question: When is the sesp growth pledge offered at sjsu?
+Answer: 6/20 - 6/21
+
+Question: Who has the opportunity to take the sesp growth pledge?
+Answer: all esuhsd students enrolled at sjsu
+
+Question: What is a commitment from both the student and the spartan east side promise program staff to advocate, engage and work towards the student's academic success?
+Answer: the growth pledge
+
+Question: What type of peer mentors are available to meet with students?
+Answer: sesp
+
+Question: What type of centers are designed to support you in creating your course schedule, academic plan, and changing your major/minor?
+Answer: college success centers
+
+Question: What are the designated resources for academic advising?
+Answer: they are here for all of your academic questions
+
+Question: What are mygps?
+Answer: e-advising tools
+
+Question: Where can you go if you are undeclared?
+Answer: undergraduate advising and success center
+
+Question: Where can you find questions specific to your department?
+Answer: undergraduate advising directory
+
+Question: Where can you meet with your advisor?
+Answer: undergraduate advising and success center
+
+Question: What is the name of the center that has resources for students?
+Answer: career center's
+
+Question: What is your roadmap to career success?
+Answer: major exploration career counseling
+
+Question: What is the name of our most recent workshop?
+Answer: "e-advising and scheduling resource"
+
+Question: Who made the quick tip videos?
+Answer: our sesp peer mentors
+
+Question: Looking for a more interactive, but what kind of experience?
+Answer: self-paced
+
+Question: What kind of workshops are coming soon?
+Answer: nearpod workshops
+
+Question: What can you check out on campus?
+Answer: what's going on
+
+Question: What campus events do you want to discover?
+Answer: sjsu clubs, student organizations, fraternities/sororities chicanx/latinx
+
+Question: How many cocurricular opportunities does sjsu offer?
+Answer: varity
+
+Question: Who has suggestions on how to find a rsca project that's right for you?
+Answer: office of research's
+
+Question: How long are faculty-led programs?
+Answer: 1-4 weeks
+
+Question: What is a great help?
+Answer: peer connectionsâ€™ tutoring resource
+
+Question: What do they have for the numerous and various subjects available on campus?
+Answer: tutors
+
+Question: What type of session may look like?
+Answer: tutoring
+

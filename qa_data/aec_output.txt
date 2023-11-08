@@ -1,0 +1,2074 @@
+Question: Where is the center for universal design in education located?
+Answer: one washington square
+
+Question: Who produces alternative formats for curriculum requirements?
+Answer: the center for accessible technology
+
+Question: What are some possible alternative media formats?
+Answer: e-text (electronic text), epub, bookshare, vital source and large print.
+
+Question: What must an appointment be scheduled with?
+Answer: show a students and have a about what type of software they want to learn.
+
+Question: Where can students view cat alternative format contract?
+Answer: students can visit the aec's e-agreements
+
+Question: Who can schedule online appointments?
+Answer: students can schedule online appointments.
+
+Question: What must students do in the description box?
+Answer: students must provide a reason for the requested appointment
+
+Question: Where can you find early annual reports and department assessment reports?
+Answer: accessible education center (aec) assessment reports
+
+Question: In what year did san jose state begin to include copies of its biennial reports?
+Answer: 2009
+
+Question: What does cat stand for?
+Answer: the center for accessible technology
+
+Question: What is the location of the martin luther king, jr., library?
+Answer: San jose state university.we are currently meeting with students virtually for accessible technology training
+
+Question: What may be scheduled on the appointments page?
+Answer: appointments
+
+Question: Where is san jose state university located?
+Answer: one washington square
+
+Question: What is adm bldg., rm bldg.?
+Answer: preferred method
+
+Question: Where is san jose state university located?
+Answer: one washington square
+
+Question: What is the aec committed to providing for students with long-covid related needs?
+Answer: reasonable and appropriate accommodations
+
+Question: What does the aec engage in to determine eligibility as a student with a verified disability?
+Answer: the interactive process
+
+Question: What does the aec do with curriculum requirements, documentation from treating professional, and student input?
+Answer: the aec will determine reasonable and appropriate accommodations for eligible students.
+
+Question: What will provide an equally effective alternative?
+Answer: accommodation(s)
+
+Question: On what basis are prescribed accommodation(s) approved?
+Answer: per-semester
+
+Question: Who will not be automatically eligible for future semesters?
+Answer: previously eligible students
+
+Question: When will students be asked to upload documentation?
+Answer: during the application process
+
+Question: What should treating professionals complete?
+Answer: aecs long-covid verification form
+
+Question: Courses in these modes of instruction may have what type of elements?
+Answer: in-person
+
+Question: What may be approved as a reasonable accommodation if a students disability limitations impact their ability to participate in-person?
+Answer: remote participation
+
+Question: Is this accommodation intended to be used for consecutive semesters?
+Answer: not intended to be used for consecutive semesters
+
+Question: To convert an in-person program into what kind of experience?
+Answer: all-virtual
+
+Question: What is approval contingent on?
+Answer: determining feasibility for the students courses
+
+Question: What type of students are approved for one semester?
+Answer: students prescribed remote participation as an accommodation
+
+Question: How is consideration to extend this accommodation determined?
+Answer: on a semesterly basis
+
+Question: What should students do to ensure timely processing of requests?
+Answer: students should submit requests with supporting documentation
+
+Question: Who will consider later requests?
+Answer: aec
+
+Question: What will a treating professional need in order to approve a course request?
+Answer: supporting documentation
+
+Question: What form should treating professionals complete?
+Answer: the aecs covid-19 verification form
+
+Question: What webpage has the most up to date listing of factors?
+Answer: cdc 
+
+Question: What type of conditions are cancer and chronic kidney disease?
+Answer: high-risk condistions 
+
+Question: What is an example of a high-risk condition?
+Answer: overweight, pulmonary hypertension 
+
+Question: What is an example of a high-risk condition?
+Answer: sickle cell disease thalassemia- smoking, current or former- solid organ or blood stem cell transplant- stroke or cerebrovascular disease, which affects blood flow to the brain- substance use disorders
+
+Question: What does ppe stand for?
+Answer: personal protective equipment
+
+Question: Where are housing accommodations located?
+Answer: on-campus
+
+Question: What type of requirements are there alternative arrangements for covid precaution?
+Answer: face covering
+
+Question: What type of seating is there?
+Answer: preferential
+
+Question: What type of enrollment?
+Answer: cross
+
+Question: What is the purpose of remote participation for on-campus academic requirements?
+Answer: covid-19 safety is the purpose of remote participation for on-campus academic requirements.
+
+Question: What should students do for information on vaccine exemptions?
+Answer: students should visit sjsu's health center
+
+Question: Are students eligible for covid-19 related accommodations through the aec?
+Answer: students approved for an exemption may be eligible for covid-19 related accommodations
+
+Question: What is the covid-19 guide to accommodations?
+Answer: covid-19 guide to accommodations assists students to determine their eligibility for services through the aec
+
+Question: What is a potential transmission of covid-19?
+Answer: person-to-person transmission
+
+Question: How many students does the aec have at sjsu?
+Answer: approximately 1300
+
+Question: For online classes, instructional and supplemental materials must be what for all students to fully participate?
+Answer: accessible
+
+Question: What are the instructions on microsoft word, powerpoint, and pdf?
+Answer: see below for instructions on microsoft word, powerpoint, and pdf.microsoft word accessible template
+
+Question: What does microsoft word and powerpoint have that allows you to check accessibility problems in your document?
+Answer: built-in accessibility checker
+
+Question: How do you access the accessibility checker?
+Answer: to access accessibility checker:select file > info > check for issues > check accessibility
+
+Question: Are all pdf documents accessible?
+Answer: all pdf documents are accessible
+
+Question: When converting what check for accessibility?
+Answer: word or ppt to pdf
+
+Question: What do you need to open a pdf document?
+Answer: adobe reader
+
+Question: What is the name of the feature that activates the read out loud feature?
+Answer: read out loud
+
+Question: What are the two options to read and listen to your document?
+Answer: read this page only or read to end of document
+
+Question: Who can a student contact to request accommodations?
+Answer: aec
+
+Question: What should a student do if they have difficulty receiving their accommodations?
+Answer: students experiencing difficulty receiving their prescribed accommodation(s) from the instructor should contact the aec to talk with a counselor
+
+Question: When is the alternative testing process for students in 2023?
+Answer: winter and spring
+
+Question: What must you request in myaec each semester?
+Answer: testing accommodations
+
+Question: What must a student do in order to receive testing accommodations?
+Answer: request any prescribed testing accommodations in myaec each semester
+
+Question: Where can you request testing accommodations?
+Answer: myaec
+
+Question: What must you request in myaec before you will be able to use them?
+Answer: testing accommodations
+
+Question: What does aec recommend you request as early as possible?
+Answer: testing accommodations
+
+Question: When will you be able to request accommodations in myaec?
+Answer: after registering for each upcoming semester.
+
+Question: What informs faculty of your prescribed accommodations?
+Answer: faculty notification letter
+
+Question: Where can you access records of each faculty notification letter sent on your behalf?
+Answer: myaec profile
+
+Question: What do you do after requesting accommodations in myaec?
+Answer: contact your professors to discuss your testing accommodations and the administration of course exams.instructors will electronically complete the aec test accommodation form through the link provided on the faculty notification letter.
+
+Question: How will aec notify you of your accommodations?
+Answer: aec will email you a confirmation of your exam date, time, location, and other important information.
+
+Question: What should you do before emailing your professor?
+Answer: confirm with your professor which exams/quizzes you want to use your prescribed testing accommodations for.
+
+Question: What happens if you discuss your accommodations with your faculty in advance?
+Answer: you should receive your testing accommodations.
+
+Question: Who should you email if your time has not been extended?
+Answer: faculty
+
+Question: Who should respond shortly and extend your time?
+Answer: faculty
+
+Question: What do you do if you are not able to extend your time?
+Answer: email aec exams at aec-exams@sjsu.edu
+
+Question: What will be answered the next business day?
+Answer: emails will be answered the next business day
+
+Question: How long does it take for faculty and aec to set up accommodations?
+Answer: 5 business days in advance
+
+Question: How long in advance can you submit a test accommodation form?
+Answer: less than 5 business days in advance
+
+Question: Who may not be able to approve late requests depending on seating availability?
+Answer: aec
+
+Question: How long in advance must requests for final exam accommodations be submitted for summer/winter courses?
+Answer: 3 business days in advance
+
+Question: These deadlines allow who time to set up accommodations?
+Answer: faculty and aec
+
+Question: Who may not be able to approve late requests depending on seating availability?
+Answer: aec
+
+Question: How long does it take for faculty to set up accommodations?
+Answer: 5 business days 
+
+Question: Who is not required to accommodate a student if the student requests accommodations in an unreasonable time frame?
+Answer: faculty
+
+Question: Who are students encouraged to contact if they have questions?
+Answer: aec
+
+Question: What type of exams follow the policy indicated on course syllabus?
+Answer: make-up exams
+
+Question: What do you do if you need to reschedule or cancel an exam due to illness or emergency?
+Answer: email aec testing at aec-exams@sjsu.edu
+
+Question: What is the email address to forward the approval message from your instructor to?
+Answer: aec-exams@sjsu.edu.
+
+Question: What will be approved once aec receives instructor approval?
+Answer: rescheduled exam
+
+Question: What type of students must contact their instructor to determine a new date and time?
+Answer: students needing to change or cancel an exam due to illness
+
+Question: Who will make the necessary arrangements with the student?
+Answer: instructor
+
+Question: Who will make the necessary arrangements with the student?
+Answer: faculty will make the necessary arrangements directly with the student.
+
+Question: What should this discussion include asking?
+Answer: whether you can take the exam on a different day
+
+Question: What should you do if a faculty member does not approve of the time/day you wish to schedule your exam with aec?
+Answer: if a faculty member does not approve of the time/day you wish to schedule your accommodated exam with aec, work directly with the faculty member to determine if your professor can provide the accommodations themselves
+
+Question: What is an example of a required testing item?
+Answer: required testing items such as scantrons or essay books.electronics
+
+Question: What do you need to do at home?
+Answer: leave other belongings
+
+Question: Where should other belongings be left?
+Answer: at home or in a safe location
+
+Question: What are you responsible for?
+Answer: you are responsible for your own required testing materials
+
+Question: What do you do after requesting your accommodations in myaec?
+Answer: contact your instructor to discuss your testing accommodations and the administration of course exams.instructors will electronically complete the aec test accommodation form through the link provided on the faculty notification letter.
+
+Question: What should you do before emailing your instructor?
+Answer: confirm with your instructor which exams/quizzes you want to use your prescribed testing accommodations for.
+
+Question: What are the circumstances in which students may request the rescheduling of a culminating activity?
+Answer: circumstances in which students may request the rescheduling of a culminating activity:
+
+Question: Who should students contact if the instructor does not support a later start time?
+Answer: aec testing ataec-exams@sjsu.edu as soon as possible for support.
+
+Question: Are students required to come to campus to take online exams?
+Answer: students are not required to come to campus to take the exam
+
+Question: How long after the first exam will the second exam be scheduled?
+Answer: 15 to 30 min
+
+Question: What happens if the instructor does not approve the time change?
+Answer: aec recommends students work directly with the professor
+
+Question: What is an alternative to rescheduling an exam if the professor doesn't approve the time change?
+Answer: your professor may be able to provide the accommodations themselves on a day and time mutually agreed on.
+
+Question: What is the mac and ipad version of?
+Answer: lockdown browser
+
+Question: What is a browser used to take exams within a learning management system?
+Answer: lockdown browser
+
+Question: What is responsible for making its tools and content accessible?
+Answer: the learning management system
+
+Question: Where can you find support resources for proctoring services?
+Answer: visit inge-campuss main website
+
+Question: What should a student email if they are having trouble using their assistive technology?
+Answer: aec-info@sjsu.edu
+
+Question: Why is it important that students seek support for using assistive technology well in advance of a scheduled final exam?
+Answer: aec will be unable to provide live technical support.
+
+Question: What does the zoom meeting provide students with?
+Answer: real-time access to talk with an aec professional staff member
+
+Question: What is the policy on live technical support?
+Answer: live technical support will not be provided.
+
+Question: What should you do if your time has not been extended?
+Answer: email your instructor and the department chair
+
+Question: Who should extend your time?
+Answer: professor
+
+Question: What happens if the assigned notetaker has notes from the beginning of the semester?
+Answer: the aec will ask the notetaker to upload all the notes that they have when the notetaker is assigned
+
+Question: Who will follow up with any further questions?
+Answer: aec
+
+Question: What does the interpreter do in a classroom?
+Answer: the interpreter will set up a chair in the front of the classroom by the board or projector screen
+
+Question: Who will set up their equipment in an optimal location?
+Answer: the captioner
+
+Question: What type of students usually sit in the first two rows?
+Answer: deaf and hard of hearing
+
+Question: What does the captioner provide the student with at the beginning of the class?
+Answer: an ipad
+
+Question: What do deaf or hard of hearing students often use?
+Answer: sign language
+
+Question: What can a student do that will be read by the captioner?
+Answer: type their question
+
+Question: Students must scan what when checking in or out of cat?
+Answer: tower card
+
+Question: What is located on the top floor of the student union?
+Answer: computer service center
+
+Question: What needs to be backed up and portable?
+Answer: students personal files
+
+Question: What does thecat staff provide technical support for?
+Answer: software/hardware
+
+Question: What constitutes providing a student basic direction in their efforts to learn various software applications?
+Answer: software support
+
+Question: What is not formal training?
+Answer: software support
+
+Question: Where can students find resources to help them learn?
+Answer: thecat tutorials.alternative media formats include braille, e-text (electronic text), and large print
+
+Question: What determines if an alternative format is produced for curriculum requirements?
+Answer: individual student need and the ability to provide the curriculum material in the desired format.
+
+Question: What should students do as soon as classes appear in myaec?
+Answer: students should request alternative formats
+
+Question: What must be submitted via myaec student portal?
+Answer: all requests must be submitted via myaec student portal.late requests will be honored
+
+Question: What are late submissions?
+Answer: requests received after the semester begins.
+
+Question: What willcat staff request from the publisher?
+Answer: digital textbook files
+
+Question: How will the student be notified when the alternative format is ready to download?
+Answer: by their sjsu-issued e-mail address
+
+Question: Who will use we transfer to send all completed files?
+Answer: cat
+
+Question: What is the legal status of this electronic file?
+Answer: copyrighted
+
+Question: Any further reproduction or distribution is what?
+Answer: an infringement of the laws governing the production and distribution of alternative formats.
+
+Question: What should the instructor do?
+Answer: e-mail the electronic copy
+
+Question: If the information is available on a web site, what should students email to cat for production?
+Answer: students should then forward file(s) cat for production.if the information is available on a web site (i.e., new york times, san jose mercury news, etc.), students should email the website address to cat for production.if the material is not available in electronic format
+
+Question: Production time for alternative format requests is determined on what basis?
+Answer: case-by-case basis
+
+Question: Is there a guarantee that a publisher will respond to a request?
+Answer: there are no guarantees that the publisher will respond in a timely manner
+
+Question: Where is san jose state university located?
+Answer: one washington square
+
+Question: What does dhoh stand for?
+Answer: deaf & hard of hearing
+
+Question: What other services are available?
+Answer: notetaking services, an assistive listening device (ald) loaner program and test accommodations
+
+Question: Where is san jose state university?
+Answer: one washington square
+
+Question: What does dhoh stand for?
+Answer: deaf & hard of hearing
+
+Question: What is the bridges equipment referred to as "unit"?
+Answer: an ipad mini & a portfolio case.
+
+Question: What is the e-agreement?
+Answer: deaf & hard of hearing ald
+
+Question: How is eligibility for service determined each semester?
+Answer: case-by-case basis
+
+Question: What is an example of a behavior that may result in suspension of dhoh services?
+Answer: unauthorized recording, dissemination, or publication of academic presentations (including handwritten notes) for a commercial purpose.
+
+Question: What are the deaf & hard of hearing services provided for?
+Answer: san jose state university academic curriculum support
+
+Question: What are notetaking services provided for?
+Answer: san jose state university academic curriculum support
+
+Question: What does the aec not share with anyone?
+Answer: no information contained on peer notes or any recording will be shared with any other individual or posted onto any website/social media site.
+
+Question: What is an example of a behavior that may result in suspension of notetaking services?
+Answer: unauthorized recording, dissemination, or publication of academic presentations (including handwritten notes) for a commercial purpose.
+
+Question: What is essential to a student's ability to successfully complete each course?
+Answer: management of a disability related limitation(s) is essential to a student's ability to successfully complete each course.
+
+Question: What must students review each semester?
+Answer: individual course syllabus
+
+Question: What explain the nature of each assignment?
+Answer: course syllabi
+
+Question: What will happen to assignments turned in after the coursework extension time frame?
+Answer: grading as a late assignment.students must meet with each instructor to discuss the accommodation
+
+Question: When must this conversation take place?
+Answer: as soon as possible following the request, and well before the need to utilize the accommodation arises.
+
+Question: What is essential to a student's ability to successfully complete each course?
+Answer: management of a disability related limitation(s)
+
+Question: What does the accommodation provide?
+Answer: equal access to curriculum
+
+Question: What must students review each semester?
+Answer: individual course syllabus
+
+Question: What explains the level of engagement and participation required for each course?
+Answer: course syllabi
+
+Question: What must students do for each course?
+Answer: meet with each instructor to discuss the accommodation
+
+Question: What happens if a student is disruptive?
+Answer: the aec has the right to suspend use of the cat lab
+
+Question: What must be done in order to reinstate this privilege?
+Answer: aec student must meet with the accessible technology coordinator and aec director/associate director.
+
+Question: What does the aec adhere to?
+Answer: the universitys conduct code
+
+Question: What does the center for accessible technology provide?
+Answer: alternative formats for san jose state university academic curriculum material
+
+Question: On what basis is eligibility for this service determined?
+Answer: case-by-case
+
+Question: Is cat responsible for damage to materials as a result of inhouse conversion?
+Answer: not held responsible for any damage to materials that occur as a result of alternative format conversion.
+
+Question: What is the name of the building that houses the office emails?
+Answer: staff directory administration building(adm)room 110
+
+Question: Where can san jose state university employees find accommodations?
+Answer: employee accommodations resources center
+
+Question: What does the americans with disabilities act require?
+Answer: all special programs, entertainment events, social events, lectures and similar events offered by the university must be held in architecturally accessible locations,
+
+Question: These events must also be what to people with disabilities?
+Answer: programmatically accessible
+
+Question: What are some ways to make your event accessible to all attendees?
+Answer: interpreters for people who are deaf, assistive listening devices or captioned videos for hearing impaired people, large print, e-text, or braille handouts of programs for visually impaired people.
+
+Question: Who should receive a copy of the guidelines?
+Answer: all personnel in your department who plan or sponsor events
+
+Question: What does the department of justice's accessible information exchange require?
+Answer: registration materials and promotional fliers announcing events should state that your event is accessible to people with disabilities
+
+Question: Who can you recruit to meet the needs of participants?
+Answer: service providers
+
+Question: If no advance request is received for what type of interpreter, you may not have to provide this service?
+Answer: sign language
+
+Question: What must you do?
+Answer: provide physical access to your event ensuring that individuals with mobility impairments can attend
+
+Question: What must be stated at the beginning of your event to ensure that individuals with mobility impairments can attend?
+Answer: "this event is wheelchair accessible
+
+Question: Who should individuals contact for sign-language interpreters, real-time captioners, or other accommodations?
+Answer: xxxx department/office
+
+Question: Along with large print, audio, and what other format, all materials should be available by request for visually impaired participants?
+Answer: braille
+
+Question: How should presenters describe visual aids they use?
+Answer: verbally
+
+Question: What may be necessary to get to the meeting room or restroom?
+Answer: escort service
+
+Question: What may happen depending on the site?
+Answer: the participant who is visually impaired may need assistance reading menus or obtaining food
+
+Question: How can deaf callers communicate?
+Answer: deaf callers may communicate their registration and questions through the use of the california relay service
+
+Question: Where can an individual request a sign-language interpreter or real-time captioner?
+Answer: thedeaf & hard of hearing program
+
+Question: Where can I find more information about requesting interpreting or captioning services?
+Answer: the sjsu event process
+
+Question: How long does the sjsu dhoh require advance notice of requests?
+Answer: the sjsu dhoh requires a two week advance notice of all requests.
+
+Question: Where can you find guidance on how to make electronic documents accessible?
+Answer: the center for faculty development's resources for accessibility.
+
+Question: What should you provide if you are posting a picture of a promotional flyer onto a website?
+Answer: alternative text
+
+Question: Where can you find resources on web accessibility?
+Answer: web accessibility initiative.
+
+Question: What do you do if it is not possible to make presentation materials available prior to the event?
+Answer: notify attendees where they can access an accessible electronic version of the presentation after the event.
+
+Question: What are the basic questions to help you plan an accessible aisles and seating?
+Answer: are aisles wide enough to fit passage of a wheel chair
+
+Question: How are people in wheelchairs able to sit with the group?
+Answer: chairs left out of various areas within the seating arrangement
+
+Question: Who can instructors contact for support with remote teaching support?
+Answer: sjsus e-campus
+
+Question: How must students request their accommodations?
+Answer: myaec
+
+Question: How long before an exam will students email instructors?
+Answer: at least 5 days (3 days for summer/winter session) prior to each exam to confirm/remind instructors that accommodations are being requested for each particular exam, including final exams.
+
+Question: What should the student know about course accommodations due to a disability?
+Answer: course accommodations, due to a disability, are determined by the aec, and not the instructor
+
+Question: What does aec do for a student?
+Answer: provide the student with aec's email
+
+Question: When must students submit a test accommodation form on myaec?
+Answer: at least 5 business days (3 business days for summer/winter sessions) prior to the actual exam date.faculty will receive an email from myaec each time a student submits a test accommodation form
+
+Question: The email will contain information about what?
+Answer: day and time
+
+Question: What do you need to do if you approve of their date/time?
+Answer: send the test to the aec
+
+Question: Who must be notified if you do not approve of the date/ time?
+Answer: the aec
+
+Question: Why must you notify the aec if you do not approve of the date/ time?
+Answer: so the students exam can be rescheduled
+
+Question: When will the aec administer the exam as requested by the student?
+Answer: if the aec does not receive notice from the faculty
+
+Question: What must students do with each faculty of record?
+Answer: students must discuss their prescribed testing accommodations
+
+Question: What type of letter should faculty receive from a student?
+Answer: faculty notification letter
+
+Question: What is noted under testing accommodations?
+Answer: testing accommodations
+
+Question: What kind of accommodations can instructors use?
+Answer: extended time
+
+Question: What can i do once i publish a timed quiz?
+Answer: how can i give my students extra time
+
+Question: How long does it take for instructors to set up the prescribed accommodation?
+Answer: 5 business days
+
+Question: Are faculty required to accommodate a student if the student requests the accommodation in an unreasonable time frame?
+Answer: faculty are not required to accommodate a student if the student requests the accommodation in an unreasonable time frame
+
+Question: What is provided to students registered with the aec?
+Answer: notetaking services are provided to students registered with the accessible education center
+
+Question: What is provided to begin to eliminate the competitive disadvantage under which students with disabilities function?
+Answer: notetaking services
+
+Question: Why may aec prescribe one or more of the following as notetaking accommodations?
+Answer: it is impossible to fully compensate for a disability.
+
+Question: Who must be matriculated students and enrolled in the same course student with prescribed accommodation?
+Answer: must be matriculated students and enrolled in the same course student with prescribed accommodation
+
+Question: What is a semester-long service provided through the last class session?
+Answer: notetaking
+
+Question: Who sends the faculty notification letter?
+Answer: myaec.notetaking service
+
+Question: Whose name will the instructor be provided with?
+Answer: notetakers
+
+Question: Who is the notification sent to?
+Answer: the instructor
+
+Question: What happens in a scenario where a course has strict policies against using a laptop in class and the student has an accommodation for typed notes or a policy against students copying lecture material?
+Answer: the instructor will know who is allowed to use their laptops and allow the notetaker to take notes.
+
+Question: Who will contact the student with further instructions?
+Answer: the aec
+
+Question: What is intended for students unable to attend class due to the direct effects of a verified disability?
+Answer: attendance accommodation
+
+Question: Does precedent indicate that faculty can apply reasonable attendance policies?
+Answer: faculty can apply reasonable attendance policies, regardless of disability, but only after engaging in a thorough process to determine the role attendance plays in a given course.
+
+Question: What is intended for students unable to meet the due date of independent, non-group assignments or online discussion board posts due to the direct effects of a verified disability?
+Answer: assignment extension accommodation
+
+Question: What is the extended assignment guide a tool for?
+Answer: facilitating communication between faculty and students prescribed the extended assignment accommodation.
+
+Question: What is a browser used to take exams within a learning management system?
+Answer: lockdown browser
+
+Question: What is responsible for making its tools and content accessible?
+Answer: the learning management system
+
+Question: What is the term for electronic text?
+Answer: e-text
+
+Question: What determines if an alternative format is produced for curriculum requirements?
+Answer: individual student need and the ability to provide the curriculum material in the desired format.
+
+Question: What should students do as soon as classes appear in myaec?
+Answer: students should request alternative formats
+
+Question: What must be submitted via myaec student portal?
+Answer: all requests must be submitted via myaec student portal.late requests will be honored
+
+Question: What do you need to do to submit a late submission?
+Answer: upload a copy of proof of payment,
+
+Question: What will cat personnel notify the student of when the alternative format is complete?
+Answer: book receipts
+
+Question: Who will use we transfer to send all completed files?
+Answer: cat
+
+Question: What is the legal status of this electronic file?
+Answer: copyrighted
+
+Question: Any further reproduction or distribution is what?
+Answer: an infringement of the laws governing the production and distribution of alternative formats.
+
+Question: What should the instructor do?
+Answer: e-mail the electronic copy
+
+Question: If the information is available on a web site, what should students email to cat for production?
+Answer: students should then forward file(s) cat for production.if the information is available on a web site (i.e., new york times, san jose mercury news, etc.), students should email the website address to cat for production.if the material is not available in electronic format
+
+Question: Production time for alternative format requests is determined on what basis?
+Answer: case-by-case basis
+
+Question: Is there a guarantee that a publisher will respond to a request?
+Answer: there are no guarantees that the publisher will respond in a timely manner
+
+Question: What is an example of an alternative media format?
+Answer: e-books
+
+Question: How long does it take for book or files to be produced by cat?
+Answer: 10 working days
+
+Question: The production time could be extended depending on the format of the textbook and the time of what when the request is placed?
+Answer: semester
+
+Question: How many hours does a course last?
+Answer: 48 to 72
+
+Question: What type of request must be submitted in electronic format?
+Answer: braille
+
+Question: Where is san jose state university located?
+Answer: one washington square
+
+Question: What is provided to students registered with the accessible education center?
+Answer: notetaking services
+
+Question: What is provided to begin to eliminate the competitive disadvantage under which students with disabilities function?
+Answer: notetaking services
+
+Question: Is it possible to fully compensate for a disability?
+Answer: it is impossible to fully compensate for a disability.aec may prescribe one or more of the following
+
+Question: What is an educational tool for faculty on the go?
+Answer: fast facts for faculty
+
+Question: Where did the impetus for fast facts for faculty come from?
+Answer: sjsu
+
+Question: What does each fast facts for faculty issue do?
+Answer: each fast facts for faculty issue unfolds information relevant to the dynamic needs of professors in the classroom and the issues identified in both student and faculty focus groups
+
+Question: What is the name of the issue that features the autism spectrum?
+Answer: fast facts for faculty
+
+Question: When was the traumatic brain injury and post traumatic stress disorder issue published?
+Answer: spring 2009
+
+Question: What does the spring 2009 issue focus on?
+Answer: traumatic brain injury (tbi) and post traumatic stress disorder (ptsd)
+
+Question: When was the spring 2006 issue of fast facts for faculty published?
+Answer: 2006
+
+Question: What is the name of the building in which the spring 2006 issue of fast facts for faculty is published?
+Answer: staff directory administration building(adm)room 110
+
+Question: What does aec stand for?
+Answer: the accessible education center
+
+Question: What does the aec support students with?
+Answer: various disabilities/diagnoses
+
+Question: Is this an exhaustive list?
+Answer: not an exhaustive list
+
+Question: What is not considered adequate documentation?
+Answer: documentation generated as a result of a single, remote evaluation solely for the purpose of providing a diagnosis and/or recommending accommodations are not considered adequate documentation.
+
+Question: What type of letter can students provide?
+Answer: aec
+
+Question: How must letters be submitted?
+Answer: on office letterhead from treating professionals office
+
+Question: Who must provide documentation for a student with a disability?
+Answer: documentation must be from a qualified/licensed professional
+
+Question: What must be included in the documentation that will assist the aec in determining the students request?
+Answer: documentation must include the following information
+
+Question: Who typically conducts a psycho educational evaluation?
+Answer: a school psychologist
+
+Question: What are the detailed information available on?
+Answer: learning disability documentation guidelines
+
+Question: What do these often differ from?
+Answer: accommodations and services provided at the post-secondary level
+
+Question: What do these plans often not contain?
+Answer: these plans often do not contain the diagnosis, limitations, severity, duration, and signature of treating professional
+
+Question: What do these plans often lack that qualify a student with a specific learning disability for accommodations and services at the higher education level?
+Answer: evaluation/assessment scores
+
+Question: What is an example of when additional documentation may be needed?
+Answer: if the submitted documentation does not qualify the student as a student with a disability
+
+Question: What is the email address for the medical disability verification form?
+Answer: aec-info@sjsu.edu.
+
+Question: What form does san jose state University have?
+Answer: ophthalmological certification form
+
+Question: What form does san jose state University have?
+Answer: covid verification form
+
+Question: What form does san jose state University have?
+Answer: covid verification form
+
+Question: In the case of a facility, is it usable by a particular individual?
+Answer: readily usable
+
+Question: How is a program or activity designed?
+Answer: presented or provided in such a way that a particular individual can participate, with or without auxiliary aid(s)
+
+Question: electronic resources can be accessible with or without what?
+Answer: assistive computer technology
+
+Question: What is an adjustment to make a program, facility, or resource accessible to a person with a disability?
+Answer: an adjustment to make a program, facility, or resource accessible to a person with a disability.
+
+Question: How are students with limitation needs accommodated?
+Answer: (do-it, glossary of disability-related terms)tables move up and down
+
+Question: What is technology used to assist a person with a disability?
+Answer: technology used to assist a person with a disability, e.g., wheelchair, hand splints, computer-based equipment
+
+Question: What is formed by using a braille cell?
+Answer: system of embossed characters
+
+Question: How many dots are in a simple braille character?
+Answer: one or more
+
+Question: What may use eight dots?
+Answer: braille
+
+Question: What technology allows individuals to write words by speaking them aloud?
+Answer: dictation
+
+Question: What is sometimes called speech-to-text?
+Answer: dictation
+
+Question: What is transcription of?
+Answer: the verbal portion of films or videos displayed to make them accessible to people who are deaf
+
+Question: What can a person who has difficulty using their voice clearly use for communication?
+Answer: words or symbols
+
+Question: What is the difference between a simple picture board and a complex electronic device?
+Answer: complexity
+
+Question: What allows people with disabilities to use computers to complete tasks that they would have difficulty doing without a computer?
+Answer: assistive computing systems
+
+Question: What type of impairment substantially limits one or more major life activities?
+Answer: physical or mental impairment
+
+Question: What is a record of an impairment?
+Answer: record
+
+Question: What is another term for having an impairment?
+Answer: being regarded as having such an impairment
+
+Question: What is discrimination?
+Answer: making a difference in treatment or favor
+
+Question: What kind of software does do-it, glossary of disability-related terms, use?
+Answer: voice recognition
+
+Question: How many words can students type in a minute?
+Answer: less than 20 words
+
+Question: What are students required to sign every semester for accommodations on myaec?
+Answer: e-agreement(s)
+
+Question: What is determined based on a student's prescribed accommodations?
+Answer: e-agreement signatures
+
+Question: What ensures that a student is aware of aec policies?
+Answer: student signatures
+
+Question: What are emailed throughout the semester?
+Answer: faculty notification letters
+
+Question: What is the name of the program for microsoft windows?
+Answer: computer screen reader program
+
+Question: What types of users can read the screen using text-to-speech output?
+Answer: blind and visually impaired
+
+Question: What is a notetaking program that allows students to record lectures and presentations?
+Answer: glean
+
+Question: What can be used while using zoom?
+Answer: glean
+
+Question: How tall is most ordinary print?
+Answer: six to ten points in height
+
+Question: What is the size of large type?
+Answer: fourteen to eighteen points
+
+Question: What is the typical size of a large print book?
+Answer: 8 1/2 x 11
+
+Question: What are some of the functions of the americans with disabilities act of 1990?
+Answer: caring for oneself, performing manual tasks, walking, seeing, hearing, speaking, breathing, learning, working, and participating in community activities
+
+Question: What does a disability affect?
+Answer: movement ranging from gross motor skills such as walking to fine motor movement
+
+Question: What is electronic information?
+Answer: any data which is presented through several formats
+
+Question: What allows students to apply to the aec?
+Answer: the student portal
+
+Question: What allows notetakers to apply online, register their courses, and upload notes for students utilizing notetaking accommodations?
+Answer: the notetaker portal
+
+Question: What is provided for students whose disability impairment(s) prevent them from taking notes during course lectures?
+Answer: notetaking services
+
+Question: Who takes notes during lectures?
+Answer: notetakers
+
+Question: What are some of the terms used in the glossary of disability-related terms?
+Answer: physiological disorder or condition, cosmetic disfigurement, or anatomical loss
+
+Question: What is one of the body systems that can be affected by a physiological disorder or condition?
+Answer: neurological
+
+Question: What type of muscles are involved?
+Answer: musculoskeletal
+
+Question: What are special sense organs?
+Answer: special sense organs
+
+Question: Along with the respiratory organs, what other organs are part of the respiratory system?
+Answer: speech
+
+Question: What type of sport?
+Answer: cardiovascular
+
+Question: What type of
+Answer: reproductive
+
+Question: What type of food?
+Answer: digestive
+
+Question: What is the term for a genito-urinary?
+Answer: genito-urinary
+
+Question: Along with lymphatic, what type of tissue is lymphatic?
+Answer: hemic
+
+Question: What type of skin?
+Answer: skin
+
+Question: What type of hormones are involved?
+Answer: endocrine
+
+Question: Along with mental retardation, organic brain syndrome and emotional or mental illness, what is an example of a mental or psychological disorder?
+Answer: specific learning disabilities
+
+Question: How many students are testing in a distraction reduced environment?
+Answer: one
+
+Question: What is an example of an aecs testing center?
+Answer: aecs testing center there are 5 private rooms in which a maximum of 1 student/per room is used, 4 walls, and a floor to ceiling door that closes.
+
+Question: What type of software is do-it?
+Answer: text-to-speech
+
+Question: What can be spoken aloud?
+Answer: e-text books, websites, and documents
+
+Question: What provides tools that can be used to better strengthen learning?
+Answer: read & write
+
+Question: What can be installed on pc, mac and tablet devices?
+Answer: read & write
+
+Question: Who reads printed material in person or records to audiotape?
+Answer: volunteer or employee of an individual with a disability
+
+Question: What is the purpose of hardware and software?
+Answer: to provide access to printed text for people with visual impairments, mobility impairments, or learning disabilities
+
+Question: What controls a scanner that takes an image of a printed page, converts it to computer text, and then reads the text using a synthesized voice?
+Answer: character recognition software
+
+Question: What does hardware and/or software do on a computer screen?
+Answer: increases the size of characters and text
+
+Question: What is do-it?
+Answer: software used to echo text on a computer screen
+
+Question: What is a distraction reduced environment?
+Answer: a room with more privacy
+
+Question: What is a large space where two students are seated apart with sufficient space?
+Answer: semi private rooms
+
+Question: What type of semi-private spaces are in aec's testing center?
+Answer: cubical style
+
+Question: Who uses manual communication?
+Answer: deaf
+
+Question: What language is organized in a linguistic way?
+Answer: sign language
+
+Question: What is a sign?
+Answer: each individual gesture
+
+Question: How many distinct parts does each sign have?
+Answer: three
+
+Question: What are the three main aspects of a hand?
+Answer: handshape, the position of the hands, and the movement of the hands
+
+Question: What is the most commonly used sign language in the United States?
+Answer: american sign language
+
+Question: What type of people speak different sign languages?
+Answer: deaf
+
+Question: What helps students capture by recording the lecture, annotate by color coding recordings and adding slides?
+Answer: sonocent
+
+Question: What devices can sonocent be installed on?
+Answer: pc, mac, ios and android
+
+Question: Along with hyperactivity and emotional instability, what are some common limitations of a person with a learning disability?
+Answer: visual and/or auditory perception difficulties
+
+Question: What is the range of problems in oral motor function?
+Answer: simple sound substitutions to the inability to understand or use language
+
+Question: What is do-it?
+Answer: controlling a computer and creating text by dictation
+
+Question: What is combined with a microphone?
+Answer: speech input software
+
+Question: What is a do-it?
+Answer: a device which enables someone who has a speech or hearing impairment to use a telephone
+
+Question: What can be used with any telephone?
+Answer: tdd/ttys
+
+Question: What type of injuries can cause impairments in one or more areas?
+Answer: open and closed head injuries
+
+Question: What is the most important?
+Answer: language
+
+Question: What type of reasoning is needed?
+Answer: reasoning
+
+Question: What type of thinking is it?
+Answer: abstract
+
+Question: What type of judgment is needed?
+Answer: judgment
+
+Question: What type of activity is needed to solve a problem?
+Answer: problem-solving
+
+Question: What kinds of abilities are there?
+Answer: sensory, perceptual, and motor
+
+Question: What type of behavior is it?
+Answer: psychosocial
+
+Question: What type of functions does the body have?
+Answer: physical
+
+Question: What type of processing takes place?
+Answer: information
+
+Question: What is the most important aspect of a speech?
+Answer: speech
+
+Question: What types of brain injuries are not covered by the term traumatic brain injury?
+Answer: congenital, degenerative, or induced by birth trauma
+
+Question: What is done so that they are useable by the widest range of users possible?
+Answer: designing programs, services, tools, and facilities
+
+Question: What makes learning achievable for students with a wide variety of abilities and disabilities?
+Answer: design of instructional materials and activities
+
+Question: What is an example of a cause of complete or partial loss of ability to see?
+Answer: congenital defects
+
+Question: What is legal blindness defined as?
+Answer: visual acuity of 20/200 or less in the better eye
+
+Question: Where is san jose state university located?
+Answer: one washington square
+
+Question: What tests are taken by individuals applying to graduate programs?
+Answer: the gre general test and gre subject tests
+
+Question: How do students request testing accommodations?
+Answer: students requesting testing accommodation must complete the gre application in addition to thegre bulletin supplement for test takers with disabilities or health-related needs
+
+Question: Where can a student submit a request for standardized exams?
+Answer: aec'sgre part iii docusign.a copy of the completed form will be emailed to the student to the email provided on thegre part iii docusign.
+
+Question: What must be attached to be completed by aec?
+Answer: application pages/instructions
+
+Question: What kind of requests will not be processed?
+Answer: requests without required application pages/instructions
+
+Question: How long does it take for requests to be processed?
+Answer: up to 10 business days
+
+Question: Who does the aec collaborate with?
+Answer: university housing
+
+Question: Who must students register with to request housing accommodations?
+Answer: aec
+
+Question: Are students required to submit documentation verifying their disability?
+Answer: students are required to submit documentation verifying their disability
+
+Question: Who needs to meet the housing application deadline?
+Answer: all sjsu students applying to live in university housing
+
+Question: What will be considered for students who apply after the housing deadline?
+Answer: accommodations will be considered based on housing availability for students who apply after the housing deadline.
+
+Question: When will the faculty process for administering accommodated exams?
+Answer: spring 2023
+
+Question: What does the aec do to ensure that all communication sent to students is held secured and confidential?
+Answer: all email communication sent to students from the aec will be sent to students' sjsu-issued email address
+
+Question: Who created a tutorial on how to forward messages from student sjsu-issued email accounts to a preferred email account?
+Answer: aec
+
+Question: What has aec created a tutorial on?
+Answer: how to forward messages from student sjsu-issued email accounts to a preferred email account
+
+Question: What is the aec providing to you and the student in the event the elevator is non-functioning?
+Answer: after-hours support
+
+Question: What does fd&o stand for?
+Answer: facilities developments and operations
+
+Question: What is kone's service?
+Answer: elevator maintenance service
+
+Question: How long does kone have to arrive for a call back?
+Answer: 1 hour
+
+Question: How many sets of faqs has the accessible education center developed?
+Answer: three sets of faqs
+
+Question: What does aec stand for?
+Answer: the accessible education center
+
+Question: What is their goal?
+Answer: support students with special dietary needs
+
+Question: Students who require accommodation beyond the options and support offered by what dining services must register with aec by completing our online application?
+Answer: spartan eats
+
+Question: What are students required to submit documentation verifying their disability?
+Answer: students are required to submit documentation verifying their disability.aecs disability documentation guidelines site provides details and verification forms for treating professional to complete.
+
+Question: Who recognizes that service animals help people with disabilities participate in everyday life?
+Answer: san jose state university
+
+Question: When may students be asked is that a service animal for a disability?
+Answer: if a service animals role is not apparent by observation
+
+Question: Are students required to register with aec to have a service animal on campus?
+Answer: not required to register with aec to have a service animal
+
+Question: What does registration allow aec to do?
+Answer: aec to provide notification to campus community
+
+Question: What do students need to register for?
+Answer: university housing.students must register with aec
+
+Question: What form must students view to request an esa?
+Answer: aecs emotional support verification form
+
+Question: What is zoo nosis?
+Answer: issues related to zoo nosis
+
+Question: What type of field is the field in which the data is stored?
+Answer: sterile
+
+Question: What do some websites sell for emotional support animals?
+Answer: certificates, registrations, and licensing documents
+
+Question: What is not considered adequate documentation?
+Answer: form letters that do not provide differentiating information about the students personal disability experience, or letters that are generated as a result of a single, remote evaluation solely for the purpose of recommending an esa
+
+Question: What university provides reasonable housing accommodations to student residents with disabilities?
+Answer: san jos state university
+
+Question: Why do we provide reasonable modifications to our housing policies, facilities, and services?
+Answer: provide as many students as possible the opportunity to live in on-campus housing.
+
+Question: What form does the aec require?
+Answer: supplemental housing verification form
+
+Question: What will the housing accommodation notification letter state?
+Answer: prescribed housing accommodations
+
+Question: Where can additional information on sjsus housing accommodations process be found?
+Answer: san jose state universitys student housing accommodation policy
+
+Question: Where is san jose state university located?
+Answer: one washington square
+
+Question: What does the aec do on a case-by-case basis?
+Answer: the accessible education center (aec) determines and prescribes accommodations, services, and auxiliary aids
+
+Question: Where is san jose state university located?
+Answer: one washington square
+
+Question: What is provided to students registered with the accessible education center?
+Answer: notetaking services
+
+Question: What is designed to reduce disability-related barriers to a student's ability to take notes during class?
+Answer: notetaking services
+
+Question: What are students responsible for using to learn the material?
+Answer: students are still responsible for using academic skills and management strategies
+
+Question: What is a fellow classmate who volunteers to provide a copy of their class notes?
+Answer: peer notetaker
+
+Question: What type of service is anonymous and confidential?
+Answer: peer notetaking
+
+Question: How long does it take for notes to be uploaded into myaec?
+Answer: 48 hours after the end of class
+
+Question: Where is san jose state university?
+Answer: one washington square
+
+Question: How is registration done at the aec?
+Answer: online
+
+Question: What kind of overview does the flowchart provide?
+Answer: step-by-step
+
+Question: What kind of overview does the flowchart provide?
+Answer: step-by-step
+
+Question: For what type of information, please read the information below?
+Answer: more detailed
+
+Question: What is the email address for aec?
+Answer: aec-info@sjsu.edu.
+
+Question: How long does it take for the aecs to review applications?
+Answer: 7-10 business days
+
+Question: What will aec use to communicate with applicants?
+Answer: the email provided in the application
+
+Question: What should you check regularly?
+Answer: both your inbox and the junk/spam folder
+
+Question: What should a student email if they have not received a message from aec?
+Answer: aec-info@sjsu.edu.
+
+Question: To whom may students email documentation?
+Answer: aec-info@sjsu.edu.
+
+Question: What devices may students use to scan and create pdfs of documents?
+Answer: apple/mac devices
+
+Question: What devices may students use to scan and create pdfs of documents?
+Answer: apple/mac devices
+
+Question: What happens during busy periods?
+Answer: processing time may be longer during busy periods.
+
+Question: How can students contact aec with questions?
+Answer: students can contact aec with any questions they have about their documentation.
+
+Question: Who has the opportunity to discuss eligibility and reasonable and appropriate accommodation?
+Answer: student and aec counselor
+
+Question: What must students do in order to complete the aec registration process?
+Answer: students must attend their scheduled intake appointment with an aec counselor
+
+Question: What is the email address for the accessible education center at san jose state university?
+Answer: aec-info@sjsu.edu.office emails staff directory administration building(adm)room 110
+
+Question: Who collaborates with the testing office to administer standardized testing?
+Answer: accessible education center (aec) collaborates with the testing office to administer standardized testing to students register with the aec who have a documented disability.
+
+Question: What does aecs administer for students with prescribed testing accommodations?
+Answer: accommodated course exams
+
+Question: What do we support as needed?
+Answer: sjsu standardized testing
+
+Question: What provides step-by-step instructions and tutorials for using testing accommodations?
+Answer: aecs testing faqs
+
+Question: Where is san jose state university?
+Answer: one washington square
+
+Question: What university is san jose state university?
+Answer: san josstate university
+
+Question: What are some of the differences between faculty and students with disabilities?
+Answer: the registration process for disability services, the accommodations students receive, and the level of involvement from family
+
+Question: All of these changes can be what?
+Answer: overwhelming
+
+Question: What does aec stand for?
+Answer: the accessible education center
+
+Question: What do these laws guarantee?
+Answer: equal access and opportunity to an education without fundamentally altering the essential requirements and expectations of a class
+
+Question: What do these laws require?
+Answer: student assume responsibility for providing documentation of their disability, identify needed accommodations, and make timely requests for support
+
+Question: What can be difficult for students with disabilities?
+Answer: transition from high school or community college to sjsu
+
+Question: How will students be treated when transitioning from high school to sjsu?
+Answer: adults
+
+Question: What is the university center responsible for assisting students with disabilities to determine and provide reasonable and appropriate academic accommodations?
+Answer: sjsu.the aec
+
+Question: Who is encouraged to register with the aec?
+Answer: students with disabilities
+
+Question: Who must undergraduate students submit information to for admissions review due to disability related circumstances?
+Answer: the accessible education center (aec)
+
+Question: All documents submitted for review must include what number?
+Answer: students sjsu id
+
+Question: What is a document called?
+Answer: disability documentation
+
+Question: How many letters of recommendation are required?
+Answer: personal statement3.two letters of recommendation
+
+Question: Who reviews all submitted documentation with respect to disability consideration and admissions review?
+Answer: the accessible education centers
+
+Question: Along with the admissions appeal committee, to whom will the case team's recommendation be submitted?
+Answer: director of enrollment services
+
+Question: Who will notify the student of the decision?
+Answer: enrolment services
+
+Question: When is it best to meet to discuss disability or accommodations related issues?
+Answer: during the professors office hours
+
+Question: Where is san jose state university?
+Answer: one washington square
+
+Question: How is the accessible education center committed to redefining ability for students with disabilities?
+Answer: providing comprehensive services in support of the educational development and success of students with disabilities in a student-centered and professional environment.
+
+Question: Who will be the campus authority pertaining to disability issues and resources for students with disabilities?
+Answer: the accessible education center
+
+Question: What will the accessible education center promote by embracing universal design concepts?
+Answer: independence and academic excellence
+
+Question: What will the accessible education center be known for?
+Answer: promoting disability as an essential element embedded in the fabric of diversity
+
+Question: Where is the accessible education center located?
+Answer: staff directory administration building(adm)room 110
+
+Question: Where is san jose state university located?
+Answer: one washington square
+
+Question: Where is san jose state university located?
+Answer: one washington square
+
+Question: What is the vision of the accessible education center at san jose state university?
+Answer: ability redefined
+
+Question: To do what, click the link below?
+Answer: to apply
+
+Question: What is the aec at sjsu?
+Answer: one of the oldest programs serving students with disabilities in the state of california
+
+Question: Where is san jose state university?
+Answer: one washington square
+
+Question: What is provided through academicsuccess centers?
+Answer: undergraduate student advising
+
+Question: What type of advising does the success center connect students to?
+Answer: ge
+
+Question: Who should students with declared majors go through for all academic advising needs?
+Answer: their college's success center
+
+Question: Who is responsible for each specific major/program?
+Answer: faculty and staff
+
+Question: What does uasc stand for?
+Answer: undergraduate advising & success center
+
+Question: What can you do in the following ways?
+Answer: contact them
+
+Question: Along with ge requirements, what tool can be found at this link?
+Answer: major requirement roadmaps
+
+Question: What is the hours of operation on fridays at san jose state university?
+Answer: 9 am - 4 pm
+
+Question: Who provides furniture accommodation for students with disabilities?
+Answer: aec
+
+Question: What should students do if they are requesting furniture accommodations for the first time?
+Answer: students requesting furniture accommodations for the first time, should contact the aec to schedule a meeting with a with an aec counselor.
+
+Question: What does cat stand for?
+Answer: the center for accessible technology
+
+Question: Who is the center available to?
+Answer: students of san jose state university who are registered with the aec.
+
+Question: What does cat staff provide to students with disabilities?
+Answer: assistive technology training and alternative media
+
+Question: What do students referred for training learn to do?
+Answer: students referred for training learn to utilize assistive technology
+
+Question: Who determines eligibility for services?
+Answer: aec counselor
+
+Question: What is the term for electronic text?
+Answer: e-text
+
+Question: What determines the alternative format produced for curriculum requirements?
+Answer: individual student need and the ability to provide the curriculum material in the desired format.
+
+Question: What does dhoh stand for?
+Answer: deaf & hard of hearing
+
+Question: What may students qualify for in the loaner program?
+Answer: notetaking services and/or the assistive listening device
+
+Question: What will not be required as of monday, january 9?
+Answer: masks
+
+Question: What will continue to be required at the student wellness center and spartan food pantry?
+Answer: masks
+
+Question: When is the last day of the week?
+Answer: 7:00 p.m.friday
+
+Question: What is the number of the alternative testing center - industrial studies?
+Answer: 223
+
+Question: What videos do you need to see to get a feel for the campus?
+Answer: ourtour videos
+
+Question: When is the first day of the semester at sjsu?
+Answer: janurary 25, 2023
+
+Question: Who will make arrangements according to aec policies?
+Answer: instructors
+
+Question: What are the hours of operation of the accessible education center?
+Answer: 9 am - 5 pm
+
+Question: Who should schedule an appointment to talk with an aec professional staff member?
+Answer: faculty, staff or students with questions, concerns or disagreements regarding a prescribed accommodation(s)
+
+Question: What type of accommodations will be handled through the individual department's grievance procedures?
+Answer: non-academic/non-instructional accommodations (e.g., parking, housing) will be handled through the individual department's grievance procedures
+
+Question: Who are students encouraged to work with to assist them through the grievance process?
+Answer: aec counselor
+
+Question: What is required for a degree?
+Answer: depth of knowledge
+
+Question: What are the implications of a scientific finding?
+Answer: social or economic implications
+
+Question: What is the collaborative process by which a student and aec professional counselor engage in discussion, review, and/or implementation of reasonable and appropriate academic accommodations?
+Answer: the collaborative process by which a student and aec professional counselor engage in discussion, review, and/or implementation of reasonable and appropriate academic accommodations
+
+Question: What changes each academic semester?
+Answer: the students disability and curriculum requirements
+
+Question: What do you need to see for statistical findings?
+Answer: aecs annual learning outcome reports
+
+Question: What did i discover during my student assistant time at ucsc?
+Answer: student affairs
+
+Question: What was what brought me the most joy?
+Answer: higher education
+
+Question: What did i do while a student?
+Answer: i joined the then disability resource center staff
+
+Question: Who were my first role models?
+Answer: my parents
+
+Question: Why did they have so little time?
+Answer: they did so much
+
+Question: How did I manage to always be when it counted?
+Answer: present
+
+Question: What qualities do i apply in my own life?
+Answer: their ability to multi-task and be creative problem solvers
+
+Question: Who was most recently my supervisor?
+Answer: my previous supervisor
+
+Question: What did she have that made her stand out from other students?
+Answer: strong work ethic
+
+Question: How do i stay relevant in a field that is constantly changing?
+Answer: i model my professional development methods around her recommendations
+
+Question: Take advantage of any opportunity to do what?
+Answer: intern
+
+Question: How will you know if disability support services is a good fit for you?
+Answer: this will give you first-hand experience to determine if disability support services is a good fit.
+
+Question: Where is san jose state university located?
+Answer: one washington square
+
+Question: What is prescribed accommodations, services, and/or auxiliary aids?
+Answer: aec information
+
+Question: What is the admissions process like?
+Answer: all students must apply through the same admissions process and meet the admissions criteria
+
+Question: Where will you find information about the eligibility criteria for admission to sjsu?
+Answer: admissions webpage
+
+Question: Who can appeal denied admission to san jose state?
+Answer: students denied admission who believe they were unable to meet admissions criteria due to a disability
+
+Question: When should students register with the aec?
+Answer: after submitting their intent to enroll
+
+Question: Where can you apply for the aecs?
+Answer: the aecs registration page
+
+Question: What kind of professional can use the templates?
+Answer: treating professional
+
+Question: What is the email address to submit documentation to if you are unable to upload it when applying?
+Answer: aec-info@sjsu.edu.once your documentation is reviewed
+
+Question: Where can you find the aec guidelines for disability documentation?
+Answer: [pdf]aec guidelines for disability documentation are provided on the website
+
+Question: What does the documentation submitted to the aec verify?
+Answer: the students disability and supports requests for accommodations and services.
+
+Question: Why does the aec ask students to review the interactive preintake information pdf in its entirety?
+Answer: the information presented will not be discussed in detail or repeated during the intake
+
+Question: What is a difference in the plans?
+Answer: these plans do not always contain the evaluation/assessment scores
+
+Question: What will help aec counselors determine reasonable and appropriate accommodations?
+Answer: the more current and complete your documentation
+
+Question: What grades should documentation be uploaded when completing the aecs online registration?
+Answer: k-12
+
+Question: To whom may students email their documentation if they are unable to upload it at the time of completing the aec application?
+Answer: aec-info@sjsu.edu.students are encouraged to submit the documentation they have for review
+
+Question: What may be established while additional documentation is obtained?
+Answer: provisional accommodations
+
+Question: Who can work with the student and treating professional to clarify what information is needed?
+Answer: the aec counselor
+
+Question: What must you do as an aec student?
+Answer: sign a release of information
+
+Question: Does aec disclose information to third parties?
+Answer: unless aec has the students written and signed authorization, aec will not disclose information to faculty, staff, parents, or other third parties
+
+Question: What do students utilizing aec services need to disclose their aec registration if they will be utilizing course accommodations?
+Answer: students utilizing aec services will need to disclose their aec registration if they will be utilizing course accommodations.
+
+Question: Who will students meet with to discuss their documentation and implementation of reasonable and appropriate academic accommodations?
+Answer: aec professional counselor
+
+Question: What is the goal of the aec?
+Answer: to identify appropriate accommodations and/or auxiliary aids that can be implemented to create equal access
+
+Question: What can occur at any time during a student's enrollment at sjsu?
+Answer: registration with aec
+
+Question: How will academic accommodations be approved?
+Answer: on a case by case basis
+
+Question: On what basis can accommodations be approved by the aec?
+Answer: provisional, temporary and/permanent
+
+Question: Who do students need to meet with to discuss their request for new accommodation?
+Answer: aec counselor
+
+Question: What is determined on a case by case basis?
+Answer: priority registration
+
+Question: What does the university offer to all students through campus resources?
+Answer: tutoring
+
+Question: Are aec students provided consideration for additional support time?
+Answer: aec students utilizing these campus resources are provided consideration for additional support time.
+
+Question: What type of placards are required to park in sjsu disabled parking stalls?
+Answer: dmv placards (permanent and temporary) are authorized to park in sjsu disabled parking stalls.accessible parking spaces are provided throughout the san jose state university
+
+Question: What is required when using these spaces?
+Answer: sjsu parking permits
+
+Question: What can be located using the sjsu campus map?
+Answer: accessible parking spaces
+
+Question: How does sjsu handle student grievances?
+Answer: students should make a reasonable, good-faith attempt to resolve the complaint on an informal basis
+
+Question: Who will students need to speak to to determine eligibility to submit a similar petition?
+Answer: an aec counselor
+
+Question: What may students do in rare instances for disability-related reasons?
+Answer: students may petition to have a graduation requirement substituted with appropriate coursework
+
+Question: What must sjsu do to offer the wst?
+Answer: temporarily suspend
+
+Question: What will sjsu temporarily offer for students to help them select their 100a or 100w course for summer and fall 2020?
+Answer: sjsu will temporarily offer a directed self placement (dsp) alternative for students to help them select their 100a or 100w course for summer and fall 2020.
+
+Question: What is the first course you can register for after completing the dsp?
+Answer: 100a
+
+Question: What is the term for electronic text?
+Answer: e-text
+
+Question: What determines if an alternative format is produced for curriculum requirements?
+Answer: individual student need and the ability to provide the curriculum material in the desired format.
+
+Question: What should students do as soon as classes appear in myaec?
+Answer: students should request alternative formats
+
+Question: What must be submitted via myaec student portal?
+Answer: all requests must be submitted via myaec student portal.late requests will be honored
+
+Question: What is the last step in late submissions?
+Answer: upload a copy of proof of payment,
+
+Question: How will book receiptscat personnel notify the student when the alternative format is complete?
+Answer: by their sjsu-issued e-mail address
+
+Question: What will cat use to send all completed files?
+Answer: wetransfer
+
+Question: What is the legal status of this electronic file?
+Answer: copyrighted
+
+Question: Any further reproduction or distribution is what?
+Answer: an infringement of the laws governing the production and distribution of alternative formats.
+
+Question: What should the instructor do?
+Answer: e-mail the electronic copy
+
+Question: If the information is available on a web site, what should students email to cat for production?
+Answer: students should then forward file(s) cat for production.if the information is available on a web site (i.e., new york times, san jose mercury news, etc.), students should email the website address to cat for production.if the material is not available in electronic format
+
+Question: Production time for alternative format requests is determined on what basis?
+Answer: case-by-case basis
+
+Question: Is there a guarantee that a publisher will respond to a request?
+Answer: there are no guarantees that the publisher will respond in a timely manner
+
+Question: What is an example of an alternative media format?
+Answer: e-books
+
+Question: How long does it take for book or files to be produced by cat?
+Answer: 10 working days
+
+Question: The production time could be extended depending on the format of the textbook and the time of what when the request is placed?
+Answer: semester
+
+Question: How many hours does a course last?
+Answer: 48 to 72
+
+Question: What type of request must be submitted in electronic format?
+Answer: braille
+
+Question: Who can you contact to have your request evaluated for an estimation of completion time?
+Answer: gabriel.morales@sjsu.edu
+
+Question: What is determined on a case-by-case basis?
+Answer: accommodations and services
+
+Question: Who is in the beginning phase of developing a program for students diagnosed with autism?
+Answer: aec
+
+Question: How many questions are on the bottom of the aec application?
+Answer: 3
+
+Question: What do students have the opportunity to provide after question #1?
+Answer: additional information
+
+Question: Where is san jose state university located?
+Answer: one washington square
+
+Question: What type of building will sjsu be building on april 1, 2019?
+Answer: interdisciplinary science
+
+Question: What will happen to the areas shown on the map?
+Answer: fenced and marked as construction zone with no public access
+
+Question: What is the name of the center that offers a poster series called "distinguished people with disabilities"?
+Answer: the accessible education center
+
+Question: How many posters are in the series?
+Answer: 14
+
+Question: How many posters are available?
+Answer: 12 of the 14 posters are available.the aec will send aset of posters for contributions to the scholarship fund
+
+Question: How long does it take for the posters to arrive?
+Answer: two to three weeks
+
+Question: What does aec do with the money it receives?
+Answer: award scholarships
+
+Question: Where is san jose state university located?
+Answer: one washington square
+
+Question: Congratulations on what?
+Answer: youre having a baby
+
+Question: What do some students experience with their pregnancy?
+Answer: limitations or complications
+
+Question: Is pregnancy considered a disability under the ada?
+Answer: pregnancy alone is not considered a disability under the ada (because it is not an impairment), but a student who is pregnant can be protected under the ada in some situations.
+
+Question: Are students required to submit documentation confirming their pregnancy?
+Answer: students are required to submit documentation confirming their pregnancy
+
+Question: How must documentation be submitted?
+Answer: on office letterhead from treating professionals office
+
+Question: What documentation must be from a qualified/licensed professional, unrelated to the student, and whose credentials permit the evaluation of the limitations?
+Answer: documentation must be from a qualified/licensed professional, who is unrelated to the student, and whose credentials permit the evaluation of the limitations
+
+Question: What happens once the aec application and appropriate disability documentation has been provided?
+Answer: aec will message the student to the email provided in the application with next steps and a link to schedule the intake appointment.
+
+Question: Who provides accessible software to students registered with the accessible education center?
+Answer: the center for accessible technology
+
+Question: What is the accessible software used to support?
+Answer: students in the classroom and on tests.students prescribed accessible software for curriculum material must schedule a virtual appointment with a cat staff member
+
+Question: How can students schedule an appointment?
+Answer: students can schedule an appointment by visiting the appointment page.
+
+Question: Where can you find more tutorials?
+Answer: accessible education center-sjsu youtube
+
+Question: What is a text-to-speech software?
+Answer: read & write
+
+Question: What can be spoken aloud?
+Answer: e-text books, websites, and documents
+
+Question: What can be used to strengthen learning?
+Answer: tools
+
+Question: What are some of the tools that these tools include?
+Answer: highlighting text, spell check, screen tint,
+
+Question: What can be installed on pc, mac and tablet devices?
+Answer: read & write
+
+Question: What type of voices can you convert any text or document into?
+Answer: natural-sounding
+
+Question: What does it support?
+Answer: pdf, text documents, and more
+
+Question: Who offers training on mac and ios hardware and software?
+Answer: the center for accessible technology
+
+Question: What browser can glean be accessed on?
+Answer: google chrome
+
+Question: What app can be downloaded to a mobile device?
+Answer: glean
+
+Question: What is glean for education designed to support and improve for students of all abilities?
+Answer: note-taking skills
+
+Question: Where is san jose state university?
+Answer: one washington square
+
+Question: How will the accessible education center operate in spring 2023?
+Answer: the accessible education center will continue to operate in a hybrid mode
+
+Question: What is the email address for the accessible education center at san jose state university?
+Answer: aec-info@sjsu.edu.office emails staff directory administration building(adm)room 110
+
+Question: Where is san jose state university located?
+Answer: one washington square
+
+Question: What was set forth in section 504 of the federal rehabilitation act of 1973?
+Answer: the fundamental principles of non discrimination and accommodation in academic programs
+
+Question: What act was enacted in 1990?
+Answer: americans with disabilities act
+
+Question: How many c.f.r.'s are there?
+Answer: 34
+
+Question: What is the part number of the 28c.f.r.?
+Answer: 104
+
+Question: What is the part number of part 97-03?
+Answer: 35
+
+Question: What do the laws establish?
+Answer: students with disabilities may not, on the basis of their disabilities, be excluded from participation in, be denied the benefits of, or otherwise be subjected to discrimination
+
+Question: What does the university have to do with regards to its academic requirements?
+Answer: the university must make sure that its academic requirements do not discriminate
+
+Question: What affects students in different ways?
+Answer: disabilities
+
+Question: What determines what faculty must do as it pertains to equal access to their curriculum?
+Answer: an individualized analysis of each student's need
+
+Question: What does aec stand for?
+Answer: the accessible education center
+
+Question: What is the fundamental responsibility of faculty?
+Answer: to assure equal opportunity in their classes for all students with disabilities
+
+Question: What is recommended?
+Answer: faculty include a statement on their syllabus regarding disability disclosure, accommodation request and evacuation
+
+Question: What does teas stand for?
+Answer: the test of essential academic skills
+
+Question: Where is san jose state university located?
+Answer: one washington square
+
+Question: What is the hours of the test center?
+Answer: 9 am - 5 pm
+
+Question: What is the faculty guide to final exams for spring 2023?
+Answer: faculty process for testing accommodations
+
+Question: Faculty guide to what spring 2023?
+Answer: final exams
+
+Question: What are the hours of the testing center?
+Answer: 9 am - 5 pm
+
+Question: What are researchers discovering educational methods and materials that are flexible and powerful enough to help all students?
+Answer: helping those who are marginalized in traditional classrooms
+
+Question: What is the source for this information?
+Answer: (source:www.cast.org)
+
+Question: What are faculty members interested in learning how to adopt into their curriculum?
+Answer: methods of universal design
+
+Question: What are two mechanisms to encourage and enhance students learning?
+Answer: assistive technology and alternative media
+
+Question: What do you need to see for more information?
+Answer: articles and links
+
+Question: Where is beverly sandock an associate director of salt?
+Answer: university of arizona
+
+Question: What does this article describe?
+Answer: how to organize courses and present information
+
+Question: Who is the author of universal design education?
+Answer: emma
+
+Question: What is the name of the center for accessible technology?
+Answer: legg center for accessible technology
+
+Question: What is the largest adaptive computing center in the country?
+Answer: library room 230
+
+Question: Who can use the center?
+Answer: students of san jose state university
+
+Question: How many accessible stations does the center have?
+Answer: approximately sixty
+
+Question: Who does the cat support?
+Answer: faculty members
+
+Question: What does the cat supply to students, staff and faculty with a verified print disability?
+Answer: curriculum based instructional materials in alternate formats
+
+Question: What happens to printed or typed materials?
+Answer: converted to digital format
+
+Question: What are the types of format translations that may be provided?
+Answer: electronic text, braille, graphics embossing, large print, or audio output
+
+Question: What is determined on a case-by-case basis?
+Answer: the type of format provided to the student, staff or faculty member with a disability
+
+Question: What does the cat produce for the campus community?
+Answer: alternative formats
+
+Question: How can faculty learn more about accessible technology and alternative media?
+Answer: 808-2123.we encourage faculty to explore the articles listed below, as well as aec'saccessible software and apps page
+
+Question: Where is san jose state university located?
+Answer: one washington square
+
+Question: How to record online class on an apple computer supported browsers?
+Answer: record online class on a pc computer
+
+Question: Along with communicating effectively with students with disabilities, what information is provided in this guide?
+Answer: arranging academic accommodations
+
+Question: Who is here to support you?
+Answer: the accessible education center'sstaff
+
+Question: Who can you contact with any questions or concerns you may have?
+Answer: anaec counselor
+
+Question: What type of setting allows for more time to discuss matters in a private, comfortable environment?
+Answer: one on one
+
+Question: What is one way to avoid making assumptions about a student's capabilities?
+Answer: avoid making assumptions about a students capabilities
+
+Question: Who will make you aware if they require assistance or require a different mode of communication?
+Answer: students
+
+Question: Where can one find more information about the United States?
+Answer: theu.s
+
+Question: What is the name of the publication that contains information about working with students with disabilities?
+Answer: department of labor's disability etiquette publication
+
+Question: What applies to information gained through contacts with the aec?
+Answer: confidentiality protection
+
+Question: Are students required to disclose the nature of their disability?
+Answer: students are not required to disclose the nature of their disability or to submit copies of disability documentation to other university departments or personnel after registering with the aec.
+
+Question: What will the following tips assist you in doing on behalf of your students?
+Answer: partnering with the aec to provide test accommodations
+
+Question: What will aec recruit via course roster?
+Answer: notetaker
+
+Question: Who will receive a confirmation email once a notetaker is assigned?
+Answer: faculty
+
+Question: Where can you find more information about notetaking?
+Answer: faculty notetaking information page
+
+Question: Where is san jose state university?
+Answer: one washington square
+
+Question: What type of course satisfies the gwar at sjsu?
+Answer: 100w
+
+Question: What is required of all undergraduate and graduate students prior to enrollment in 100w courses?
+Answer: a passing score on the wst is required of all undergraduate and graduate students prior to enrollment in 100w courses.
+
+Question: Where do you go to register for the wst?
+Answer: student services center
+
+Question: How much does the wst cost?
+Answer: $38
+
+Question: What must aec students do before meeting with a aec counselor?
+Answer: aec students must pay for the wst
+
+Question: Where is payment handled?
+Answer: student service center
+
+Question: What is now available atcashnet?
+Answer: online fee payment by credit card
+
+Question: What must students provide to the aec counselor to set up accommodations?
+Answer: a copy of their receipt
+
+Question: It will specify the what of the wst?
+Answer: location and time
+
+Question: What are students required to bring to the test?
+Answer: pens, and a dictionary
+
+Question: What must be approved by a aec counselor?
+Answer: other accommodations
+
+Question: On what day of the week is parking available in the garages?
+Answer: saturdays
+
+
